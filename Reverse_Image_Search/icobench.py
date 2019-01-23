@@ -11,7 +11,7 @@ os.chdir('/home/troy/Desktop/Senior-Design/Reverse_Image_Search')
 
 base_url = 'https://icobench.com'
 
-df = pd.read_csv('whitepapers_original.csv')
+df = pd.read_csv('whitepapers_original1.csv')
 
 os.chdir('/home/troy/Desktop/Senior-Design/Reverse_Image_Search/data')
 
