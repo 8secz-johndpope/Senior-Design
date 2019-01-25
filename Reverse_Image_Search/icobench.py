@@ -6,14 +6,14 @@ import shutil
 import time
 from urllib.request import urlopen, Request
 
-os.chdir('/home/troy/Desktop/Senior-Design/Reverse_Image_Search')
+os.chdir('/home/troy/Documents/Senior-Design/Reverse_Image_Search')
 #driver = webdriver.Firefox(executable_path='/home/troy/Desktop/geckodriver')
 
 base_url = 'https://icobench.com'
 
-df = pd.read_csv('whitepapers_original1.csv')
+df = pd.read_csv('whitepapers_original.csv')
 
-os.chdir('/home/troy/Desktop/Senior-Design/Reverse_Image_Search/data')
+os.chdir('/home/troy/Documents/Senior-Design/Reverse_Image_Search/data')
 
 last_project = ''
 with open('last_ico.txt', 'r') as f:
@@ -24,7 +24,7 @@ with open('last_ico.txt', 'r') as f:
 at_current = False
 for index, row in df.iterrows():
     project_name = row['ICO_Name'].replace(' ', '_')
-    if project_name == last_project:
+    if project_name == last_project or last_project == '':
         at_current = True
     if not at_current:
         continue
@@ -39,10 +39,15 @@ for index, row in df.iterrows():
 
     # the home url of the ico
     req = Request(project_url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'})
-    html = urlopen(req).read()
+    try:
+        html = urlopen(req).read()
+    except:
+        os.chdir('..')
+        continue
     soup = bs(html, 'lxml')
     target = soup.find('a', {'class':'team'})
     if not target:
+        print('no target acquired')
         # project has no team -- save empty dataframe and move on to next
         team_df = pd.DataFrame(columns=cols)
         team_df.to_csv(project_name + '.csv', index=False)
@@ -99,7 +104,6 @@ for index, row in df.iterrows():
                     shutil.copyfileobj(r.raw, f)
         else:
             image_save_name = 'N\A'
-            
         # social media
         social_medias = {} # store them in a dictionary ['Social media name'] = 'url'
         social_div = member.find('div', {'class':'socials'})
@@ -136,5 +140,7 @@ for index, row in df.iterrows():
     os.chdir('..')
     # record who was the last team
     with open('last_ico.txt', 'w') as f:
+        print(os.getcwd())
+        print('Finished:', project_name)
         f.write(project_name)
 
