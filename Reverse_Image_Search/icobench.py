@@ -42,7 +42,7 @@ class Icobench:
             os.chdir(project_name)
 
             # the home url of the ico
-            req = Request(project_url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'})
+            req = Request(project_url, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'})
             try:
                 html = urlopen(req).read()
             except:
