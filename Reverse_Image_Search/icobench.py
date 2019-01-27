@@ -11,10 +11,10 @@ class Icobench:
         pass
     def getAllIcos(self):
         base_url = 'https://icobench.com'
-        os.chdir('/home/troy/Documents/Senior-Design/Reverse_Image_Search')
+        os.chdir('~/Desktop/Senior\ Project\ /Senior-Design/Reverse_Image_Search')
         df = pd.read_csv('whitepapers_original.csv')
-        # create a new directory for the data 
-        path_to_data = '/home/troy/Documents/Senior-Design/Reverse_Image_Search/data'
+        # create a new directory for the data
+        path_to_data = '~/Desktop/Senior\ Project\ /Senior-Design/Reverse_Image_Search/data'
         if not os.path.isdir(path_to_data):
             os.mkdir(path_to_data)
         # cd to new directory
@@ -24,7 +24,7 @@ class Icobench:
             for line in f:
                 last_project = line.strip()
 
-        # begin scraping ICOs from the last ICO completed 
+        # begin scraping ICOs from the last ICO completed
         at_current = False
         for index, row in df.iterrows():
             project_name = row['ICO_Name'].replace(' ', '_')
@@ -50,6 +50,7 @@ class Icobench:
                 team_df = pd.DataFrame(columns=cols)
                 team_df.to_csv(project_name + '.csv', index=False)
                 os.chdir('..')
+                #Flag here!
                 continue
             soup = bs(html, 'lxml')
             target = soup.find('a', {'class':'team'})
@@ -59,6 +60,7 @@ class Icobench:
                 team_df = pd.DataFrame(columns=cols)
                 team_df.to_csv(project_name + '.csv', index=False)
                 os.chdir('..')
+                #Flag here!
                 continue
             # project has a team
             href = target['href']
@@ -73,7 +75,7 @@ class Icobench:
             '''
             For every member of the team we want to get their name, image and social media links
             '''
-            # dataframe to save them to 
+            # dataframe to save them to
             cols = ['Name', 'Image File', 'Social Media File']
             team_df = pd.DataFrame(columns=cols)
             for member in members:
@@ -151,9 +153,9 @@ class Icobench:
 
     def getIco(self, name, icobench_url):
         base_url = 'https://icobench.com'
-        os.chdir('/home/troy/Documents/Senior-Design/Reverse_Image_Search')
+        os.chdir('/Users/noahquinones/Desktop/Senior Project /Senior-Design/Reverse_Image_Search')
         df = pd.read_csv('whitepapers_original.csv')
-        os.chdir('/home/troy/Documents/Senior-Design/Reverse_Image_Search/data')
+        os.chdir('/Users/noahquinones/Desktop/Senior Project /Senior-Design/Reverse_Image_Search/data')
         project_name = name.replace(' ', '_')
         project_url = icobench_url
         print(project_name)
@@ -191,7 +193,7 @@ class Icobench:
         '''
         For every member of the team we want to get their name, image and social media links
         '''
-        # dataframe to save them to 
+        # dataframe to save them to
         cols = ['Name', 'Image File', 'Social Media File']
         team_df = pd.DataFrame(columns=cols)
         for member in members:
@@ -261,4 +263,3 @@ class Icobench:
 
         # save the team dataframe
         team_df.to_csv(project_name + '.csv', index=False)
-

@@ -1,0 +1,1668 @@
+1548443868708	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.GbxnKEh1DNl7"
+*** You are running in headless mode.
+1548443870483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548443870483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548443872007	Marionette	INFO	Listening on port 50922
+1548443872109	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548443876146	Marionette	INFO	Stopped listening on port 50922
+1548452059402	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.N0yj726iDKps"
+1548452157962	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.9MYWo4RK9Tqi"
+*** You are running in headless mode.
+1548452158602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548452158602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548452160069	Marionette	INFO	Listening on port 64785
+1548452160134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548452161748	Marionette	INFO	Stopped listening on port 64785
+1548452417554	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.6wexcvFvWRtZ"
+*** You are running in headless mode.
+1548452417970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548452417970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548452419027	Marionette	INFO	Listening on port 49684
+1548452419104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548452420401	Marionette	INFO	Stopped listening on port 49684
+1548455929656	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.3zXGnC3fVRLB"
+*** You are running in headless mode.
+1548455930229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548455930229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548455931663	Marionette	INFO	Listening on port 49776
+1548455931700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548455933479	Marionette	INFO	Stopped listening on port 49776
+1548455963254	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.Xvq662h3VikN"
+*** You are running in headless mode.
+1548455963680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548455963680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548455964731	Marionette	INFO	Listening on port 50014
+1548455964793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548455966112	Marionette	INFO	Stopped listening on port 50014
+1548456116392	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.8IarvIQBOpVL"
+*** You are running in headless mode.
+1548456116819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548456116820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548456117900	Marionette	INFO	Listening on port 50870
+1548456117933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548456119191	Marionette	INFO	Stopped listening on port 50870
+1548456627691	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.jtzRQvTNnzMM"
+*** You are running in headless mode.
+1548456628127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548456628127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548456629228	Marionette	INFO	Listening on port 53477
+1548456629329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548456631009	Marionette	INFO	Stopped listening on port 53477
+1548456685280	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.7H21nO9LGLHj"
+*** You are running in headless mode.
+1548456685688	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548456685689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548456686717	Marionette	INFO	Listening on port 53818
+1548456686818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548456688054	Marionette	INFO	Stopped listening on port 53818
+1548456798069	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.zvvjjF9UuyDZ"
+*** You are running in headless mode.
+1548456798474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548456798474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548456799481	Marionette	INFO	Listening on port 54525
+1548456799519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548456800815	Marionette	INFO	Stopped listening on port 54525
+1548456825963	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.HM9FKQ4iwIHE"
+*** You are running in headless mode.
+1548456826379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548456826379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548456827417	Marionette	INFO	Listening on port 54731
+1548456827500	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548456829062	Marionette	INFO	Stopped listening on port 54731
+1548456840131	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.6BZQ4d8mthyt"
+*** You are running in headless mode.
+1548456840540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548456840541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548456841560	Marionette	INFO	Listening on port 54877
+1548456841660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548456842933	Marionette	INFO	Stopped listening on port 54877
+1548457300579	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.mA3qYJ4wfZC5"
+*** You are running in headless mode.
+1548457301135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548457301135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548457302466	Marionette	INFO	Listening on port 57449
+1548457302535	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548457303919	Marionette	INFO	Stopped listening on port 57449
+1548457371011	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.vgKLszkcwANb"
+*** You are running in headless mode.
+1548457371422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548457371423	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548457372444	Marionette	INFO	Listening on port 57853
+1548457372547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548457373772	Marionette	INFO	Stopped listening on port 57853
+1548457419079	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.8C3jxFbU6BlW"
+*** You are running in headless mode.
+1548457419498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548457419499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548457420511	Marionette	INFO	Listening on port 58148
+1548457420530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548457421812	Marionette	INFO	Stopped listening on port 58148
+1548457449282	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.oObJrFPXara5"
+*** You are running in headless mode.
+1548457449693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548457449693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548457450699	Marionette	INFO	Listening on port 58367
+1548457450725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548457451934	Marionette	INFO	Stopped listening on port 58367
+1548457453382	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.a4EPSA1jXZCR"
+*** You are running in headless mode.
+1548457453797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548457453797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548457454862	Marionette	INFO	Listening on port 58464
+1548457454907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548457713614	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.baU2cM4jKPra"
+*** You are running in headless mode.
+1548457714060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548457714060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548457715168	Marionette	INFO	Listening on port 59818
+1548457715250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548457716809	Marionette	INFO	Stopped listening on port 59818
+1548457971679	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.ODIurnO5LB8M"
+*** You are running in headless mode.
+1548457972183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548457972183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548457973367	Marionette	INFO	Listening on port 61132
+1548457973427	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548457974715	Marionette	INFO	Stopped listening on port 61132
+1548457993117	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.4awVBRWrRNjM"
+*** You are running in headless mode.
+1548457993526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548457993526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548457994643	Marionette	INFO	Listening on port 61321
+1548457994670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548457996107	Marionette	INFO	Stopped listening on port 61321
+1548457997552	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.WRfeevz4jFwF"
+*** You are running in headless mode.
+1548457997975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548457997975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548457999080	Marionette	INFO	Listening on port 61415
+1548457999100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548458047184	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.CmCdEBViT9gV"
+*** You are running in headless mode.
+1548458047590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548458047591	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548458048725	Marionette	INFO	Listening on port 61749
+1548458048811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548458050192	Marionette	INFO	Stopped listening on port 61749
+1548458051749	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.HeB8cxfkzBRo"
+*** You are running in headless mode.
+1548458052229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548458052229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548458053281	Marionette	INFO	Listening on port 61845
+1548458053374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548522136271	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.t7fLhdfgE5VB"
+*** You are running in headless mode.
+1548522136805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548522136805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548522138090	Marionette	INFO	Listening on port 60062
+1548522138134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548522142451	Marionette	INFO	Stopped listening on port 60062
+1548522252787	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.U98TzWnJ6U7R"
+*** You are running in headless mode.
+1548522253216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548522253216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548522254299	Marionette	INFO	Listening on port 60737
+1548522254354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548522255885	Marionette	INFO	Stopped listening on port 60737
+1548522385482	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.vAbMz6dCPsjN"
+*** You are running in headless mode.
+1548522386114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548522386115	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548522387275	Marionette	INFO	Listening on port 61631
+1548522387332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548522388583	Marionette	INFO	Stopped listening on port 61631
+1548522390029	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.Ao5s1wLHKw9i"
+*** You are running in headless mode.
+1548522390466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548522390466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548522391578	Marionette	INFO	Listening on port 61729
+1548522391606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548523292855	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.aaNPRZlrc4Ng"
+*** You are running in headless mode.
+1548523293270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548523293270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548523294440	Marionette	INFO	Listening on port 49984
+1548523294509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548523295846	Marionette	INFO	Stopped listening on port 49984
+1548523297391	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.XJB4uBQCk3SR"
+*** You are running in headless mode.
+1548523297818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548523297818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548523298910	Marionette	INFO	Listening on port 50078
+1548523298953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548523311066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.QjJjnzGEV01d"
+*** You are running in headless mode.
+1548523311498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548523311498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548523312663	Marionette	INFO	Listening on port 50254
+1548523312716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548523313916	Marionette	INFO	Stopped listening on port 50254
+1548523315473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.0t66atBfvXUf"
+*** You are running in headless mode.
+1548523315880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548523315881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548523316953	Marionette	INFO	Listening on port 50346
+1548523317024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548523333963	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.paX9r4Nm5D4A"
+*** You are running in headless mode.
+1548523334407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548523334407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548523335615	Marionette	INFO	Listening on port 50540
+1548523335724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548523336948	Marionette	INFO	Stopped listening on port 50540
+1548523338504	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.hMf7dziUXpiO"
+*** You are running in headless mode.
+1548523338923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548523338923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548523339987	Marionette	INFO	Listening on port 50637
+1548523340063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548523341850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.lNmJTFwDYNdq"
+*** You are running in headless mode.
+1548523342373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548523342373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548523343528	Marionette	INFO	Listening on port 50725
+1548523343608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548523345319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.NqrJdOuVccvd"
+*** You are running in headless mode.
+1548523345849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548523345849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548523346971	Marionette	INFO	Listening on port 50817
+1548523346992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548523348596	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.0nr1ufb0Xy8R"
+*** You are running in headless mode.
+1548523349127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548523349128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548523350303	Marionette	INFO	Listening on port 50915
+1548523350362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548523352013	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.vZ1jcXZtSWZi"
+*** You are running in headless mode.
+1548523352547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548523352547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548523353783	Marionette	INFO	Listening on port 51032
+1548523353865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548523355681	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.fmHxB65H4MSr"
+*** You are running in headless mode.
+1548523356267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548523356267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548523357597	Marionette	INFO	Listening on port 51123
+1548523357642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548523359319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.xZ0Cw4M9gSuf"
+*** You are running in headless mode.
+1548523359885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548523359885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548523361057	Marionette	INFO	Listening on port 51233
+1548523361091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGMtdkKaAIMrQAAAWiLL1LoZDF9cLPxZ1bxKC2-anXxSdCY07QKSZ0TZwZX7h7PuEKmiCwvYF6ot31gAXUJoPRbf2uphBEjCMHOSQ2ztMGQ5-_s5xqCfb2n4mfdwS33rrm7idc=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgautam-gupta-70607211%2F, line 2503: ReferenceError: LIModules is not defined
+1548524672765	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.XfDnE5liFwgT"
+*** You are running in headless mode.
+1548524673224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548524673224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548524674478	Marionette	INFO	Listening on port 59202
+1548524674536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548524678473	Marionette	INFO	Stopped listening on port 59202
+1548524680039	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.QTMfYQvP1oyB"
+*** You are running in headless mode.
+1548524680488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548524680489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548524681609	Marionette	INFO	Listening on port 59318
+1548524681699	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=gf&trkInfo=AQG0xCRovVR_1gAAAWiLQ3co_cNVTcBqOOFM2dQsqIg3CR4a6PrIGBIrbK2o2LNk59C4ltCy-CRREG8-s4FQLHbypjR1C2QjWRsf7NnHtl7OP3SIWbms2xaq2PRNRiKpta_8eww=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaswatabasu%2F, line 2503: ReferenceError: LIModules is not defined
+1548524844777	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.f1wK7n0d1jIa"
+*** You are running in headless mode.
+1548524845231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548524845231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548524846390	Marionette	INFO	Listening on port 60257
+1548524846434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548524847888	Marionette	INFO	Stopped listening on port 60257
+1548524849446	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.2nBKuuAqwlsD"
+*** You are running in headless mode.
+1548524849880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548524849880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548524851038	Marionette	INFO	Listening on port 60361
+1548524851096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQE83hnlT3cUKwAAAWiLRgtQWQijeDwhojwwJHTVmLXUbjPsni9ZKsf1iIERi1lNfsfnEWXJIafOEABr3UdQXcDeDiDnqSW5PVItdzuCSK4lnQ5PCUnKTkDCXyFsjXvPfBIR1qM=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaswatabasu%2F, line 2503: ReferenceError: LIModules is not defined
+1548524994330	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.G8BSwsV6EGDJ"
+*** You are running in headless mode.
+1548524994766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548524994767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548524995872	Marionette	INFO	Listening on port 61159
+1548524995901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548524997400	Marionette	INFO	Stopped listening on port 61159
+1548524998963	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.13bEhOUnKMkj"
+*** You are running in headless mode.
+1548524999393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548524999393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525000485	Marionette	INFO	Listening on port 61260
+1548525000523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525001927	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.7YGbfkr8xF6A"
+*** You are running in headless mode.
+1548525002431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525002432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525003575	Marionette	INFO	Listening on port 61341
+1548525003595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525004946	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.g6TgtN3MnIgV"
+*** You are running in headless mode.
+1548525005533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525005533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525006744	Marionette	INFO	Listening on port 61442
+1548525006817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525008166	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.Vj8mNREp92uW"
+*** You are running in headless mode.
+1548525008838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525008838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525010209	Marionette	INFO	Listening on port 61537
+1548525010233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525011630	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.Lgbs5Yz02kDh"
+*** You are running in headless mode.
+1548525012215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525012215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525013499	Marionette	INFO	Listening on port 61632
+1548525013583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525014983	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.tUZcrW9z6knJ"
+*** You are running in headless mode.
+1548525015757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525015757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525017142	Marionette	INFO	Listening on port 61740
+1548525017247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525018658	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.aZUzlDZfXVX5"
+*** You are running in headless mode.
+1548525019399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525019399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525020829	Marionette	INFO	Listening on port 61855
+1548525020922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQGki4oB1SF9IgAAAWiLSKNgy5qg7q0OMFABD4_Wr-Fmzr-R_eqdg3WNCX0lLfnioP8gIW71qX-4zVwbIGdw7wIEPcT13-DA8QFXTcQd9vARXpRzurk5tjyhv8pic_biTcJfFPc=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgautam-gupta-70607211%2F, line 2503: ReferenceError: LIModules is not defined
+1548525048591	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.UgbTdtiXqGwt"
+*** You are running in headless mode.
+1548525049080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525049080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525050271	Marionette	INFO	Listening on port 62185
+1548525050345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525051673	Marionette	INFO	Stopped listening on port 62185
+1548525053239	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.cVFOYkrIYT6r"
+*** You are running in headless mode.
+1548525053665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525053665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525054925	Marionette	INFO	Listening on port 62290
+1548525054997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525056394	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.Il8nfe9uBHqZ"
+*** You are running in headless mode.
+1548525056950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525056950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525058153	Marionette	INFO	Listening on port 62375
+1548525058177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525059557	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.6SAX6F9eFUZz"
+*** You are running in headless mode.
+1548525060108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525060108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525061301	Marionette	INFO	Listening on port 62474
+1548525061325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525062657	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.zEPIs9Onvjxl"
+*** You are running in headless mode.
+1548525063297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525063297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525064877	Marionette	INFO	Listening on port 62566
+1548525064932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525066429	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.irLxk6D25KQ9"
+*** You are running in headless mode.
+1548525067275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525067275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525068725	Marionette	INFO	Listening on port 62672
+1548525068787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525070257	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.x3NIIpFOvD0j"
+*** You are running in headless mode.
+1548525070868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525070868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525072512	Marionette	INFO	Listening on port 62780
+1548525072551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525073992	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.BQLB8XWWSaYd"
+*** You are running in headless mode.
+1548525074807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525074807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525076391	Marionette	INFO	Listening on port 62899
+1548525076475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQEeh5dCwkv5MgAAAWiLSXo4aNBnd4undLP-Itnjqu8U1uo0opa7RCvwhP-L-NI433s9--oT_Oj7BiSnJlYFJM5k1_Yqsp9YHqwlJAjKTzF4X248xRfAhIR8Q2ptRFNvxBKSGmc=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgautam-gupta-70607211%2F, line 2503: ReferenceError: LIModules is not defined
+1548525093396	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.f37OUaeArcZz"
+*** You are running in headless mode.
+1548525094016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525094016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525095558	Marionette	INFO	Listening on port 63150
+1548525095597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525097100	Marionette	INFO	Stopped listening on port 63150
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548525098825	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.51nqxdKzX2mX"
+*** You are running in headless mode.
+1548525099267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525099267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525100565	Marionette	INFO	Listening on port 63261
+1548525100611	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1548525112666	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.8qrnXHSCsao4"
+*** You are running in headless mode.
+1548525113139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525113139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525114425	Marionette	INFO	Listening on port 63381
+1548525114514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525115771	Marionette	INFO	Stopped listening on port 63381
+1548525117340	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.3kg7aV0JHWx0"
+*** You are running in headless mode.
+1548525117792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525117792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525118889	Marionette	INFO	Listening on port 63485
+1548525118911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525120299	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.2PbqMrxT6e24"
+*** You are running in headless mode.
+1548525120834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525120834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525122046	Marionette	INFO	Listening on port 63570
+1548525122066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525123613	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.vkXX6luYDuXx"
+*** You are running in headless mode.
+1548525124181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525124181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525125521	Marionette	INFO	Listening on port 63675
+1548525125567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525126991	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.R9TkP159HCTt"
+*** You are running in headless mode.
+1548525127582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525127582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525128917	Marionette	INFO	Listening on port 63766
+1548525128973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525130466	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.gsojMjMUrYgm"
+*** You are running in headless mode.
+1548525131051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525131052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525132328	Marionette	INFO	Listening on port 63880
+1548525132423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525133861	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.eh8DprheSTFU"
+*** You are running in headless mode.
+1548525134736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525134736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+1548525206938	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.9FH4f1eKr9cT"
+*** You are running in headless mode.
+1548525207377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525207377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525208615	Marionette	INFO	Listening on port 64520
+1548525208700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525210033	Marionette	INFO	Stopped listening on port 64520
+1548525211589	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.6KC49PaQQrKT"
+*** You are running in headless mode.
+1548525212056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525212057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525213284	Marionette	INFO	Listening on port 64627
+1548525213372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQGpTfbNriuwmQAAAWiLS5FgXl9u-rlPptGxtFnHvN3kn6CHSHiGcpLiXZimwZPwRhbsrh_x1V6vBzpEqLjciFn_4CxEO3dMKsU7iNtgJOYBdnV0--cT2w9c9oIXAAIoQg2b86A=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaswatabasu%2F, line 2535: ReferenceError: LIModules is not defined
+1548525253758	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.2p2yPFi2O9JW"
+*** You are running in headless mode.
+1548525254186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525254186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525255449	Marionette	INFO	Listening on port 64947
+1548525255520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525257196	Marionette	INFO	Stopped listening on port 64947
+1548525258751	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.XYPT6qY5VG17"
+*** You are running in headless mode.
+1548525259208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525259209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525260516	Marionette	INFO	Listening on port 65056
+1548525260632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQE1n6AKlahUKgAAAWiLTEj4Wgm99j7BZDGQp3nARFPm9dgdjpuSoGCk7qVXRhVTu_YHXL6lEWE5S72C-oet0jGhy_KblBtsmt4IbB8QkEuIpt1FfwCmieSp9fTq0MODq4CpdNg=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaswatabasu%2F, line 2503: ReferenceError: LIModules is not defined
+1548525366712	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.mCGSrNTPvtId"
+*** You are running in headless mode.
+1548525367175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525367176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525368415	Marionette	INFO	Listening on port 49496
+1548525368474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525370320	Marionette	INFO	Stopped listening on port 49496
+1548525371886	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.iehp48HNYoM5"
+*** You are running in headless mode.
+1548525372363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525372363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525373522	Marionette	INFO	Listening on port 49594
+1548525373558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525375025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.BV8k9gCfOW3d"
+*** You are running in headless mode.
+1548525375609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525375609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525376946	Marionette	INFO	Listening on port 49679
+1548525376996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525378448	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.owAX9xAmQqyE"
+*** You are running in headless mode.
+1548525378932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525378932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525380175	Marionette	INFO	Listening on port 49776
+1548525380229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525381670	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.dv09SWD3MKxc"
+*** You are running in headless mode.
+1548525382383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525382383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525383721	Marionette	INFO	Listening on port 49865
+1548525383758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525385247	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.lnFwKsZtT6iu"
+*** You are running in headless mode.
+1548525385955	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525385955	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14647, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14644, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14639, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14637, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1548525406330	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.o79eq6lLNjNC"
+*** You are running in headless mode.
+1548525406768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525406768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525407935	Marionette	INFO	Listening on port 50153
+1548525408006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525409604	Marionette	INFO	Stopped listening on port 50153
+1548525411183	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.o6JAkPsdbeql"
+*** You are running in headless mode.
+1548525411614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525411615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525413677	Marionette	INFO	Listening on port 50255
+1548525413765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525415151	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.2anpY7QR93ti"
+*** You are running in headless mode.
+1548525415694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525415694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525416966	Marionette	INFO	Listening on port 50351
+1548525417014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525418422	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.oDm9PVndqBpa"
+*** You are running in headless mode.
+1548525419016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525419017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525420401	Marionette	INFO	Listening on port 50456
+1548525420488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525421879	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.6maOrVM56EJ3"
+*** You are running in headless mode.
+1548525422562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525422563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525423760	Marionette	INFO	Listening on port 50552
+1548525423849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525425294	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.8UqbrMQwoNWE"
+*** You are running in headless mode.
+1548525426027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525426027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525427526	Marionette	INFO	Listening on port 50649
+1548525427554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525429015	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.iCZqOTwtCIHm"
+*** You are running in headless mode.
+1548525429625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525429625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525431103	Marionette	INFO	Listening on port 50760
+1548525431229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525432688	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.Vke4eBNFHV90"
+*** You are running in headless mode.
+1548525433322	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525433322	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+1548525484990	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.gcSXNJ9C71zM"
+*** You are running in headless mode.
+1548525485427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525485427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525486638	Marionette	INFO	Listening on port 51258
+1548525486732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525488078	Marionette	INFO	Stopped listening on port 51258
+1548525499567	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.cf8XgBwZIU8l"
+*** You are running in headless mode.
+1548525500005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525500005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525501208	Marionette	INFO	Listening on port 51417
+1548525501227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525502672	Marionette	INFO	Stopped listening on port 51417
+1548525504229	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.jpwJ2CRE2kK6"
+*** You are running in headless mode.
+1548525504689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525504689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525505974	Marionette	INFO	Listening on port 51520
+1548525506080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525507463	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.4nI4joZM2BoW"
+*** You are running in headless mode.
+1548525507969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525507969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525509140	Marionette	INFO	Listening on port 51606
+1548525509223	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1548525550054	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.5Dc5p7ttYyog"
+*** You are running in headless mode.
+1548525550499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525550500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525551617	Marionette	INFO	Listening on port 51914
+1548525551728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525553104	Marionette	INFO	Stopped listening on port 51914
+1548525554654	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.Fs9Jaz9HjIsR"
+*** You are running in headless mode.
+1548525555105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525555105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525556332	Marionette	INFO	Listening on port 52008
+1548525556415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525556772	Marionette	INFO	Stopped listening on port 52008
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1548525558286	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.rMFZ9jhRaqjv"
+*** You are running in headless mode.
+1548525558719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525558719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525559933	Marionette	INFO	Listening on port 52076
+1548525559951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525560344	Marionette	INFO	Stopped listening on port 52076
+1548525561976	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.rgUsDmUi36pt"
+*** You are running in headless mode.
+1548525562479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525562479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525563678	Marionette	INFO	Listening on port 52151
+1548525563736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525564126	Marionette	INFO	Stopped listening on port 52151
+1548525565760	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.718jFBMQzbiC"
+*** You are running in headless mode.
+1548525566226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525566227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525567455	Marionette	INFO	Listening on port 52223
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1548525629244	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.bluI3hz2apRl"
+*** You are running in headless mode.
+1548525629643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525629643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525630850	Marionette	INFO	Listening on port 52584
+1548525630901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525632297	Marionette	INFO	Stopped listening on port 52584
+1548525633856	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.Tnpg4lXDxFmj"
+*** You are running in headless mode.
+1548525634367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525634368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525635556	Marionette	INFO	Listening on port 52686
+1548525635631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525636005	Marionette	INFO	Stopped listening on port 52686
+1548525637641	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.PnRx84hJKnuB"
+*** You are running in headless mode.
+1548525638089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525638089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525639289	Marionette	INFO	Listening on port 52761
+1548525639310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525639698	Marionette	INFO	Stopped listening on port 52761
+1548525641326	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.36WvdtWuVU4M"
+*** You are running in headless mode.
+1548525641763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525641763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525642937	Marionette	INFO	Listening on port 52836
+1548525642991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525643368	Marionette	INFO	Stopped listening on port 52836
+1548525645003	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.6EvgGDI9jqsH"
+*** You are running in headless mode.
+1548525645424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525645424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525646619	Marionette	INFO	Listening on port 52903
+1548525646680	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525647040	Marionette	INFO	Stopped listening on port 52903
+1548525648685	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.zRzwMqIZc8c2"
+*** You are running in headless mode.
+1548525649152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525649152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525650350	Marionette	INFO	Listening on port 52976
+1548525650446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525650822	Marionette	INFO	Stopped listening on port 52976
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1548525652344	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.PrzAnevDLnzt"
+*** You are running in headless mode.
+1548525652813	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525652814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525654065	Marionette	INFO	Listening on port 53049
+1548525654101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525654514	Marionette	INFO	Stopped listening on port 53049
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1548525656027	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.YM3P8XRQrwu7"
+*** You are running in headless mode.
+1548525656635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525656635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525658303	Marionette	INFO	Listening on port 53115
+1548525658419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525658780	Marionette	INFO	Stopped listening on port 53115
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1548525730420	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.HOgt85pUy5P7"
+*** You are running in headless mode.
+1548525730852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525730852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525732004	Marionette	INFO	Listening on port 53581
+1548525732066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525733485	Marionette	INFO	Stopped listening on port 53581
+1548525735047	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.XkRrZ9r9KEMh"
+*** You are running in headless mode.
+1548525735498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525735499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525736746	Marionette	INFO	Listening on port 53681
+1548525736793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525737186	Marionette	INFO	Stopped listening on port 53681
+1548525738823	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.g8Uxo6ohzxkC"
+*** You are running in headless mode.
+1548525739259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525739260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525740484	Marionette	INFO	Listening on port 53755
+1548525740562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525740953	Marionette	INFO	Stopped listening on port 53755
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1548525742562	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.SSmNKp1aRbkE"
+*** You are running in headless mode.
+1548525743032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525743032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525744223	Marionette	INFO	Listening on port 53824
+1548525744301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525744702	Marionette	INFO	Stopped listening on port 53824
+1548525746212	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.uCetUL5wDWta"
+*** You are running in headless mode.
+1548525746686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525746686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525747821	Marionette	INFO	Listening on port 53894
+1548525747875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525748259	Marionette	INFO	Stopped listening on port 53894
+1548525749887	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.P19NT4348TsR"
+*** You are running in headless mode.
+1548525750356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525750356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1548525760670	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.UhsCD1RmCsR7"
+*** You are running in headless mode.
+1548525761105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525761105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525762286	Marionette	INFO	Listening on port 54084
+1548525762331	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525763760	Marionette	INFO	Stopped listening on port 54084
+1548525765331	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.k9cd29Mu97yN"
+*** You are running in headless mode.
+1548525765746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525765746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525766975	Marionette	INFO	Listening on port 54190
+1548525766990	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525767343	Marionette	INFO	Stopped listening on port 54190
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1548525768854	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.rEYy7woFBdAU"
+*** You are running in headless mode.
+1548525769298	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525769298	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525770432	Marionette	INFO	Listening on port 54284
+1548525770505	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525770879	Marionette	INFO	Stopped listening on port 54284
+1548525772508	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.J8ysGif5uVYH"
+*** You are running in headless mode.
+1548525772936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525772936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525793706	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.5I2F89j07ZYL"
+*** You are running in headless mode.
+1548525794132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525794133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525795369	Marionette	INFO	Listening on port 54487
+1548525795450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525796774	Marionette	INFO	Stopped listening on port 54487
+1548525798324	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.nekpBmdizT4w"
+*** You are running in headless mode.
+1548525798759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525798759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525799919	Marionette	INFO	Listening on port 54592
+1548525799993	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525800388	Marionette	INFO	Stopped listening on port 54592
+1548525802043	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.NrQnJBHsQvt5"
+*** You are running in headless mode.
+1548525802497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525802498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525803625	Marionette	INFO	Listening on port 54663
+1548525803699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525804087	Marionette	INFO	Stopped listening on port 54663
+1548525846654	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.JYnergevs83I"
+*** You are running in headless mode.
+1548525847105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525847105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525848282	Marionette	INFO	Listening on port 54942
+1548525848316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525849691	Marionette	INFO	Stopped listening on port 54942
+1548525851254	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.APSCSls0TsUS"
+*** You are running in headless mode.
+1548525851647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525851647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525852882	Marionette	INFO	Listening on port 55047
+1548525852905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525853298	Marionette	INFO	Stopped listening on port 55047
+1548525854946	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.R3lFywx4b2r5"
+*** You are running in headless mode.
+1548525855356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525855357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525900418	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.rKiDHQpWGtqj"
+*** You are running in headless mode.
+1548525900869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525900869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525902147	Marionette	INFO	Listening on port 55360
+1548525902171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525903467	Marionette	INFO	Stopped listening on port 55360
+1548525905037	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.c4hENJZpKBB1"
+*** You are running in headless mode.
+1548525905468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525905468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548525906604	Marionette	INFO	Listening on port 55460
+1548525906687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548525907047	Marionette	INFO	Stopped listening on port 55460
+1548525908684	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.s1oN6ZL0vqmX"
+*** You are running in headless mode.
+1548525909100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548525909101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526029753	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.0JeFWy18Iobh"
+*** You are running in headless mode.
+1548526030196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526030196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526031380	Marionette	INFO	Listening on port 56217
+1548526031425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526032741	Marionette	INFO	Stopped listening on port 56217
+1548526034309	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.gAPQMpLcQnmR"
+*** You are running in headless mode.
+1548526034746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526034746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526035890	Marionette	INFO	Listening on port 56317
+1548526035959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526036360	Marionette	INFO	Stopped listening on port 56317
+1548526038010	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.WXEe44BAKuVe"
+*** You are running in headless mode.
+1548526038420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526038420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526039568	Marionette	INFO	Listening on port 56386
+1548526039654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526040059	Marionette	INFO	Stopped listening on port 56386
+1548526238863	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.0ISa4ouEjEDj"
+*** You are running in headless mode.
+1548526239284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526239285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526240476	Marionette	INFO	Listening on port 57458
+1548526240521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526241993	Marionette	INFO	Stopped listening on port 57458
+1548526243566	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.6e0EWZHOPgpw"
+*** You are running in headless mode.
+1548526244023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526244024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526245195	Marionette	INFO	Listening on port 57558
+1548526245216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526245611	Marionette	INFO	Stopped listening on port 57558
+1548526247369	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.ibEyxUco3jkG"
+*** You are running in headless mode.
+1548526247827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526247828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526248986	Marionette	INFO	Listening on port 57629
+1548526249039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526249380	Marionette	INFO	Stopped listening on port 57629
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1548526250904	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.ihW87dVb4wBd"
+*** You are running in headless mode.
+1548526251379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526251379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526252547	Marionette	INFO	Listening on port 57697
+1548526252656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526253056	Marionette	INFO	Stopped listening on port 57697
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1548526254612	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.7iBClXm20WRv"
+*** You are running in headless mode.
+1548526255028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526255029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526256192	Marionette	INFO	Listening on port 57766
+1548526256263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526256640	Marionette	INFO	Stopped listening on port 57766
+1548526258292	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.1V267GFryfOu"
+*** You are running in headless mode.
+1548526258720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526258720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526260035	Marionette	INFO	Listening on port 57832
+1548526260043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526260433	Marionette	INFO	Stopped listening on port 57832
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1548526261967	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.VTqID8RKzURM"
+*** You are running in headless mode.
+1548526262417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526262418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526263643	Marionette	INFO	Listening on port 57902
+1548526263708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526264089	Marionette	INFO	Stopped listening on port 57902
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1548526265654	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.22VCOXltjsiz"
+*** You are running in headless mode.
+1548526266130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526266130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526267248	Marionette	INFO	Listening on port 57969
+1548526267306	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526267675	Marionette	INFO	Stopped listening on port 57969
+1548526359890	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.LY7raCjWmzHS"
+*** You are running in headless mode.
+1548526360339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526360340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526361534	Marionette	INFO	Listening on port 58529
+1548526361639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526362961	Marionette	INFO	Stopped listening on port 58529
+1548526364533	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.iKVOw8LseUPx"
+*** You are running in headless mode.
+1548526364972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526364972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526366150	Marionette	INFO	Listening on port 58630
+1548526366184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526366625	Marionette	INFO	Stopped listening on port 58630
+1548526368261	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.RAC3OzJglCx7"
+*** You are running in headless mode.
+1548526368712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526368712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526463046	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.O5hOq7fYE0aK"
+*** You are running in headless mode.
+1548526463500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526463500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526464871	Marionette	INFO	Listening on port 59241
+1548526464905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526466297	Marionette	INFO	Stopped listening on port 59241
+1548526467890	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.NldanVDGbNrj"
+*** You are running in headless mode.
+1548526468308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526468308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526469572	Marionette	INFO	Listening on port 59344
+1548526469636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQGuI8oQGNWVJgAAAWiLXrugOajklvi4zBwxVnWGZZW4lpOVfMJEe6Av1pshdwYEmH-UXprDnDjXQ59scqKkJC3EX7ecM3FzqXW_o-mCoZM5tJY3LAcXzILj0jbJwy7DS_ajEjA=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaswatabasu%2F, line 2503: ReferenceError: LIModules is not defined
+1548526631397	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.Ng9O3R7ZJNfJ"
+*** You are running in headless mode.
+1548526631838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526631838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526633089	Marionette	INFO	Listening on port 60367
+1548526633149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526634599	Marionette	INFO	Stopped listening on port 60367
+1548526636184	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.3SXqIK2H1q9P"
+*** You are running in headless mode.
+1548526636663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526636664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526637836	Marionette	INFO	Listening on port 60470
+1548526637930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQHWUzpGa-KvuwAAAWiLYUvgZFQXVHNYETkwFjQO-dBjQrfWConwUxG7TzQ5baz8cONeyKxTQ3Fh4Xesn3DCvZQUYK1X7SCjmEJPs9q5mCIs2d8Hi7Grg6GXQrF8gsr2ISL4Ihs=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaswatabasu%2F, line 2503: ReferenceError: LIModules is not defined
+1548526679088	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.JFHUTnUTGZRv"
+*** You are running in headless mode.
+1548526679531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526679531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526680733	Marionette	INFO	Listening on port 60816
+1548526680843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526682170	Marionette	INFO	Stopped listening on port 60816
+1548526683729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.wwaQVNnBXTqn"
+*** You are running in headless mode.
+1548526684168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526684168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526685308	Marionette	INFO	Listening on port 60916
+1548526685377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQFyUzGc6sHTnAAAAWiLYgdgBYRkQXVy__bvcrpKYsdUICnn4YGEC83z3EQ1Z3dBM4HJHnYsCNr5fcrBDqGDgEGs9guiCMLjLmircZYwnc5nRq62Vwdu5DrSnI5bQLCT39soo_o=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaswatabasu%2F, line 2503: ReferenceError: LIModules is not defined
+1548526732665	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.vXd8xuwj4dbV"
+*** You are running in headless mode.
+1548526733113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526733113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526734243	Marionette	INFO	Listening on port 61291
+1548526734310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526736302	Marionette	INFO	Stopped listening on port 61291
+1548526737851	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.OpdrUUmk0znv"
+*** You are running in headless mode.
+1548526738270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526738271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526739416	Marionette	INFO	Listening on port 61401
+1548526739498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQH8cpQxAfG-jQAAAWiLYtpQ8l_32ZqnwongZEUNxMpI9hV2JI2odM3P8IC9KQgwgNdaUyLwVCVYSMRL1ZZx6TRjNya4d7DJ3OD-4VgnXdusCdvsJIfZBfsgJPQhx91viiFYlVk=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaswatabasu%2F, line 2503: ReferenceError: LIModules is not defined
+1548526767370	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.UW8s8MYRHoEA"
+*** You are running in headless mode.
+1548526767823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526767823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526768961	Marionette	INFO	Listening on port 61647
+1548526769017	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526770463	Marionette	INFO	Stopped listening on port 61647
+1548526772019	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.q5HaPBlnPEhT"
+*** You are running in headless mode.
+1548526772427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526772427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526773559	Marionette	INFO	Listening on port 61748
+1548526773662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526774040	Marionette	INFO	Stopped listening on port 61748
+1548526775700	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.AEa5YvMqw9A2"
+*** You are running in headless mode.
+1548526776162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526776162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526777333	Marionette	INFO	Listening on port 61817
+1548526777377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526777800	Marionette	INFO	Stopped listening on port 61817
+1548526779445	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.6PQ2pfL9yt5O"
+*** You are running in headless mode.
+1548526779918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526779918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526781079	Marionette	INFO	Listening on port 61893
+1548526781104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526781511	Marionette	INFO	Stopped listening on port 61893
+1548526783150	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.hGH6SBsvhGzQ"
+*** You are running in headless mode.
+1548526783631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526783631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526784977	Marionette	INFO	Listening on port 61969
+1548526785001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526785438	Marionette	INFO	Stopped listening on port 61969
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1548526787099	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.JlRYCQZyKg5s"
+*** You are running in headless mode.
+1548526787592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526787592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548526788745	Marionette	INFO	Listening on port 62042
+1548526788840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548526789235	Marionette	INFO	Stopped listening on port 62042
+1548526790789	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.z7397SOxVMaC"
+*** You are running in headless mode.
+1548526791378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548526791378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1548529760915	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.JkjdTj2PNoz1"
+*** You are running in headless mode.
+1548529761478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548529761478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548529762691	Marionette	INFO	Listening on port 60932
+1548529762767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548529764342	Marionette	INFO	Stopped listening on port 60932
+1548529830363	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.EWAocQuzE8sq"
+*** You are running in headless mode.
+1548529830848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548529830848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548529832158	Marionette	INFO	Listening on port 61382
+1548529832213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548529833699	Marionette	INFO	Stopped listening on port 61382
+1548529848935	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.8r7kHiN7UKxq"
+*** You are running in headless mode.
+1548529849396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548529849396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548529850603	Marionette	INFO	Listening on port 61559
+1548529850696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548529852547	Marionette	INFO	Stopped listening on port 61559
+1548529893265	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.u7ScW3WME7Rt"
+*** You are running in headless mode.
+1548529893699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548529893700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548529894985	Marionette	INFO	Listening on port 61887
+1548529895007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548529896772	Marionette	INFO	Stopped listening on port 61887
+1548529923643	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.ZGDyHQ7vcc6l"
+*** You are running in headless mode.
+1548529924101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548529924102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548529925306	Marionette	INFO	Listening on port 62125
+1548529925395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548529926808	Marionette	INFO	Stopped listening on port 62125
+1548529962921	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.IWOKzwHO8Rcb"
+*** You are running in headless mode.
+1548529963392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548529963393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548529964656	Marionette	INFO	Listening on port 62443
+1548529964684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548529966344	Marionette	INFO	Stopped listening on port 62443
+1548529989341	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.FXc0NoM84DLS"
+*** You are running in headless mode.
+1548529989804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548529989805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548529991017	Marionette	INFO	Listening on port 62667
+1548529991089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548529992713	Marionette	INFO	Stopped listening on port 62667
+1548530006129	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.yuQPHMjvBFik"
+*** You are running in headless mode.
+1548530006579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548530006579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548530007780	Marionette	INFO	Listening on port 62839
+1548530007867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548530009290	Marionette	INFO	Stopped listening on port 62839
+1548530042239	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.sL0aL2zOjKpS"
+*** You are running in headless mode.
+1548530042689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548530042689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548530043950	Marionette	INFO	Listening on port 63122
+1548530043991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548530045572	Marionette	INFO	Stopped listening on port 63122
+1548530792811	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.EESflYSOj4h4"
+*** You are running in headless mode.
+1548530793274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548530793274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548530794510	Marionette	INFO	Listening on port 50946
+1548530794574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548530796417	Marionette	INFO	Stopped listening on port 50946
+1548530797988	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.eJjLiHmIJUMC"
+*** You are running in headless mode.
+1548530798463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548530798463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548530799691	Marionette	INFO	Listening on port 51049
+1548530799741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQGJWNzQvKANEQAAAWiLoM2wTOjMLfYLuZCoa1W_rZdnH3KAQFq-k3kTurZ75VikNGSudLIUo-K1GJdNtmB6ZSBi1r4bRHWblXLKRA7z4h2p0CvnGhzlbN0ReWl3WOK5NnT_MAA=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaswatabasu%2F, line 2503: ReferenceError: LIModules is not defined
+1548531190239	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.EG9JigT5KWJi"
+*** You are running in headless mode.
+1548531190700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531190701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531191909	Marionette	INFO	Listening on port 53335
+1548531191999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548531193889	Marionette	INFO	Stopped listening on port 53335
+1548531222283	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.sbWWvd18AtoL"
+*** You are running in headless mode.
+1548531222716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531222716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531223954	Marionette	INFO	Listening on port 53582
+1548531224025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548531225415	Marionette	INFO	Stopped listening on port 53582
+1548531322340	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.obVBQtKoSlVj"
+*** You are running in headless mode.
+1548531322801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531322801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531324023	Marionette	INFO	Listening on port 54270
+1548531324098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548531325577	Marionette	INFO	Stopped listening on port 54270
+1548531345540	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.loFzjJSec5PS"
+*** You are running in headless mode.
+1548531346003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531346003	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531347185	Marionette	INFO	Listening on port 54477
+1548531347203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548531348608	Marionette	INFO	Stopped listening on port 54477
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548531369367	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.3oZVgDuadfk2"
+*** You are running in headless mode.
+1548531369815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531369816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531371071	Marionette	INFO	Listening on port 54684
+1548531371125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548531372490	Marionette	INFO	Stopped listening on port 54684
+1548531517980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.exnq7UDaxhoo"
+*** You are running in headless mode.
+1548531518425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531518425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531519622	Marionette	INFO	Listening on port 55605
+1548531519649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548531521241	Marionette	INFO	Stopped listening on port 55605
+1548531522796	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.j3jcCxhk1fjY"
+*** You are running in headless mode.
+1548531523269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531523269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531524480	Marionette	INFO	Listening on port 55703
+1548531524551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQGh_LHC8bUxLgAAAWiLq924s_TtMxNDhG99tA9SYTDiW7c_MeCzeL0rSNFziKI_xGBKSfv-Sty3jlXtpUxndDhDb0nk6LA5sAnH0MTswB2QVz51El7uRvJlHwaqsVB4YRnWmrw=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaswatabasu%2F, line 2503: ReferenceError: LIModules is not defined
+1548531556452	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.h6pewWpxqHjd"
+*** You are running in headless mode.
+1548531556906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531556906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531558099	Marionette	INFO	Listening on port 55977
+1548531558116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548531559701	Marionette	INFO	Stopped listening on port 55977
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1548531561271	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.6KuTBSvDLSKx"
+*** You are running in headless mode.
+1548531561796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531561797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531563003	Marionette	INFO	Listening on port 56093
+1548531563106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQGI-qbvSUo0EQAAAWiLrHYQCO09mBokHZZT0EkIXEATLxO_NOB8O_rhT3RTqxut2SirM0u09rIkNu_nIOkTGe8idWLkWmsNxawQIAZHntmQ4dFzA5vPFz06AYHQj6Hh2FxV4gg=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaswatabasu%2F, line 2503: ReferenceError: LIModules is not defined
+1548531603895	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.GL4qEG7eYkaQ"
+*** You are running in headless mode.
+1548531604344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531604344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531605641	Marionette	INFO	Listening on port 56409
+1548531605657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548531607247	Marionette	INFO	Stopped listening on port 56409
+1548531608812	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.0Z4DslhDVQIn"
+*** You are running in headless mode.
+1548531609283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531609283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531610692	Marionette	INFO	Listening on port 56516
+1548531610764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQHgkj9u26vtpgAAAWiLrS2oMIk7lMVjXkDZ_OfR0CaU-48c0vo84NwICiWyPzOk9dD2W1A8e-yW7xJxIWEY4txVUoZ3hKpSw8w-aJSq32HQEWE-HUw_1-jPs1Wt6q_7VFngoK0=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaswatabasu%2F, line 2503: ReferenceError: LIModules is not defined
+1548531654918	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.rtFTLGiMJqYO"
+*** You are running in headless mode.
+1548531655348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531655348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531656559	Marionette	INFO	Listening on port 56876
+1548531656663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548531658066	Marionette	INFO	Stopped listening on port 56876
+1548531659630	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.0mTarUSXciaJ"
+*** You are running in headless mode.
+1548531660075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531660075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531661326	Marionette	INFO	Listening on port 56987
+1548531661381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQF4kxUzTGr2iAAAAWiLrfTgz-tTOCPlpeCb_y5bIUGcEI-MlkGmMk9Du3m1nhaBi9TGprstgpEI18rahoNq9E-LoeLHA0_tLxZvAmNJS9vplil_QliBr_Aalm-DigC0p4AR2BU=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaswatabasu%2F, line 2535: ReferenceError: LIModules is not defined
+1548531855514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.7cB97g7z4XS8"
+*** You are running in headless mode.
+1548531855990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531855990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531857374	Marionette	INFO	Listening on port 58175
+1548531857465	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548531859155	Marionette	INFO	Stopped listening on port 58175
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1548531860719	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.DAxK8RTLIHQr"
+*** You are running in headless mode.
+1548531861196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531861196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531862482	Marionette	INFO	Listening on port 58278
+1548531862568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548531863993	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.RXGZdg6WZ4WH"
+*** You are running in headless mode.
+1548531864644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531864644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531866001	Marionette	INFO	Listening on port 58386
+1548531866046	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548531867474	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.YZ1VvJdKt21J"
+*** You are running in headless mode.
+1548531868099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531868099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531869346	Marionette	INFO	Listening on port 58483
+1548531869418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548531870808	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.mx1OR1TIUtBk"
+*** You are running in headless mode.
+1548531871514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531871514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531872852	Marionette	INFO	Listening on port 58589
+1548531872896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548531874476	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.7FvftnizlLnn"
+*** You are running in headless mode.
+1548531875099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531875099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531876748	Marionette	INFO	Listening on port 58704
+1548531876832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548531878252	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.dJKGAescXedB"
+*** You are running in headless mode.
+1548531878987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548531878987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548531880341	Marionette	INFO	Listening on port 58824
+1548531880395	Marionette	WARN	TLS certificate errors will be ignored for this session
+thread 'webdriver server' panicked at 'called `Result::unwrap()` on an `Err` value: Os { code: 23, kind: Other, message: "Too many open files in system" }', libcore/result.rs:945:5
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+thread 'webdriver dispatcher' panicked at 'Error receiving message in handler: RecvError', /Users/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/webdriver-0.38.0/src/server.rs:95:27
+2019-01-26 14:44:41.122 plugin-container[15532:15964439] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.123 plugin-container[15532:15964439] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.124 plugin-container[15532:15964439] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.125 plugin-container[15533:15964480] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.134 plugin-container[15532:15964439] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.135 plugin-container[15532:15964439] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.135 plugin-container[15532:15964439] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.136 plugin-container[15532:15964439] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.136 plugin-container[15532:15964439] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.136 plugin-container[15532:15964439] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.147 plugin-container[15532:15964439] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.148 plugin-container[15532:15964439] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.719 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.720 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.720 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.720 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.721 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.721 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.721 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.722 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.722 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.725 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.725 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.726 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.731 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.731 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.732 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.732 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.735 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.735 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.736 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.739 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.739 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.746 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.746 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.747 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.747 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.747 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.748 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.749 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.751 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.755 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.755 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.756 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.756 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.757 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.758 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.759 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.764 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.766 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.767 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.773 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.774 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.776 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.776 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.779 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.779 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.783 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.783 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.785 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.786 plugin-container[15544:15964298] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.788 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.789 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.789 plugin-container[15544:15964298] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.789 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.791 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.793 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.794 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.795 plugin-container[15544:15964298] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.795 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.797 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.798 plugin-container[15544:15964298] Critical failure: the LastResort font is unavailable.
+2019-01-26 14:44:41.799 plugin-container[15534:15964555] Critical failure: the LastResort font is unavailable.
+[Child 15544, Cameras IPC] ###!!! ABORT: file /builds/worker/workspace/build/src/ipc/chromium/src/base/rand_util_posix.cc, line 21
+[Child 15544, Cameras IPC] ###!!! ABORT: file /builds/worker/workspace/build/src/ipc/chromium/src/base/rand_util_posix.cc, line 21
+[Parent 15542, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Parent 15542, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Parent 15542, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x4C001A,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x4C001A,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x4C001A,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x4C001A,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x4C001A,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x4C001A,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+dyld: Library not loaded: @executable_path/libmozglue.dylib
+  Referenced from: /Applications/Firefox.app/Contents/MacOS/crashreporter.app/Contents/MacOS/minidump-analyzer
+  Reason: image not found
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1548531897978	Marionette	INFO	Stopped listening on port 58824
+1548532030963	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.U0kjHgwqBhtK"
+*** You are running in headless mode.
+1548532031428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548532031428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548532032650	Marionette	INFO	Listening on port 59782
+1548532032728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548532034353	Marionette	INFO	Stopped listening on port 59782
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548532035969	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.dXdLERAQmn3z"
+*** You are running in headless mode.
+1548532036533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548532036533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548532037932	Marionette	INFO	Listening on port 59884
+1548532038026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQHpSU96SOvTfgAAAWiLs7GgJUA5h48t_utvAd-ia4DVbyhZdZcA6MrYFWKV4SmF92sxS9GlVM-1WzESoI6-njJBoV6TzBISNvmxx6Ypp8wV9aHpYMdMTD-jFpqWB-ISW2ON_hE=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaswatabasu%2F, line 2535: ReferenceError: LIModules is not defined
+1548532085958	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.2UZCKaRfcgH5"
+*** You are running in headless mode.
+1548532086409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548532086410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548532087625	Marionette	INFO	Listening on port 60274
+1548532087692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548532089147	Marionette	INFO	Stopped listening on port 60274
+1548532090701	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.uI3P1iZ2izKG"
+*** You are running in headless mode.
+1548532091166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548532091166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548532092456	Marionette	INFO	Listening on port 60376
+1548532092551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQEYcUCrq4fwVgAAAWiLtIh4AyEh0HZTq8jymG0ArIE95Y7pyjTJdZ5mrbKMYhmv5prQvnJPi7KZnaS4ICU7ypaqyIc76bTtO0gz_lobzZMm7yp44XutvYNnNYelyRamMeuXIWE=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaswatabasu%2F, line 2503: ReferenceError: LIModules is not defined
+1548532103974	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.FvwUocxY8Osu"
+*** You are running in headless mode.
+1548532104435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548532104435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+IPDL protocol Error: Received an invalid file descriptor
+Jan 26 14:48:25  plugin-container[15589] <Error>: CGColorSpaceCreateWithName failed for kCGColorSpaceITUR_709
+[Child 15589, Main Thread] ###!!! ABORT: file /builds/worker/workspace/build/src/ipc/chromium/src/base/rand_util_posix.cc, line 21
+[Child 15589, Main Thread] ###!!! ABORT: file /builds/worker/workspace/build/src/ipc/chromium/src/base/rand_util_posix.cc, line 21
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300020,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300020,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300046,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 15587, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300020,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300020,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300020,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 15587, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300020,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300020,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300020,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300020,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300020,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300020,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300020,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300020,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300020,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300020,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300020,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 632))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 632: Error: Connection closed before committing the transaction.
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 410: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+1548532121933	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.ESpytPztE2j3"
+*** You are running in headless mode.
+1548532122380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548532122381	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+** Unknown exception behavior: 0
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1548532383774	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.QyqRyHnKWRJl"
+*** You are running in headless mode.
+1548532384232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548532384232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548532385501	Marionette	INFO	Listening on port 62054
+1548532385528	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548532387165	Marionette	INFO	Stopped listening on port 62054
+1548532466513	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.f68IevMdOfKl"
+*** You are running in headless mode.
+1548532466969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548532466969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548532468182	Marionette	INFO	Listening on port 62270
+1548532468271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548532469775	Marionette	INFO	Stopped listening on port 62270
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548532613728	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.RkPjqSxapDpc"
+*** You are running in headless mode.
+1548532614216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548532614216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548532615496	Marionette	INFO	Listening on port 62770
+1548532615580	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15672, Main Thread] WARNING: Unable to create pipe named "15672.17.1871767083" in server mode error(Too many open files in system).: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 210
+[15675, Chrome_ChildThread] WARNING: file /builds/worker/workspace/build/src/ipc/chromium/src/base/message_pump_libevent.cc, line 132
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1548532732720	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.ZM9fcTnuQV4n"
+*** You are running in headless mode.
+1548532733204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548532733204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548532734442	Marionette	INFO	Listening on port 63059
+1548532734476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548532736052	Marionette	INFO	Stopped listening on port 63059
+1548532785371	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.x9H4NxSn9HY6"
+*** You are running in headless mode.
+1548532785870	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548532785870	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548532787141	Marionette	INFO	Listening on port 63243
+1548532787232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548532788684	Marionette	INFO	Stopped listening on port 63243
+1548533163193	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.FPjaavazFKUW"
+*** You are running in headless mode.
+1548533163643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548533163643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548533164879	Marionette	INFO	Listening on port 64082
+1548533164935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548533280554	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.pQyEL7xf25jZ"
+*** You are running in headless mode.
+1548533281009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548533281009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548533282247	Marionette	INFO	Listening on port 64337
+1548533282302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548537361783	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.XsNcLKXHl5Om"
+*** You are running in headless mode.
+1548537362295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548537362295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548537363566	Marionette	INFO	Listening on port 55545
+1548537363637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548537365437	Marionette	INFO	Stopped listening on port 55545
+1548537377630	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.MVHiHxHc2M00"
+*** You are running in headless mode.
+1548537378580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548537378581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548537380337	Marionette	INFO	Listening on port 55676
+1548537380418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548537381847	Marionette	INFO	Stopped listening on port 55676
+1548537400005	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.rNWWSe10ebAG"
+*** You are running in headless mode.
+1548537400729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548537400729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548537402651	Marionette	INFO	Listening on port 55817
+1548537402691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548537404193	Marionette	INFO	Stopped listening on port 55817
+1548537415702	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.VKLZohhNrdtH"
+*** You are running in headless mode.
+1548537416343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548537416343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548537417572	Marionette	INFO	Listening on port 55919
+1548537417665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548537419386	Marionette	INFO	Stopped listening on port 55919
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548537461527	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.sYJhjzWibzDn"
+*** You are running in headless mode.
+1548537462002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548537462002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548537463239	Marionette	INFO	Listening on port 56096
+1548537463295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548537465125	Marionette	INFO	Stopped listening on port 56096
+1548537485319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.srWnH6lDiqyK"
+*** You are running in headless mode.
+1548537486179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548537486179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548537488058	Marionette	INFO	Listening on port 56230
+1548537488115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548537490638	Marionette	INFO	Stopped listening on port 56230
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548537506379	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.0Zhgenh5c3E9"
+*** You are running in headless mode.
+1548537507246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548537507246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548537509143	Marionette	INFO	Listening on port 56350
+1548537509176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548537510894	Marionette	INFO	Stopped listening on port 56350
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548537531523	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.Uuql8YADyj7f"
+*** You are running in headless mode.
+1548537532454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548537532454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548537534327	Marionette	INFO	Listening on port 56495
+1548537534335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548537536081	Marionette	INFO	Stopped listening on port 56495
+1548537695309	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.OmNYEhUy82Rl"
+*** You are running in headless mode.
+1548537696107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548537696107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548537697529	Marionette	INFO	Listening on port 56909
+1548537697591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548537699314	Marionette	INFO	Stopped listening on port 56909
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1548537700893	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.UZ2cmUjJKr4d"
+*** You are running in headless mode.
+1548537701425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548537701425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548537702729	Marionette	INFO	Listening on port 57012
+1548537702770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQFMKWJnIN8vzgAAAWiMCiZw8UhuhWUP_HF5qlJze1JW4bSV3kH86fRXjmP_JOEz2yUBV87-ayLAUkI2FF_t378fVy4i31NUlcpSEkyy1s-a_ojywccWtxoYMbGGLMtZkwwPL6w=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaswatabasu%2F, line 2503: ReferenceError: LIModules is not defined
+1548537762144	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.9eQqhTsorlJN"
+*** You are running in headless mode.
+1548537762640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548537762640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548537763920	Marionette	INFO	Listening on port 57245
+1548537763993	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548537765394	Marionette	INFO	Stopped listening on port 57245
+1548537766975	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.h83kLGCyAwSc"
+*** You are running in headless mode.
+1548537767452	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548537767452	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548537768780	Marionette	INFO	Listening on port 57333
+1548537768831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQHHv8c1SYWMdgAAAWiMCyhAEOmlWGJKbnwaTvPZQYiTniuvrcFEghAdphggj2eEtnv-UQH0TDYwANUcJBlUi1XP_-Q6qRkLkQBMBkplixAXntRpejDFZX5XGXxs5mWjYsdUQ-o=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaswatabasu%2F, line 2503: ReferenceError: LIModules is not defined
+1548538329421	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.33F3N7kuo0PO"
+*** You are running in headless mode.
+1548538329897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548538329897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548538331289	Marionette	INFO	Listening on port 58706
+1548538331388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548538332961	Marionette	INFO	Stopped listening on port 58706
+1548538352256	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.yakxzOK5fUIr"
+*** You are running in headless mode.
+1548538352932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548538352932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548538355033	Marionette	INFO	Listening on port 58845
+1548538355062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548538356490	Marionette	INFO	Stopped listening on port 58845
+1548538533324	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/zj/00pg6h9d3zq50krvv0xclj6h0000gn/T/rust_mozprofile.fz3GIQlddjRJ"
+*** You are running in headless mode.
+1548538533810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548538533810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1548538535114	Marionette	INFO	Listening on port 59870
+1548538535169	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548538537139	Marionette	INFO	Stopped listening on port 59870
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
