@@ -7,8 +7,7 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 import shutil
 import time
-from urllib.request import urlopen, Request
-import base64
+import urllib
 
 icos = pd.read_csv('whitepapers_original.csv')
 
@@ -76,38 +75,32 @@ class Google():
 
     #Attempt #3134: this is getting annoying...
     def search_crypto_name_in_results(self, cryto_name, path):
-        #create request, allow browser to identify itself through user-agent header 
-        req = Request(path, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'})
         try:
             #need to setup for all social media? lets setup linkedin first 
             #Method 1
             #create password manager
-            pass_mngr = urllib2.request.HTTPPasswordMgrWithDefaultRealm()
-            print('Hello1')
+            pass_mngr = urllib.request.HTTPPasswordMgrWithDefaultRealm()
             #should definitely secure this with a secret, or just use proxy accounts for now lets leave unsecure 
             pass_mngr.add_password(None, path, 'nquinone', 'soccer01') #yes, this is bad but w/e for right now
-            print('Hello2')
             #create handler to deal with sites that send back 401
-            auth_handler = HTTPBasicAuthHandler(pass_mngr)
-            print('Hello3')
+            auth_handler = urllib.request.HTTPBasicAuthHandler(pass_mngr)
             #OpenerDirector instance
-            opener = build_opener(auth_handler)
-            print('Hello4')
+            opener = urllib.request.build_opener(auth_handler)
             #Use opener for URL fetch
             opener.open(path)
-            print('Hello5')
             #install opener to tie urlopen to opener
-            install_opener(opener)
-            print('Hello6')
+            urllib.request.install_opener(opener)
+            #create request, allow browser to identify itself through user-agent header 
+            req = urllib.request.Request(path, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'})
             #make urlopen call on reques object and read raw html
-            raw_html = urlopen(req).read()
+            raw_html = urllib.request.urlopen(req).read()
             print(raw_html)
-            #Attempt 2:
-            # base64string = base64.b64encode('%s:%s' % ('nquinone', 'soccer01'))
-            # req.add_header("Authorization", "Basic %s" % base64string)
+        #Attempt 2:
+        # base64string = base64.b64encode('%s:%s' % ('nquinone', 'soccer01'))
+        # req.add_header("Authorization", "Basic %s" % base64string)
 
-            # raw_html = urlopen(req).read()
-            print(raw_html)
+        # raw_html = urlopen(req).read()
+        # print(raw_html)
         except:
             #flag team member here
             print('No page could be accessed!')
