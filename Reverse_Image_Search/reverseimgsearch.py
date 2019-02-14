@@ -16,6 +16,7 @@ import logging
 from pprint import pprint
 import re
 from gensim import corpora, models, similarities
+import time
 
 icos = pd.read_csv('whitepapers_original.csv')
 
@@ -63,7 +64,7 @@ class Google():
         self.google_path = 'images.google.com/searchbyimage?image_url='
         self.gyazo = GyazoObj()
         self.root_dir = '/Users/noahquinones/Desktop/Senior_Project/Senior-Design/Reverse_Image_Search/data/'
-        self.geckodrv = '/Users/noahquinones/Desktop/Senior_Project/Senior-Design/Reverse_Image_Search/geckodriver'
+        self.chromedrv = '/Users/noahquinones/Desktop/Senior_Project/Senior-Design/Reverse_Image_Search/chromedriver'
         self.team_list = []
         self.driver = None
 
@@ -71,7 +72,7 @@ class Google():
         #webdriver setup
         options = Options()
         options.headless = True
-        self.driver = webdriver.Firefox(options=options, executable_path=self.geckodrv)
+        self.driver = webdriver.Chrome(options=options, executable_path=self.chromedrv)
 
     def kill_driver(self):
         self.driver.quit()
@@ -88,36 +89,47 @@ class Google():
                 temp_df = pd.DataFrame()
  
     def useSelenium(self, path, isCryptoSearch=False, crypto_search = ""):
-        #get path
-        self.driver.get(path)
-        #raw html list to hold page results
-        html_list = []
-        #psuedo do-while
-        if isCryptoSearch:
-            #find search prompt
-            search_prompt =self.driver.find_element_by_name('q')
-            #send keys to write crypto name + string 'cryptocurrency'
-            search_prompt.send_keys(crypto_search)
-            #use webdriver wait to wait until google search button is clickable (previously it was not viewable) & search by xpath 
-            search_input = WebDriverWait(self.driver, 20).until(expected_conditions.element_to_be_clickable((By.XPATH,'//input[@value = "Google Search"]')))
-            #click google search buttom
-            search_input.click()
-            #gather contents of web page (only first one)
-            target = self.driver.find_element_by_id('cnt')
-            html_list.append(target.get_attribute('innerHTML'))
-            return html_list
-        else:
-            while True:
-                #grab raw-html
+        # try except clause here because Google doesn't like me botting queries and I don't want my whole bunch of unterminated drivers hogging my bandwidth
+        try:
+            #get path
+            self.driver.get(path)
+            #raw html list to hold page results
+            html_list = []
+            #psuedo do-while
+            if isCryptoSearch:
+                #find search prompt
+                search_prompt = self.driver.find_element_by_name('q')
+                #send keys to write crypto name + string 'cryptocurrency'
+                search_prompt.send_keys(crypto_search)
+                #use webdriver wait to wait until google search button is clickable (previously it was not viewable) & search by xpath 
+                '''
+                search_input = WebDriverWait(self.driver, 20).until(expected_conditions.element_to_be_clickable((By.XPATH,'//input[@value = "Google Search"]')))
+                #click google search buttom
+                search_input.click()
+                '''
+                search_prompt.submit()
+                # time.sleep(5)
+                #gather contents of web page (only first one)
+                time.sleep(1) #artificially delay made here so we can trick Google into think we're not botting searches
                 target = self.driver.find_element_by_id('cnt')
                 html_list.append(target.get_attribute('innerHTML'))
-                #psuedo exit condition
-                try: 
-                    #if there is a next page go to it
-                    self.driver.find_element_by_id('pnnext').click()
-                except:
-                    #otherwise no next page, quit driver & associated windows and return the raw_html list which correspond to the raw html for each results page
-                    return html_list
+                return html_list
+            else:
+                while True:
+                    time.sleep(1) #artificially delay made here so we can trick Google into think we're not botting searches
+                    #grab raw-html
+                    target = self.driver.find_element_by_id('cnt')
+                    html_list.append(target.get_attribute('innerHTML'))
+                    #psuedo exit condition
+                    try: 
+                        #if there is a next page go to it
+                        self.driver.find_element_by_id('pnnext').click()
+                    except:
+                        #otherwise no next page, quit driver & associated windows and return the raw_html list which correspond to the raw html for each results page
+                        return html_list
+        except:
+            self.driver.quit()
+            raise
 
     def trim_html(self, html_list, trim_start, trim_end = None):
         #use beautiful soup, make one giant string which is the joined raw_html
@@ -253,42 +265,42 @@ class Google():
                 #setup Team object
                 TeamObj = Team(df)
                 #make temp directory to save some relevant data
-                # os.mkdir('./tmp')
+                #Look up crypto, and trim the html
+                crypto_search_path = 'https://www.google.com/'
+                crypto_query = d + ' crypto'
+                crypto_search_html_list = self.useSelenium(crypto_search_path, isCryptoSearch=True, crypto_search= crypto_query)
+                comparison_document = self.trim_html(crypto_search_html_list, 0, trim_end=1)
                 #else lets examine csv contents
                 for index, row in df.iterrows():
-                    social_media_file = row['Social Media File'] #grab social media file
+                    social_media_file = str(row['Social Media File']) #grab social media file
                     image_file = row['Image File'] #grab image file
                     name = row['Name']
                     Team_MemberObj = Team_Member(row['Name'], image_file) #initialize team member object 
                     #no social media file-> throw red flag? (lower in severity then no csv?)
-                    if social_media_file == 'N/A':
+                    if social_media_file == 'nan':
                         Team_MemberObj.flag_list.append(Flag("social", "N/A", -1.0))
-                        break
+                        continue
                     else:
                         social_media_links = []
+                        print(social_media_file)
                         with open(social_media_file, 'r') as s_m_f:
                             for line in s_m_f:
                                 social_media_links.append(line[line.find('|')+1:line.rfind('\n')]) #ewwwwwww, nasty one liner
-                                break
+                                # break
                         Team_MemberObj.social_media_links = social_media_links #set social media links attr
                         #iterate through social media-links
                         for path in social_media_links:
                             #yeah... ill expand this later it looks pretty ugly
                             social_name = path[path.find('.')+1:path.find('.',13)]
                             Team_MemberObj.flag_list.append(Flag(social_name, "social",  self.search_crypto_name_in_results(d, social_name, path)))
-                            break
+                            # break
                     if image_file == 'N\A':
                         Team_MemberObj.flag_list.append(Flag("image", "N/A", -1.0))
-                        break
+                        continue
                     else:
                         #host image on gyazo
                         img_obj = self.gyazo.upload(image_file)
                         url = img_obj.url
-                        #Look up crypto, and trim the html
-                        crypto_search_path = 'https://www.google.com/'
-                        crypto_query = d + ' crypto'
-                        crypto_search_html_list = self.useSelenium(crypto_search_path, isCryptoSearch=True, crypto_search= crypto_query)
-                        comparison_document = self.trim_html(crypto_search_html_list, 0, trim_end=1)
                         Team_MemberObj.flag_list.append(Flag("image", image_file, self.reverseImageSearch(comparison_document, name, url)))
                     TeamObj.Team_Members.append(Team_MemberObj)
                 TeamObj.calculate_legitimacy_rating()
