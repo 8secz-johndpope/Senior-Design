@@ -177,9 +177,6 @@ def twoLayerBFS(wallet):
     if not transactions:
         return main_node
     print(f'ANALYZING WALLET: {wallet}, contains {len(transactions)} transactions')
-    if len(transactions) > 500:
-        print('TOO MANY TRANSACTIONS IN WALLET... MOVING TO NEXT')
-        return main_node
     for transaction in transactions:
         value = int(transaction['value'])
         timestamp = int(transaction['timeStamp'])
