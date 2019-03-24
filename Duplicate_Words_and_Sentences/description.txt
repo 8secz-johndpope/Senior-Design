@@ -1,0 +1,1 @@
+Iterates over all white papers and counts the number of "suspicious words and phrases" in each white paper

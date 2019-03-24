@@ -374,6 +374,53 @@ def detect_cycles(name, main_wallets):
                 f.write(str(cycle) + '\n')
                 f.write('\n')
 
+def summary_file_pump_test():
+    sum_file = '/SummaryFile.csv'
+    df = pd.read_csv(os.getcwd() + sum_file)
+    for index, row in df.iterrows():
+        distributors = []
+        if str(row['DistributorAddress']) != 'nan':
+            distributors.append(row['DistributorAddress'])
+        if str(row['DistributorAddress2']) != 'nan':
+            distributors.append(row['DistributorAddress2'])
+        if distributors:
+            name = row['STARTUP NAME']
+            target_dir = os.getcwd() + '/pump_results/' + name
+            if os.path.isfile(target_dir + '/pumps.txt'):
+                continue
+
+            print(f'WORKING ON {name}')
+            print(distributors)
+            detect_pumps(name, distributors)
+        else:
+            continue
+
+def pump_search(main_node):
+    prev_list = main_node.prev_list
+    print(f'prev_list len = {len(prev_list)}')
+    close_timestamps = {}
+    for i in range(0, len(prev_list)):
+        close_timestamps[prev_list[i].address] = []
+        for j in range(i+1, len(prev_list)):
+            if abs(prev_list[i].timestamp - prev_list[j].timestamp) < 1000:
+                close_timestamps[prev_list[i].address].append(prev_list[j].address)
+    
+    num_close = 0
+    for key, value in close_timestamps.items():
+        if len(value) > 20:
+            num_close += 1
+
+    if num_close > 40:
+        print('PUMP')
+
+
+
+
+def detect_pumps(name, main_wallets):
+    for wallet in main_wallets:
+        main_node = oneLayerBFS(wallet)
+        pump_search(main_node)
+
 
 def main():
     cwd = os.getcwd()
@@ -399,4 +446,4 @@ def main():
         temp_df = pd.DataFrame([results], columns=cols)
         temp_df.to_csv(cwd + '/results/' + f + '.csv', index=False)
 
-summary_file_test()
+summary_file_pump_test()
