@@ -7,6 +7,7 @@ import pandas as pd
 import requests
 from urllib.request import urlopen, Request
 
+''' Not currently in use, never got a solid guess_main_wallets function '''
 def get_total_supply(address):
     api_key = 'FFHPVZ1WA58G3ZBJZICEITPXUCCMPHR87M'
     url = f'https://api.etherscan.io/api?module=stats&action=tokensupply&contractaddress={address}&apikey={api_key}'
@@ -14,7 +15,6 @@ def get_total_supply(address):
     data = r.json()
     supply = data['result']
     return int(supply)
-
 def guess_main_wallets(df):
     _from, _to, _contractaddress, _quantity = get_cols(df)
     name = df['STARTUP Name'][0]
@@ -56,7 +56,6 @@ def guess_main_wallets(df):
     for key in wallet_sent_amount.keys():
         main_wallets.append(key)
     return main_wallets, token_decimal
-
 def analyze(main_wallets, token_decimal):
     suspicious_wallets = []
     for wallet in main_wallets:
@@ -98,6 +97,7 @@ def get_transactions(address):
     r = requests.get(url)
     data = r.json()['result']
     return data
+'''-----------------------------------------''''
 
 class Node:
     def __init__(self, prev_node, next_node, node_type, address):
