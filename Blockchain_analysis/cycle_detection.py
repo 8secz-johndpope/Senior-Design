@@ -97,7 +97,6 @@ def get_transactions(address):
     r = requests.get(url)
     data = r.json()['result']
     return data
-'''-----------------------------------------''''
 
 class Node:
     def __init__(self, prev_node, next_node, node_type, address):
@@ -123,8 +122,7 @@ class CycleClient:
         if not transactions:
             return main_node
         print(f'ANALYZING WALLET: {wallet}, contains {len(transactions)} transactions')
-        for transaction in transactions:
-            value = int(transaction['value'])
+        for transaction in transactions: value = int(transaction['value'])
             if value == 0:
                 continue
             timestamp = int(transaction['timeStamp'])
