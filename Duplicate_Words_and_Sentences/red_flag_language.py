@@ -7,6 +7,7 @@ from stop_words import get_stop_words
 
 
 
+
 df = pd.read_csv('whitepapers_original.csv')
 df['Red Flag Words'] = np.nan
 
