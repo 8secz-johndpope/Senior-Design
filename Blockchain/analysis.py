@@ -29,8 +29,10 @@ df.to_csv('results.csv', index=False)
 df = pd.read_csv('results.csv')
 
 suspicious = 0
+total = 0
 for index, row in df.iterrows():
+    total += 1
     if row['Double Layer'] > 50 or row['Single Layer'] > 50:
         suspicious += 1
 print(suspicious)
-    
+print(total)
