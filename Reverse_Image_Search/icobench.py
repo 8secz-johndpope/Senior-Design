@@ -105,41 +105,56 @@ class Icobench:
         self.base_url = 'https://icobench.com'
 
     def getAllIcos(self):
-        # retrieve all ICOs from the CSV file Professor Li provided
-        os.chdir('/home/troy/Documents/Senior-Design/Reverse_Image_Search')
+        base_url = 'https://icobench.com'
+        os.chdir('~/Desktop/Senior\ Project\ /Senior-Design/Reverse_Image_Search')
         df = pd.read_csv('whitepapers_original.csv')
+        # create a new directory for the data
+        path_to_data = '~/Desktop/Senior\ Project\ /Senior-Design/Reverse_Image_Search/data'
+        if not os.path.isdir(path_to_data):
+            os.mkdir(path_to_data)
+        # cd to new directory
+        os.chdir(path_to_data)
+        last_project = ''
+        with open('last_ico.txt', 'r') as f:
+            for line in f:
+                last_project = line.strip()
 
-        # create a new directory for the data 
-        path_to_data = '/home/troy/Documents/Senior-Design/Reverse_Image_Search/data'
-        createDirectoryAndChangeToIt(path_to_data)
-
-        ''' if script fails or needs to be restarted last_ico.txt will be 
-         a reference point to not waste time rescraping already scraped projects '''
-        last_project = getLastProject()
-
+        # begin scraping ICOs from the last ICO completed
+        at_current = False
         for index, row in df.iterrows():
             project_name = row['ICO_Name'].replace(' ', '_')
             if not atCurrentProject(project_name, last_project):
                 continue
             # script will continue at the ICO before the last failed ICO
             project_url = row['ico_address']
-            print(f'Currently gathering data for: {project_name}') # project currently being scraped
+            print(project_name)
 
-            # create a new directory within 'data' for this project
-            createDirectoryAndChangeToIt(project_name)
+            # create a new directory for this project
+            if not os.path.isdir(project_name):
+                os.mkdir(project_name)
+            # cd to new directory
+            os.chdir(project_name)
 
-            # request home url of the ico
-            soup = getPageContents(project_url)
-            if not soup:
-                # page doesn't exist
-                projectFailed()
+            # the home url of the ico
+            req = Request(project_url, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'})
+            try:
+                html = urlopen(req).read()
+            except:
+                # icobench does not have a page for this project
+                team_df = pd.DataFrame(columns=cols)
+                team_df.to_csv(project_name + '.csv', index=False)
+                os.chdir('..')
+                #Flag here!
                 continue
 
             # look for team tab
             target = soup.find('a', {'class':'team'})
             if not target:
                 # project has no team -- save empty dataframe and move on to next
-                projectFailed()
+                team_df = pd.DataFrame(columns=cols)
+                team_df.to_csv(project_name + '.csv', index=False)
+                os.chdir('..')
+                #Flag here!
                 continue
 
             # webpage has a team tab
@@ -163,7 +178,7 @@ class Icobench:
             '''
             For every member of the team we want to get their name, image and social media links
             '''
-            # create dataframe to save them to 
+            # dataframe to save them to
             cols = ['Name', 'Image File', 'Social Media File']
             team_df = pd.DataFrame(columns=cols)
             for member in members:
@@ -199,13 +214,11 @@ class Icobench:
 
     ''' This method allows for the data on an individual ICO project to be downloaded '''
     def getIco(self, name, icobench_url):
-        os.chdir('/home/troy/Documents/Senior-Design/Reverse_Image_Search')
-
-        # create a new directory for the data 
-        path_to_data = '/home/troy/Documents/Senior-Design/Reverse_Image_Search/data'
-        createDirectoryAndChangeToIt(path_to_data)
-
-        project_name = name
+        base_url = 'https://icobench.com'
+        os.chdir('/Users/noahquinones/Desktop/Senior Project /Senior-Design/Reverse_Image_Search')
+        df = pd.read_csv('whitepapers_original.csv')
+        os.chdir('/Users/noahquinones/Desktop/Senior Project /Senior-Design/Reverse_Image_Search/data')
+        project_name = name.replace(' ', '_')
         project_url = icobench_url
         print(f'Currently gathering data for: {project_name}') # project currently being scraped
 
@@ -243,7 +256,7 @@ class Icobench:
         '''
         For every member of the team we want to get their name, image and social media links
         '''
-        # create dataframe to save them to 
+        # dataframe to save them to
         cols = ['Name', 'Image File', 'Social Media File']
         team_df = pd.DataFrame(columns=cols)
         for member in members:
@@ -270,6 +283,3 @@ class Icobench:
 
         # save the team dataframe
         team_df.to_csv(project_name + '.csv', index=False)
-        # move back to 'data' directory
-        os.chdir('..')
-

@@ -24,9 +24,9 @@ def count(filename):
 
 
 df = pd.DataFrame(count('BLOCKCHAIN_RESULTS.csv'))
-df.to_csv('results.csv', index=False)
+df.to_csv('PROJECTS_WITH_CYCLES.csv', index=False)
 
-df = pd.read_csv('results.csv')
+df = pd.read_csv('PROJECTS_WITH_CYCLES.csv')
 
 suspicious = 0
 total = 0
