@@ -26,13 +26,14 @@ def count(filename):
 df = pd.DataFrame(count('BLOCKCHAIN_RESULTS.csv'))
 df.to_csv('PROJECTS_WITH_CYCLES.csv', index=False)
 
-df = pd.read_csv('PROJECTS_WITH_CYCLES.csv')
+df = pd.read_csv('BLOCKCHAIN_RESULTS.csv')
 
 suspicious = 0
 total = 0
 for index, row in df.iterrows():
-    total += 1
-    if row['Double Layer'] > 50 or row['Single Layer'] > 50:
+    if row['Status'] == 'OK' and row['DistributorAddress'] and row['DistributorAddress'] != '0x0000000000000000000000000000000000000000':
+        total += 1
+    if row['Double Layer'] > 100 or row['Single Layer'] > 100:
         suspicious += 1
 print(suspicious)
 print(total)
