@@ -1,0 +1,3411 @@
+STARTUP NAME,Status,DistributorAddress,DistributorAddress2,Single Layer,Double Layer
+0chain,NoTokenTransfer,,,0.0,0.0
+0penproductdb,NoMatch,,,0.0,0.0
+0x,OK,0x7f33036d984f67a864c7f413012c31329d4193a2,,0.0,0.0
+0xcert,OK,0xc1678c7d5f4d01d30ad72bc5848bb7dfb248b5b9,,5.0,0.0
+100tokens,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+108 token,NoTokenTransfer,,,0.0,0.0
+1apayment,transfer after ending,,,0.0,0.0
+1kcoin,NonERC20,,,0.0,0.0
+1world,OK,0xad8b03bb5576f31ff3fd29ebda4d5d920a5eafc9,,88.0,0.0
+2100news ico,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+22x fund,ICODateSeemsWrong,,,0.0,0.0
+27v,NonERC20,,,0.0,0.0
+2tf,NoTokenTransfer,,,0.0,0.0
+300 token,OK,0x3edcc4a87486348ce294d109c46dc9debe3af8a4,,5.0,0.0
+300cubits teu,transfer after ending,,,0.0,0.0
+3ccoin,NonERC20,,,0.0,0.0
+4lions.pro,NoTokenTransfer,,,0.0,0.0
+4new,DistributorsHardtoIdentify,,,0.0,0.0
+777.bingo,NoTokenTransfer,,,0.0,0.0
+7ype,NeedtoDownload,,,0.0,0.0
+8 circuit studios,NeedtoDownload,,,0.0,0.0
+8gig,OK,"0x072f140dccce18f9966aeb6d71ffcd0b42748683,0x0f43093b586b011258479e61d41a862e909386e0",,0.0,0.0
+A2b taxi,NoMatch,,,0.0,0.0
+Aaa coin,transfer after ending,,,0.0,0.0
+Aamicoin,NoTokenTransfer,,,0.0,0.0
+Aaramco,NoMatch,,,0.0,0.0
+Ab-chain,AlreadyinPreviousFile,,,0.0,0.0
+Abab,NeedtoDownload,,,0.0,0.0
+Abjcoin,NoTokenTransfer,,,0.0,0.0
+Abl,NoMatch,,,0.0,0.0
+Able,DistributorsHardtoIdentify,,,0.0,0.0
+Abr,NoTokenTransfer,,,0.0,0.0
+Academy,NeedtoDownload,,,0.0,0.0
+Accord ico,OK,0xfb30849bf147c8fec02970a28c623da6ecadee60,,0.0,0.0
+Accounting blockchain,transfer after ending,,,0.0,0.0
+Acebusters,DistributorsHardtoIdentify,,,0.0,0.0
+Aclyd,transfer after ending,,,0.0,0.0
+Acme network,NoTokenTransfer,,,0.0,0.0
+Acomobase,NoMatch,,,0.0,0.0
+Acorn collective,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Acred,NoMatch,,,0.0,0.0
+Act,NoTokenTransfer,,,0.0,0.0
+Acudeen,NonERC20,,,0.0,0.0
+Acumen,NoMatch,,,0.0,0.0
+Acutecoin,NonERC20,,,0.0,0.0
+Adamant messenger,NonERC20,,,0.0,0.0
+Adbank,DistributorsHardtoIdentify,,,0.0,0.0
+Adblurb,NoTokenTransfer,,,0.0,0.0
+Adcircle,NoMatch,,,0.0,0.0
+Adenium,OK,0xe00068c74e3461100d7865d24746bec35f2b19e7,,1.0,0.0
+Adex,DistributorsHardtoIdentify,,,0.0,0.0
+Adgonos,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Adhive,DistributorsHardtoIdentify,,,0.0,0.0
+Aditus,NeedtoDownload,,,0.0,0.0
+Admine,NoMatch,,,0.0,0.0
+Adpump,OK,0x72fed1cc066fd0d0d284ee68084cdc67699c641f,,0.0,0.0
+Adshares,DistributorsHardtoIdentify,,,0.0,0.0
+Adsigma,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Adtoken,OK,0x5678bcea6d6f33f645dca8c8c9b7d8d5caf0a2b1,,0.0,0.0
+Adult x token,,,,0.0,0.0
+Adultcam,NoTokenTransfer,,,0.0,0.0
+Advanced browsing token,NoTokenTransfer,,,0.0,0.0
+Advanced miners,NoMatch,,,0.0,0.0
+Aen,ICODateSeemsWrong,,,0.0,0.0
+Aenco (preico),transfer after ending,,,0.0,0.0
+Aeron,OK,0x0d80e86f5855affaea85bc424066c0f9ce1e40ad,,0.0,0.0
+Aeryus,OK,0xd6e5bba354bbe70bc08ce2e4540e488505ab4124,,0.0,0.0
+Aeternity,NeedtoDownload,,,0.0,0.0
+Aeternum coin,transfer after ending,,,0.0,0.0
+Affchain,NoTokenTransfer,,,0.0,0.0
+Affiliatecoin,NoTokenTransfer,,,0.0,0.0
+Africunia,transfer after ending,,,0.0,0.0
+Afterether,NoTokenTransfer,,,0.0,0.0
+Afterschool,NoTokenTransfer,,,0.0,0.0
+Agent not needed,OK,0xdd01cd9bc79049b827e8e0d86ca7715e9773306c,,0.0,0.0
+Agentmile,transfer after ending,,,0.0,0.0
+Agrecoin (acn),NoTokenTransfer,,,0.0,0.0
+Agrello,OK,0x3e2c6a3b6861d84d98753a2c9fa4f96c65c2ea4f,,0.0,0.0
+Agrichain,transfer after ending,,,0.0,0.0
+Agrivita,NoTokenTransfer,,,0.0,0.0
+Agro tech farm,DistributorsHardtoIdentify,,,0.0,0.0
+Agrolot,NoTokenTransfer,,,0.0,0.0
+Agrotechfarm (preico),Complicated,,,0.0,0.0
+Ahoolee,DistributorsHardtoIdentify,,,0.0,0.0
+Ai crypto,NoTokenTransfer,,,0.0,0.0
+Ai opinion,NoMatch,,,0.0,0.0
+Aida,NoMatch,,,0.0,0.0
+Aidcoin,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Aidus,DistributorsHardtoIdentify,,,0.0,0.0
+Aigang,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Aigatha,NoTokenTransfer,,,0.0,0.0
+Aigcoin,NoMatch,,,0.0,0.0
+Aio.community,NoTokenTransfer,,,0.0,0.0
+Aipay,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Airbloc,OK,0x2cfc06b1ec0735bd7ef00b211764cc7e06e9456a,,0.0,0.0
+Aircoin,NoMatch,,,0.0,0.0
+Aircraft,NoMatch,,,0.0,0.0
+Airdrop united,NonERC20,,,0.0,0.0
+Airen,NoMatch,,,0.0,0.0
+Airexe,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Airforce mining,OK,,,0.0,0.0
+Airgeadcoin,NoMatch,,,0.0,0.0
+Airswap,OK,0x0b7bde66ae610c48e576671db31739e3943c2d38,,0.0,0.0
+Airtoken,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Airtoto,,,,0.0,0.0
+Aisi coin,NonERC20,,,0.0,0.0
+Aitheon,,,,0.0,0.0
+Aitrading,NoTokenTransfer,,,0.0,0.0
+Akaiito,transfer after ending,,,0.0,0.0
+Akilos,NoMatch,,,0.0,0.0
+Akm global,NoTokenTransfer,,,0.0,0.0
+Akrocoin,NoTokenTransfer,,,0.0,0.0
+Aktie social,NoMatch,,,0.0,0.0
+Alcedo,,,,0.0,0.0
+Alchemy (preico),,,,0.0,0.0
+Aleef (preico),OK,0x1dac6191ac75edb8f12b2562797b553cf34dde66,,7.0,0.0
+Alehub,NoMatch,,,0.0,0.0
+Alethena,NoMatch,,,0.0,0.0
+Alfa,NoTokenTransfer,,,0.0,0.0
+Alfatoken,IncompleteInformation,,,0.0,0.0
+Algebraix data,NoMatch,,,0.0,0.0
+Algo.land,NoTokenTransfer,,,0.0,0.0
+Algory project,OK,0xfa79253cbd5671df91dccae40a29ee2cf2eb60f0,,0.0,0.0
+Alibabacoin,NoMatch,,,0.0,0.0
+Alicoin cash,transfer after ending,,,0.0,0.0
+Aligatocoin,ICODateSeemsWrong,,,0.0,0.0
+Alis,DistributorsHardtoIdentify,,,0.0,0.0
+Alkebulancash (one africa cryptocurrency),NonERC20,,,0.0,0.0
+Allchain,NoMatch,,,0.0,0.0
+Allend,NoMatch,,,0.0,0.0
+Allforminer,NoMatch,,,0.0,0.0
+Alloy,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Allstocks,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Alluxe (preico),NoMatch,,,0.0,0.0
+Almbank,NoTokenTransfer,,,0.0,0.0
+Alphamarket,OK,"0x4d8cf569c2fd7c436f44dea3763c6bf967358e8d,0xecfd249f3fb1c32b45b58c67110a25ce9de1ddb5,0x89d80ec155df05ec585a59e1a11a3d3ad6b6cd48",,0.0,0.0
+Alphathereum,NoTokenTransfer,,,0.0,0.0
+Alt planet,NoMatch,,,0.0,0.0
+Alt.estate,transfer after ending,,,0.0,0.0
+Altair vr,NeedtoDownload,,,0.0,0.0
+Alteum,OK,0xb909f226afb8fc0936835ace2de6f260116e5a7b3f778e18f41f9742a31126f5,,0.0,0.0
+Altowl,OK,0xc2ddb68bd9de4c6f156037f53685e61179e8e220,,0.0,0.0
+Alttex,OK,0xb1ed41dc1fe9b723a31137afdd1201d17917fe91,,0.0,0.0
+Alttradex,NeedtoDownload,,,0.0,0.0
+Altumea,NoMatch,,,0.0,0.0
+Alux bank,NoTokenTransfer,,,0.0,0.0
+Ambit,OK,0x3d2b62ad28a7a11824db8d64d170843e3b89f6ec,,0.0,0.0
+Ambrosus,DistributorsHardtoIdentify,,,0.0,0.0
+Amchart,transfer after ending,,,0.0,0.0
+Aml bitcoin,NonERC20,,,0.0,0.0
+Ammeris,NonERC20,,,0.0,0.0
+Amo coin,OK,0x1e0f2597a2f6273b297d40b53d0e472abd18e967,,0.0,0.0
+Amon,,,,0.0,0.0
+Amor,OK,0x37b161b04db240886cf8c494b83a1c76f7e31c56,,0.0,0.0
+Amorito,NoTokenTransfer,,,0.0,0.0
+Amos,NoTokenTransfer,,,0.0,0.0
+Ample! coin,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Amplify,transfer after ending,,,0.0,0.0
+Anacoin,NeedtoDownload,,,0.0,0.0
+Angel token,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Ankorus,OK,0x00000000000000000000000000000000000000b1,,0.0,0.0
+Anna,NoTokenTransfer,,,0.0,0.0
+Anonymous service chain (preico),NoTokenTransfer,,,0.0,0.0
+Antavira,NoMatch,,,0.0,0.0
+Anti derivative,NoTokenTransfer,,,0.0,0.0
+Antimass ico,NoMatch,,,0.0,0.0
+Antiqmall,NeedtoDownload,,,0.0,0.0
+Aphelion,NoTokenTransfer,,,0.0,0.0
+Apis,OK,0x648882885785633309d7ef4f463fb2f7e53698e4,,1.0,0.0
+Apis beechain,DistributorsHardtoIdentify,,,0.0,0.0
+Apla,,,,0.0,0.0
+Apo finance,NoMatch,,,0.0,0.0
+Apollo currency,NoTokenTransfer,,,0.0,0.0
+Apollo dae,NoTokenTransfer,,,0.0,0.0
+Apollo septem,Complicated,,,0.0,0.0
+Apollon,transfer after ending,,,0.0,0.0
+Appay,OK,0xab9ecfdbb0abc5da29f166e3d4429b8c0de493ce,,0.0,0.0
+Appcoins,OK,0xa684a3371e0d46bca4a6db1ff538a44f1440a855,,0.0,0.0
+Appics,NonERC20,,,0.0,0.0
+Apres,OK,0xefda28d0572df32d35e6de45c2a1ce57e7de5041,,0.0,0.0
+Aqua,transfer after ending,,,0.0,0.0
+Aragon,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Araw,NonERC20,,,0.0,0.0
+Arbi,NoTokenTransfer,,,0.0,0.0
+Arbidex,NoTokenTransfer,,,0.0,0.0
+Arbitraging,transfer after ending,,,0.0,0.0
+Arc reserve currency,NoTokenTransfer,,,0.0,0.0
+Arcade city,IncompleteInformation,,,0.0,0.0
+Arcadia,Complicated,,,0.0,0.0
+Arcallia,NoMatch,,,0.0,0.0
+Arcblock,OK,0x4fd95f61a1b52b3c272ae449e95cfc307d19afd6,,0.0,0.0
+Arcona,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Arevalor,NoTokenTransfer,,,0.0,0.0
+Argo reality,NoTokenTransfer,,,0.0,0.0
+Argyle,NoTokenTransfer,,,0.0,0.0
+Arisebank,NonERC20,,,0.0,0.0
+Arizn,NoTokenTransfer,,,0.0,0.0
+Arkadia,NoTokenTransfer,,,0.0,0.0
+Armor ceramics,NeedtoDownload,,,0.0,0.0
+Armpack,NoMatch,,,0.0,0.0
+Arna panacea,OK,0x09873cdd92782ee43e7881da138a156e7e8835f5,,0.0,0.0
+Arqute g.a.s.,OK,0x116676d386404238f54589ccdbbce1638aa8cb0d,,0.0,0.0
+Arrm,NoTokenTransfer,,,0.0,0.0
+Arround,transfer after ending,,,0.0,0.0
+Artchain global,DistributorsHardtoIdentify,,,0.0,0.0
+Artemine,NeedtoDownload,,,0.0,0.0
+Artex,NoTokenTransfer,,,0.0,0.0
+Artis,CancelledICO,,,0.0,0.0
+Artis turba,NeedtoDownload,,,0.0,0.0
+Artwook,OK,0xb81f26d105bf46c0d956bebdd0cc89d34aa94053,,0.0,0.0
+Asicvault,NonERC20,,,0.0,0.0
+Asobi,DistributorsHardtoIdentify,,,0.0,0.0
+Asset token,IncompleteInformation,,,0.0,0.0
+Asseta,OK,0x305ee1aea4ce97f764618f0540ea6fb37c7186ba,,0.0,0.0
+Assetereum,NoMatch,,,0.0,0.0
+Assistive reality arx,NeedtoDownload,,,0.0,0.0
+Aston,transfer after ending,,,0.0,0.0
+Astorgame,OK,0x16b364f5ef7c81479754a8958fcf2756ef0d4652,,0.0,0.0
+Astoria (preico),NoMatch,,,0.0,0.0
+Astrcoin,OK,0x3efae2e152f62f5cc12cc0794b816d22d416a721,,0.0,0.0
+Astronaut,OK,0xbce77d679864e792b5ec5ae3dd3fe360cc5c75c0,,0.0,0.0
+Asura coin,NonERC20,,,0.0,0.0
+Atfs project,NeedtoDownload,,,0.0,0.0
+Athena,NeedtoDownload,,,0.0,0.0
+Athero,transfer after ending,,,0.0,0.0
+Atisios,NoMatch,,,0.0,0.0
+Atlant,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Atmatrix,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Atmtoken,NeedtoDownload,,,0.0,0.0
+Atrix,OK,0x9b326a64f837c4d52ad99ffa264273b012eaab95,,0.0,0.0
+Attention network,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Auctus,NeedtoDownload,,,0.0,0.0
+Augmate,NoMatch,,,0.0,0.0
+Augur,DistributorsHardtoIdentify,,,0.0,0.0
+Aunite,NoMatch,,,0.0,0.0
+Auricoin,,,,0.0,0.0
+Aurora,transfer after ending,,,0.0,0.0
+Authenticid,NoTokenTransfer,,,0.0,0.0
+Authoreon,OK,0xf982113d7d7d37e2bc931bd183406efa529e52fd,,3.0,0.0
+Authorship,OK,0xa68ba00236769703d30c17f63444cc7b3d509c72,,0.0,0.0
+Authpaper,transfer after ending,,,0.0,0.0
+Autonio,OK,0x952b3cba812321a10e49e1c86132e701b54fa7e0,,1.0,0.0
+Autoxchange,,,,0.0,0.0
+Avago,OK,0x8d7b3a122b8379fad019ed35e3899951148d9027,,1.0,188.0
+Avalon,NoTokenTransfer,,,0.0,0.0
+Avantgarde ratings,transfer after ending,,,0.0,0.0
+Avaqva,NoTokenTransfer,,,0.0,0.0
+Avatar network,transfer after ending,,,0.0,0.0
+Avatara,OK,0x9653b504a33fe5d2434af7ccacfcd4304862b23a,,0.0,0.0
+Aventus,OK,0x8b7b6c61238088593bf75eec8fbf58d0a615d30c,,0.0,0.0
+Avesta,NoMatch,,,0.0,0.0
+Avinoc,DistributorsHardtoIdentify,,,0.0,0.0
+Aworker,transfer after ending,,,0.0,0.0
+Ax1,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Axens,NonERC20,,,0.0,0.0
+Axnet,transfer after ending,,,0.0,0.0
+Axpire,NeedtoDownload,,,0.0,0.0
+Axtrust,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Azbit,,,,0.0,0.0
+B-mail,OK,0x535f366f93b205a86c93c70cc02755d01a80977f,,6.0,125.0
+B.sure,NoMatch,,,0.0,0.0
+B2and,transfer after ending,,,0.0,0.0
+B2bx,OK,0xef02e1a87c91435349437f035f85f5a85f6b39ae,,0.0,0.0
+Baanx.com,OnlyPreICO,,,0.0,0.0
+Baappay,OK,0xab9ecfdbb0abc5da29f166e3d4429b8c0de493ce,,0.0,0.0
+Baappay,NeedtoDownload,,,0.0,0.0
+Baasid,transfer after ending,,,0.0,0.0
+Babb,NeedtoDownload,,,0.0,0.0
+Bablos,DistributorsHardtoIdentify,,,0.0,0.0
+Bace exchange,OK,0x7d7caeb5badbda7bb803fd2ad3b60396f60e897d,,0.0,0.0
+Backpack travel,OK,0x65fb0727416e6fe45299487c0bf7b33fd5895b59,,0.0,0.0
+Bactoalarm,NoTokenTransfer,,,0.0,0.0
+Bahiti,,,,0.0,0.0
+Bailsman,NonERC20,,,0.0,0.0
+Balehu bucks,NoMatch,,,0.0,0.0
+Baltic.fund,NeedtoDownload,,,0.0,0.0
+Balticrypto,NoMatch,,,0.0,0.0
+Bananacoin,DistributorsHardtoIdentify,,,0.0,0.0
+Banca,DistributorsHardtoIdentify,,,0.0,0.0
+Bancor,NeedtoDownload,,,0.0,0.0
+Bancryp,OK,0x66fc388e7af7ee6198d849a37b89a813d559913a,,0.0,0.0
+Bank of memories,IncompleteInformation,,,0.0,0.0
+Bank4you,transfer after ending,,,0.0,0.0
+Bankera,NoTokenTransfer,,,0.0,0.0
+Bankex,OK,0xdef97e9f16831da75a52ff583323c4cdd1f508da,,0.0,0.0
+Bankorus,NoTokenTransfer,,,0.0,0.0
+Bannercoin,NeedtoDownload,,,0.0,0.0
+Bartvault,NoMatch,,,0.0,0.0
+Basic attention,DistributorsHardtoIdentify,,,0.0,0.0
+Basis neuro,OK,0xfb7bdc6358d88ac73d302193120bd7843f9cfd04,,0.0,0.0
+Battle ball,NoTokenTransfer,,,0.0,0.0
+Battle of titans,NoTokenTransfer,,,0.0,0.0
+Battledrome,OK,0xeaaf270436a0ed397ed23bbf64df7b1dcaff142f,,0.0,0.0
+Bayan token,transfer after ending,,,0.0,0.0
+Bazista,OK,0xb5d048eaa605c43074bfb3a2ab2751c0c75f1c44,,0.0,0.0
+Bbiller,DistributorsHardtoIdentify,,,0.0,0.0
+Bcb atm,,,,0.0,0.0
+Bcdiploma,NeedtoDownload,,,0.0,0.0
+Bcedex,,,,0.0,0.0
+Bcg,transfer after ending,,,0.0,0.0
+Bcharity - international charity exchange,NoTokenTransfer,,,0.0,0.0
+Bcshop,DistributorsHardtoIdentify,,,0.0,0.0
+Bdaq (preico),NoTokenTransfer,,,0.0,0.0
+Bdcc,transfer after ending,,,0.0,0.0
+Bdxalliance,DistributorsHardtoIdentify,,,0.0,0.0
+Beankh,NoTokenTransfer,,,0.0,0.0
+Beat,ICODateSeemsWrong,,,0.0,0.0
+Beatle,NoTokenTransfer,,,0.0,0.0
+Beatrix (preico),NoMatch,,,0.0,0.0
+Beautiq,NonERC20,,,0.0,0.0
+Beaxy exchange,NoTokenTransfer,,,0.0,0.0
+Beeasy,transfer after ending,,,0.0,0.0
+Beefcoin,OK,0x359a0a48a9cd57442852a9f23ecfbd40d63f6163,,0.0,0.0
+Beemedics,NonERC20,,,0.0,0.0
+Beeqb,OK,0x51155c8e42b1d0caef3a0c6653d7b18db384d38f,,1.0,0.0
+Beercoin,DistributorsHardtoIdentify,,,0.0,0.0
+Beesocials,NoTokenTransfer,,,0.0,0.0
+Befund,DistributorsHardtoIdentify,,,0.0,0.0
+Beldex,NonERC20,,,0.0,0.0
+Belotto,OK,0x1d54064456965c1da3b95241aafe9218f22f48d8,,0.0,0.0
+Beluga pay,NeedtoDownload,,,0.0,0.0
+Benepit,DistributorsHardtoIdentify,,,0.0,0.0
+Benjacoin,OK,0xbce77d679864e792b5ec5ae3dd3fe360cc5c75c0,,0.0,0.0
+Bergmannos,OK,0x9dafa0dc324f25de967815540652098dee09163c,,0.0,0.0
+Berith,DistributorsHardtoIdentify,,,0.0,0.0
+Bestmeta,NoTokenTransfer,,,0.0,0.0
+Bet on chart (preico),OnlyPreICO,,,0.0,0.0
+Betboxai,NoTokenTransfer,,,0.0,0.0
+Betevent,NoTokenTransfer,,,0.0,0.0
+Betex,transfer after ending,,,0.0,0.0
+Betking,OK,0x40f2351cc9a712d5abb18da9b12a0bff263e677f,,0.0,0.0
+Betley,NoTokenTransfer,,,0.0,0.0
+Betmaster,NoTokenTransfer,,,0.0,0.0
+Betmatch,,,,0.0,0.0
+Betrium,NeedtoDownload,,,0.0,0.0
+Betstreak,NeedtoDownload,,,0.0,0.0
+Betterbetting,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Beuthereum,NoTokenTransfer,,,0.0,0.0
+Beverage.cash,NoMatch,,,0.0,0.0
+Beyond the void,OK,0x20d42f2e99a421147acf198d775395cac2e8b03d,,0.0,0.0
+Bf token,transfer after ending,,,0.0,0.0
+Bftoken,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Bgx,ICODateSeemsWrong,,,0.0,0.0
+Bhom,NeedtoDownload,,,0.0,0.0
+Bibox,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Bico,NoTokenTransfer,,,0.0,0.0
+Bidium,transfer after ending,,,0.0,0.0
+Bidooh,DistributorsHardtoIdentify,,,0.0,0.0
+Big data coin,NoTokenTransfer,,,0.0,0.0
+Big foundation,NoTokenTransfer,,,0.0,0.0
+Big token,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Bigbom eco,OK,0x8dfe835184c0a53889fa298fd97dca99244d39bc,,0.0,0.0
+Bigtangle,,,,0.0,0.0
+Bilibit,OK,0x5499828ad187f43f678b69b0b6ce3f6be53af41c,,1.0,0.0
+Bill and go,NonERC20,,,0.0,0.0
+Billion,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Billionaire token,DistributorsHardtoIdentify,,,0.0,0.0
+Binance,DistributorsHardtoIdentify,,,0.0,0.0
+Binary,NoTokenTransfer,,,0.0,0.0
+Binex.trade,NoTokenTransfer,,,0.0,0.0
+Binocoin,NoTokenTransfer,,,0.0,0.0
+Biofactorycoin,NoTokenTransfer,,,0.0,0.0
+Biohal,,,,0.0,0.0
+Biometrids,OK,0x38bdb4ca3e2837597beb8d189ddd6b89704a4066,,2.0,1212.0
+Bionic,ICODateSeemsWrong,,,0.0,0.0
+Biopaycoin,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Bioritmai,NoTokenTransfer,,,0.0,0.0
+Biotor biomass,NoTokenTransfer,,,0.0,0.0
+Biotron.io,transfer after ending,,,0.0,0.0
+Birake,NoMatch,,,0.0,0.0
+Birc,ComplexPatterns,,,0.0,0.0
+Birdchain,NoTokenTransfer,,,0.0,0.0
+Bit-learn,NoMatch,,,0.0,0.0
+Bit.game,OK,"0xc817a2afe8f6ba1a697daaa1df834e18be9403e7,0xf13b2d7c5d6d6e93f79d41fa72cfd33a75c0607d",,0.0,0.0
+Bitair,OK,0x75cd8db9bc7dada2649325ab38af12409bfe4e7c,,47.0,0.0
+Bitarq,DistributorsHardtoIdentify,,,0.0,0.0
+Bitboost,OK,0xbce77d679864e792b5ec5ae3dd3fe360cc5c75c0,,0.0,0.0
+Bitbose,transfer after ending,,,0.0,0.0
+Bitbounce,DistributorsHardtoIdentify,,,0.0,0.0
+Bitcab ico,NoTokenTransfer,,,0.0,0.0
+Bitcad,transfer after ending,,,0.0,0.0
+Bitcanna,,,,0.0,0.0
+Bitcar,transfer after ending,,,0.0,0.0
+Bitchord,NoTokenTransfer,,,0.0,0.0
+Bitclave,NeedtoDownload,,,0.0,0.0
+Bitcoin ichip,DistributorsHardtoIdentify,,,0.0,0.0
+Bitcoinbing,OK,0x36a01b0586445169a51b9481ba2952f64445f71c,,0.0,0.0
+Bitcoincorner,,,,0.0,0.0
+Bitcoinmax,,0x9332f3dbc7d7d10c85d1be872c03becfaa318d38,,0.0,0.0
+Bitcoinus,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Bitconscious foundation,NoTokenTransfer,,,0.0,0.0
+Bitcqr,OK,0x171bea300b57cc724c2a2f35f2c1bdde1ddd4fb5,,0.0,0.0
+Bitdegree,OK,0xe259ece17feef05bdead9689c6f1bc8e778c517b,,2.0,4.0
+Bitdepositary (preico),OK,"0xc1ac898c9cce4288616bad3344f5be3dda5bd790,0x58a6990f93aeb96dbc2a52a535c867c3654bcae5,0x9ac99753fe7f2e5064aec672cfecfa2d339dc542",,0.0,0.0
+Bitdice,OK,0xb6a2dc96c6efc17ed1815aaf82f53ffa6305161b,,750.0,0.0
+Bitdollar fund,NoTokenTransfer,,,0.0,0.0
+Bitdouble,NonERC20,,,0.0,0.0
+Bitecoin network,NoTokenTransfer,,,0.0,0.0
+Bitesprit,NoTokenTransfer,,,0.0,0.0
+Bitether,NeedtoDownload,,,0.0,0.0
+Bitex,transfer after ending,,,0.0,0.0
+Bitfair,NoTokenTransfer,,,0.0,0.0
+Bitfence,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Bitferry,NeedtoDownload,,,0.0,0.0
+Bitforex,NonERC20,,,0.0,0.0
+Bitguild,OK,0x4118d7f757ad5893b8fa2f95e067994e1f531371,,0.0,0.0
+Bitheum,NonERC20,,,0.0,0.0
+Bithub,NoTokenTransfer,,,0.0,0.0
+Bitimage,NoTokenTransfer,,,0.0,0.0
+Bitindia,NeedtoDownload,,,0.0,0.0
+Bitjob,OK,0x7ca63aa7bf5bd6f51cb5a5c28aef6ac94e16be2a,,0.0,0.0
+Bitlumens (preico),NoTokenTransfer,,,0.0,0.0
+Bitmag,NoTokenTransfer,,,0.0,0.0
+Bitmart,NeedtoDownload,,,0.0,0.0
+Bitmed,NoTokenTransfer,,,0.0,0.0
+Bitmillex,transfer after ending,,,0.0,0.0
+Bitminutes,transfer after ending,,,0.0,0.0
+Bitnation,transfer after ending,,,0.0,0.0
+Bitnautic,transfer after ending,,,0.0,0.0
+Bitone network,,,,0.0,0.0
+Bitplus network,NeedtoDownload,,,0.0,0.0
+Bitproperty,NeedtoDownload,,,0.0,0.0
+Bitquence,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Bitrace,OK,0xcf46a1599b2d1d4be213ac4415629de72cb93da2,,0.0,0.0
+Bitrent,NeedtoDownload,,,0.0,0.0
+Bitrewards,NoTokenTransfer,,,0.0,0.0
+Bitron,OK,0x008f8b5749963946c205b29c01ea4db168e9b47c,,0.0,0.0
+Bitrust,NoTokenTransfer,,,0.0,0.0
+Bitscreener,transfer after ending,,,0.0,0.0
+Bitsmo,NonERC20,,,0.0,0.0
+Bitsoft bay,NoTokenTransfer,,,0.0,0.0
+Bitsoko,DistributorsHardtoIdentify,,,0.0,0.0
+Bitsong,NoTokenTransfer,,,0.0,0.0
+Bitstump,NeedtoDownload,,,0.0,0.0
+Bitsync,NoMatch,,,0.0,0.0
+Bittech (preico),OK,0x8e8d4cdadbc027b192dff91c77382521b419e5a2,,1.0,0.0
+Bitto exchange,transfer after ending,,,0.0,0.0
+Bittrace,NoMatch,,,0.0,0.0
+Bittwatt,transfer after ending,,,0.0,0.0
+Bitway,DistributorsHardtoIdentify,,,0.0,0.0
+Bitxoxo,transfer after ending,,,0.0,0.0
+Bityond,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Bizkey,ICODateSeemsWrong,,,0.0,0.0
+Black insurance,NoMatch,,,0.0,0.0
+Blackfol.io,OK,0x645f41d1e96109564ca7c8f9615b807e956de68f,,0.0,0.0
+Blackmoon,DistributorsHardtoIdentify,,,0.0,0.0
+Blocform,OK,0x7861a12a4c225d7de5367ec90fdaa24cea2c91d8,,0.0,0.0
+Block broker,NoTokenTransfer,,,0.0,0.0
+Block web,NoMatch,,,0.0,0.0
+Block-chain.com,transfer after ending,,,0.0,0.0
+Blockaip,NoMatch,,,0.0,0.0
+Blockarray,NeedtoDownload,,,0.0,0.0
+Blockav,NoTokenTransfer,,,0.0,0.0
+Blockbank,DistributorsHardtoIdentify,,,0.0,0.0
+Blockbid,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Blockbits,NoTokenTransfer,,,0.0,0.0
+Blockcat,DistributorsHardtoIdentify,,,0.0,0.0
+Blockchain capital,DistributorsHardtoIdentify,,,0.0,0.0
+Blockchain neural system,NoTokenTransfer,,,0.0,0.0
+Blockchain taxi,NoTokenTransfer,,,0.0,0.0
+Blockchain technology research innovations corporation,NoMatch,,,0.0,0.0
+Blockchain terminal,NoMatch,,,0.0,0.0
+Blockchain traded fund,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Blockchain ventureon,transfer after ending,,,0.0,0.0
+Blockchain.io,transfer after ending,,,0.0,0.0
+Blockex,NeedtoDownload,,,0.0,0.0
+Blockfood,NoMatch,,,0.0,0.0
+Blockgrain,NoMatch,,,0.0,0.0
+Blockhipo,OnlyPreICOTransactions,,,0.0,0.0
+Blockhive,NoTokenTransfer,,,0.0,0.0
+Blockkonnect,NoTokenTransfer,,,0.0,0.0
+Blocklancer,NoTokenTransfer,,,0.0,0.0
+Blocklicense,NoTokenTransfer,,,0.0,0.0
+Blockmason,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Blockmesh,,,,0.0,0.0
+Blockonomics,NoTokenTransfer,,,0.0,0.0
+Blockpass,DistributorsHardtoIdentify,,,0.0,0.0
+Blockport,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Blockrx,NoTokenTransfer,,,0.0,0.0
+Blockscart,NonERC20,,,0.0,0.0
+Blockshipping gscp,OK,0xda92301810727d563bef3c853377371208fc972c,,0.0,0.0
+Blocksquare.io,NeedtoDownload,,,0.0,0.0
+Blocktix,OK,0xea1f346faf023f974eb5adaf088bbcdf02d761f4,,0.0,0.0
+Blockv,OK,0xc97666cc53d78605c295547dc1b459733c7ea064,,0.0,0.0
+Blockwei,NoTokenTransfer,,,0.0,0.0
+Blocvehicle,NoTokenTransfer,,,0.0,0.0
+Blok,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Blokcoin,NoTokenTransfer,,,0.0,0.0
+Bloom,OK,0xb547cc51ce58293e6945ba08d664ce051563d9ac,,0.0,0.0
+Bloomzed,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Blue one (preico),NoMatch,,,0.0,0.0
+Blue whale,NeedtoDownload,,,0.0,0.0
+Blueocean,,,,0.0,0.0
+Blupass ico,NoTokenTransfer,,,0.0,0.0
+Bluzelle,OK,0xbc05e610eaac542bfa64504025413291beb58d36,,0.0,0.0
+Bmchain,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Bmybit,NonERC20,,,0.0,0.0
+Boatpilot,NoTokenTransfer,0xd9f82f63b1d400595aec7277820ff71c44b65ad0,,0.0,0.0
+Bob's repair,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Bodhi,NonERC20,,,0.0,0.0
+Bolenum,OK,0xcc3bfb63bccee5d353627c9c34443d5f9257919c,,0.0,0.0
+Boliecoin,NonERC20,,,0.0,0.0
+Bolt,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Bolton coin,NoMatch,,,0.0,0.0
+Bond film platform,NoTokenTransfer,,,0.0,0.0
+Bondkick syndicate,OK,0x6e7eb7c864a5d76b9306007326ecc37c78651290,,4.0,32.0
+Bonpay,DistributorsHardtoIdentify,,,0.0,0.0
+Boomstarter.network,OK,"0x270f88b0481f24d8638adf3019364fa9257f2ee3,0xff37cb3d46dd20a40dbd5e77c7037eab0d62a542",,0.0,0.0
+Boons,,,,0.0,0.0
+Boosteroid,OK,0xbd00ce9c7c88e05373ecaba02a63277e8d9cf3e5,,0.0,0.0
+Boosto (preico),OnlyPreICO,,,0.0,0.0
+Bopti,OK,0x3b7745f035e0f182c2c3a82b594697ae18792a44,,0.0,0.0
+Borneo,NonERC20,,,0.0,0.0
+Botchain,NeedtoDownload,,,0.0,0.0
+Botgaming,NoTokenTransfer,,,0.0,0.0
+Botxcoin,transfer after ending,,,0.0,0.0
+Bountie,transfer after ending,,,0.0,0.0
+Bounty hunter,transfer after ending,,,0.0,0.0
+Bounty0x,OK,0xf32d328af90d5ac22b1bbeda4114fd15b2fa09ee,,0.0,0.0
+Boutspro,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Box of data,NoMatch,,,0.0,0.0
+Box2table,NoMatch,,,0.0,0.0
+Bpay,NoTokenTransfer,,,0.0,0.0
+Bqt,,,,0.0,0.0
+Br11,NoMatch,,,0.0,0.0
+Brainerz,NoMatch,,,0.0,0.0
+Brat,IncompleteInformation,,,0.0,0.0
+Bread,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Breeze coin,DistributorsHardtoIdentify,,,0.0,0.0
+Brem,NoTokenTransfer,,,0.0,0.0
+Bricbit,NoTokenTransfer,,,0.0,0.0
+Brick,NoMatch,,,0.0,0.0
+Brickblock,OK,0x59d8c5a3e2d25a550e294d82dfb2a3128d324bbc,,0.0,0.0
+Brisk pass,NeedtoDownload,,,0.0,0.0
+Brixby,NeedtoDownload,,,0.0,0.0
+Bronix,NoTokenTransfer,,,0.0,0.0
+Brotherly,NoTokenTransfer,,,0.0,0.0
+Browsers lab,DistributorsHardtoIdentify,,,0.0,0.0
+Brumh,NonERC20,,,0.0,0.0
+Bryllite,DistributorsHardtoIdentify,,,0.0,0.0
+Btu protocol,,,,0.0,0.0
+Bubbletone,NonERC20,,,0.0,0.0
+Bucky,OK,0x965a2a21c60252c09e5e2872b8d3088424c4f58a,,1.0,11.0
+Budbo,NeedtoDownload,,,0.0,0.0
+Buddtoken,NoTokenTransfer,,,0.0,0.0
+Buglab,NoTokenTransfer,,,0.0,0.0
+Bulleon,NeedtoDownload,,,0.0,0.0
+Bumo,NoTokenTransfer,,,0.0,0.0
+Bunnytoken,OK,0xf9e5041a578d48331c54ba3c494e7bcbc70a30ca,,1.0,3859.0
+Buratinobs,NoMatch,,,0.0,0.0
+Burn coin,ICODateSeemsWrong,,,0.0,0.0
+Byeshares,NoTokenTransfer,,,0.0,0.0
+Bytebet (preico),NoTokenTransfer,,,0.0,0.0
+Bytemine,transfer after ending,,,0.0,0.0
+Bytom,DistributorsHardtoIdentify,,,0.0,0.0
+C3c.network (preico),OK,0xdfdc52e5c08840aa061f605e6fb9d97deaec05ea,,25.0,30243.0
+Cacao shares,OK,0x906a6ceec7256b02bd16401d2993bf9b1ed89b9c,,0.0,0.0
+Cache,NonERC20,,,0.0,0.0
+Caerus connections,OK,0x420bc15f00ebab1160bf666e9d8f62a34bbcec1e,,1.0,1.0
+Cafecoin,transfer after ending,,,0.0,0.0
+Cajutel,OK,0x3c6a7ab47b5f058be0e7c7fe1a4b7925b8aca40e,,0.0,0.0
+Callback plus,NoMatch,,,0.0,0.0
+Camonroad,NoMatch,,,0.0,0.0
+Camx,NonERC20,,,0.0,0.0
+Cannavenue,NoTokenTransfer,,,0.0,0.0
+Canya,OK,0x0009dd361ea5aa03e07ad04496f002002818928d,,0.0,0.0
+Capdax,NeedtoDownload,,,0.0,0.0
+Capital (preico),NoMatch,,,0.0,0.0
+Cappasity,ImpreciseInformation,,,0.0,0.0
+Capverto,,,,0.0,0.0
+Car token,NeedtoDownload,,,0.0,0.0
+Carbon dollar x,NeedtoDownload,,,0.0,0.0
+Carbon grid protocol,,,,0.0,0.0
+Carboneum,OK,0x5023cfabaea4d331fa78d50cc5de5102341df649,,2.0,57.0
+Cardium,OK,0xf482b137399c00bb534f0da6826eed27ee54b15e,,0.0,0.0
+Cardonio,,,,0.0,0.0
+Cardstack,NoTokenTransfer,,,0.0,0.0
+Careerxon,NeedtoDownload,,,0.0,0.0
+Careonchain (preico),NonERC20,,,0.0,0.0
+Careparrot,NoMatch,,,0.0,0.0
+Carex,OK,0x9c9597805a6622ce541be1e3c74a3c998c61b408,,0.0,0.0
+Cargox,NeedtoDownload,,,0.0,0.0
+Carios,NoTokenTransfer,,,0.0,0.0
+Carry,NoMatch,,,0.0,0.0
+Carsmartt,,,,0.0,0.0
+Cartaxi,DistributorsHardtoIdentify,,,0.0,0.0
+Cartel,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Cartographeum,OK,0xeb6bddcc8c14938bc7fd9403a842c28dce43745c,,0.0,0.0
+Carvdb,OK,0x8fd66e4533ea0f06bf2e30af7a5710428e508eda,,0.0,0.0
+Carvertical,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Casagram,NoTokenTransfer,,,0.0,0.0
+Cash poker pro,DistributorsHardtoIdentify,,,0.0,0.0
+Cashaa,OK,0x18359735e06cdb531ac895fd41d46dd231d9a147,,0.0,0.0
+Cashbag,OK,0xbbc4261fa8d253ba1861e6d87946a50487a3b8c8,,0.0,0.0
+Cashbet,,,,0.0,0.0
+Casper (preico),NoTokenTransfer,,,0.0,0.0
+Caspian,OK,0xd0b6caf67e3cc44ea888b12acfc807fd258ffb8d,,0.0,0.0
+Caviar,NeedtoDownload,,,0.0,0.0
+Cazaar,NoMatch,,,0.0,0.0
+Cbnt,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Cca,NoTokenTransfer,,,0.0,0.0
+Ccecoin,DistributorsHardtoIdentify,,,0.0,0.0
+Ccint,NoTokenTransfer,,,0.0,0.0
+Ccore,OK,0xcfe66a7339bd08469bb2fc6ab4caed4c022fc6ac,,1.0,0.0
+Cdrx,transfer after ending,,,0.0,0.0
+Cederis,OK,0x19c9fff1bd730db8c7b1e8a39dc05d4daf51fdc9,,0.0,0.0
+Cedex,NeedtoDownload,,,0.0,0.0
+Cedium,NoMatch,,,0.0,0.0
+Ceek,transfer after ending,,,0.0,0.0
+Celes chain (preico),NoTokenTransfer,,,0.0,0.0
+Celestial coin,NoTokenTransfer,,,0.0,0.0
+Cellblocks,OK,0x3fbf9b60242eb702870a1d462d8818b3a5e521d9,,0.0,0.0
+Celsius,OK,,,0.0,0.0
+Centive,NoTokenTransfer,,,0.0,0.0
+Centrality,transfer after ending,,,0.0,0.0
+Certore,transfer after ending,,,0.0,0.0
+Cewnote,NoTokenTransfer,,,0.0,0.0
+Cfrs,NoTokenTransfer,,,0.0,0.0
+Cgcx,transfer after ending,,,0.0,0.0
+Chain id,NoTokenTransfer,,,0.0,0.0
+Chain works (preico),NoMatch,,,0.0,0.0
+Chainium,NeedtoDownload,,,0.0,0.0
+Chainrepublik,NonERC20,,,0.0,0.0
+Change bank,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Charg coin,NeedtoDownload,,,0.0,0.0
+Charityspace,NoMatch,,,0.0,0.0
+Chatello app,OK,0xbb4959a332e6277ff13c2302b920fbcc2f2273fe,,0.0,0.0
+Checqit,NoTokenTransfer,,,0.0,0.0
+Cherr.io,CancelledICO,,,0.0,0.0
+Chex,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Chiliz,CancelledICO,,,0.0,0.0
+Chimaera,NonERC20,,,0.0,0.0
+Choice,NoMatch,,,0.0,0.0
+Christ coins,OK,0x164979ed9b905b1e1c82cbbeee46379ba4d7b7d9,,0.0,0.0
+Chrono logic,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Chrypto,,,,0.0,0.0
+Chrysos,NoTokenTransfer,,,0.0,0.0
+Chubex,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Chynge.net,NonERC20,,,0.0,0.0
+Ci chain,NoTokenTransfer,,,0.0,0.0
+Cibus,DistributorsHardtoIdentify,,,0.0,0.0
+Cindicator,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Cindx,OK,0xcd1240eac73e7af567c643617041b0ec8428cd29,,0.0,0.0
+Cinemawell.com,NoTokenTransfer,,,0.0,0.0
+Circleflowstoken,NoMatch,,,0.0,0.0
+Circles (preico),NeedtoDownload,,,0.0,0.0
+Citicash,NonERC20,,,0.0,0.0
+Citicoin,NonERC20,,,0.0,0.0
+Citizen health,NoMatch,,,0.0,0.0
+Civic,DistributorsHardtoIdentify,,,0.0,0.0
+Clairety inc.,NoMatch,,,0.0,0.0
+Classycoin,DistributorsHardtoIdentify,,,0.0,0.0
+Clear cost,NoTokenTransfer,,,0.0,0.0
+Clearpoll,OK,0xe8afb388996acf1badf63dd740f4dbbdbf39a10b,,0.0,0.0
+Clickabletv,NoTokenTransfer,,,0.0,0.0
+Clickle,NoTokenTransfer,,,0.0,0.0
+Climatecoin,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Clinicoin,transfer after ending,,,0.0,0.0
+Cloe,NoMatch,,,0.0,0.0
+Cloudbric,OK,0x17fd576d36d73a20aed104c8a3ee642de1f888a4,,13.0,507.0
+Cloudmoolah,NoMatch,,,0.0,0.0
+Clout,NeedtoDownload,,,0.0,0.0
+Cmbt,transfer after ending,,,0.0,0.0
+Cmc,OK,0x9bab91e00106df26a2e35b82738e2d76735c2f76,,2.0,208.0
+Coal coin (preico),NoTokenTransfer,,,0.0,0.0
+Coal industry coin,NoMatch,,,0.0,0.0
+Cobinhood,DistributorsHardtoIdentify,,,0.0,0.0
+Cobol network,NoMatch,,,0.0,0.0
+Coconuts,NoMatch,,,0.0,0.0
+Code of talent,NoTokenTransfer,,,0.0,0.0
+Codex,transfer after ending,,,0.0,0.0
+Coffe,,,,0.0,0.0
+Cofound.it,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Coin mine australia,NoTokenTransfer,,,0.0,0.0
+Coinadvisor,NoTokenTransfer,,,0.0,0.0
+Coinanx,transfer after ending,,,0.0,0.0
+Coinbet,NeedtoDownload,,,0.0,0.0
+Coincase,NoMatch,,,0.0,0.0
+Coincasino,NoTokenTransfer,,,0.0,0.0
+Coincasso,,,,0.0,0.0
+Coincrowd,NeedtoDownload,,,0.0,0.0
+Coindaq,NoTokenTransfer,,,0.0,0.0
+Coindash,OK,0xa869b2674914ec42b66dafe65acac797cd241cba,,5.0,0.0
+Coindrive,NoTokenTransfer,,,0.0,0.0
+Coinet,NonERC20,,,0.0,0.0
+Coinfer,NoTokenTransfer,,,0.0,0.0
+Coinfi,NeedtoDownload,,,0.0,0.0
+Coinhealth,NonERC20,,,0.0,0.0
+Coinjanitor,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Coinjob,NoTokenTransfer,,,0.0,0.0
+Coinlancer,DistributorsHardtoIdentify,,,0.0,0.0
+Coinlion,NeedtoDownload,,,0.0,0.0
+Coinloan,OK,0xe5a4e1d8aafe6ea9ff5b707ce5f14a2b4d5edb60,,0.0,0.0
+Coinmarketalert,DistributorsHardtoIdentify,,,0.0,0.0
+Coinmetro,NoMatch,,,0.0,0.0
+Coinnec,NeedtoDownload,,,0.0,0.0
+Coinnup,OK,0x2b2063d4a9a1a270326b8953c977f4c358952b73,,0.0,0.0
+Coinoil,ICODateSeemsWrong,,,0.0,0.0
+Coinolix,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Coinpennant,NoTokenTransfer,,,0.0,0.0
+Coinplace,transfer after ending,,,0.0,0.0
+Coinpoker,NeedtoDownload,,,0.0,0.0
+Coinquiztador,NoMatch,,,0.0,0.0
+Coinseason,NoMatch,,,0.0,0.0
+Coinseed,transfer after ending,,,0.0,0.0
+Coinshare,NoMatch,,,0.0,0.0
+Coinstarter,NeedtoDownload,,,0.0,0.0
+Coinstocks,OK,0x52618d7d5330f354a2d3b45cca1896ba26e363c7,,0.0,0.0
+Coinstruction,NoTokenTransfer,,,0.0,0.0
+Coinsure blockchain,NeedtoDownload,,,0.0,0.0
+Cointed,DistributorsHardtoIdentify,,,0.0,0.0
+Cointour,DistributorsHardtoIdentify,,,0.0,0.0
+Coinvest,OK,0xb743aed805aad342672131e575a2d6871511898a,,0.0,0.0
+Coinyspace,transfer after ending,,,0.0,0.0
+Color,NoTokenTransfer,,,0.0,0.0
+Colu local network,OK,0x12321fb3e2548b03ead42f09cab239cff377b4e2,,0.0,0.0
+Commerceblock,NeedtoDownload,,,0.0,0.0
+Commitgood,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Compositecoin,NoTokenTransfer,,,0.0,0.0
+Conda,NoTokenTransfer,,,0.0,0.0
+Confideal,NeedtoDownload,,,0.0,0.0
+Conn3x,NonERC20,,,0.0,0.0
+Connect,NoTokenTransfer,,,0.0,0.0
+Connectius,NeedtoDownload,,,0.0,0.0
+Connectjob,AlreadyinPreviousFile,,,0.0,0.0
+Consentium,Complicated,,,0.0,0.0
+Consolo,NoTokenTransfer,,,0.0,0.0
+Consulteth,NoTokenTransfer,,,0.0,0.0
+Contentos,OK,0xf33fe08604b009f55a7b898ee9b8d19688b0ac25,,0.0,0.0
+Contents protocol,transfer after ending,,,0.0,0.0
+Conterium,NoMatch,,,0.0,0.0
+Contractium.io,transfer after ending,,,0.0,0.0
+Contractland,NoTokenTransfer,,,0.0,0.0
+Contractvault,OK,,,0.0,0.0
+Contrib,OK,0xc644926f9669b3acb4f22f8271e6bf2b1bd33873,,0.0,0.0
+Conventment,NonERC20,,,0.0,0.0
+Cookup,NoTokenTransfer,,,0.0,0.0
+Cool cousin,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Cooocoin,NoMatch,,,0.0,0.0
+Cooperative exchange,transfer after ending,,,0.0,0.0
+Coppay,NeedtoDownload,,,0.0,0.0
+Copy trader,NoTokenTransfer,,,0.0,0.0
+Copytrack,NeedtoDownload,,,0.0,0.0
+Coralex,NoTokenTransfer,,,0.0,0.0
+Corcom,NoTokenTransfer,,,0.0,0.0
+Corex,NeedtoDownload,,,0.0,0.0
+Corp,,,,0.0,0.0
+Cosmecoin,NoTokenTransfer,,,0.0,0.0
+Cosmochain,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Cosquare,,,,0.0,0.0
+Coss,OK,0x0d6b5a54f940bf3d52e438cab785981aaefdf40c,,27.0,0.0
+Cottagecoin,NeedtoDownload,,,0.0,0.0
+Countinghouse fund,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Coupon chain,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Covesting,NeedtoDownload,,,0.0,0.0
+Cpollo,ICODateSeemsWrong,,,0.0,0.0
+Cprop,DistributorsHardtoIdentify,,,0.0,0.0
+Craftr,DistributorsHardtoIdentify,,,0.0,0.0
+Crassula,NoTokenTransfer,,,0.0,0.0
+Crazy shapes,NonERC20,,,0.0,0.0
+Crazybet,NoTokenTransfer,,,0.0,0.0
+Creatanium,transfer after ending,,,0.0,0.0
+Credits,AlreadyinPreviousFile,,,0.0,0.0
+Credits,NeedtoDownload,,,0.0,0.0
+Crestonium,OK,0x0ad5b8b5c4c1922a55f4b3b732d07ffee72edd2e,,0.0,0.0
+Criptohub,OK,"0x93c2af2348086fe0ffb4d668a541b6c25ab6eacf,0x187fe8f0ba52cf59a3a1e13fe8f5e5e2df05103e",,0.0,0.0
+Cromacoin,NoMatch,,,0.0,0.0
+Cromhub,OK,0x5f391f8253475bffa27b2f8544994f9717ab310d,,0.0,0.0
+Cronuscoin,NoMatch,,,0.0,0.0
+Crosspays,NoTokenTransfer,,,0.0,0.0
+Crowd for angels,OK,0x0299f84a0c1fee38fb060b48870190749d260be3,,1.0,0.0
+Crowd-up,NoTokenTransfer,,,0.0,0.0
+Crowdcoinage,OK,0x7f93bafc01ffa46d8735cc7f51914ac90cba061d,,0.0,0.0
+Crowddrive,NoTokenTransfer,,,0.0,0.0
+Crowdholding,NoTokenTransfer,,,0.0,0.0
+Crowdif,NoMatch,,,0.0,0.0
+Crowdsharemining,OK,0xff22ae176b2e0afc1e55528607d7e56c002a8839,,0.0,0.0
+Crowdvilla,NoTokenTransfer,,,0.0,0.0
+Crowdwiz,DistributorsHardtoIdentify,,,0.0,0.0
+Crucoins,NoMatch,,,0.0,0.0
+Cruisebit,transfer after ending,,,0.0,0.0
+Crycash,NeedtoDownload,,,0.0,0.0
+Cryde,ICODateSeemsWrong,,,0.0,0.0
+Cryder,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Cryocloud,NeedtoDownload,,,0.0,0.0
+Crypt on,NoTokenTransfer,,,0.0,0.0
+Cryptaldash,transfer after ending,,,0.0,0.0
+Cryptassist,NonERC20,,,0.0,0.0
+Cryptaur,OK,0x88d50b466be55222019d71f9e8fae17f5f45fca1,,0.0,0.0
+Cryptelo,NoMatch,,,0.0,0.0
+Crypterium,NeedtoDownload,,,0.0,0.0
+Crypterra,OK,0x45be7a4b25aaea7af8a492b051225dbb7da155fd,,0.0,0.0
+Cryptex network,NoTokenTransfer,,,0.0,0.0
+Cryptf,transfer after ending,,,0.0,0.0
+Cryptfunder,OK,"0xeba4ce0d799fe901f3af52c0e0f088d026b11c81,0x56d215183e48881f10d1faeb9325cf02171b16b7",,0.0,0.0
+Cryptics (preico),NoTokenTransfer,,,0.0,0.0
+Crypto angel,DistributorsHardtoIdentify,,,0.0,0.0
+Crypto asset rating,NoMatch,,,0.0,0.0
+Crypto brokerage,NoMatch,,,0.0,0.0
+Crypto cashback rebate,NoMatch,,,0.0,0.0
+Crypto circle exchange,NoTokenTransfer,,,0.0,0.0
+Crypto credit card,ICODateSeemsWrong,,,0.0,0.0
+Crypto hunt game,NoTokenTransfer,,,0.0,0.0
+Crypto noda,NoTokenTransfer,,,0.0,0.0
+Crypto trust network,NeedtoDownload,,,0.0,0.0
+Crypto'n'kafe,NoTokenTransfer,,,0.0,0.0
+Crypto.tickets,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Crypto20,NeedtoDownload,,,0.0,0.0
+Cryptoabs,DistributorsHardtoIdentify,,,0.0,0.0
+Cryptoads,OK,0x731b5093f6902ea640d0982b50af4b36fe466763,,2.0,0.0
+Cryptoalias,OK,0x8a19d9bbbc5edf01ddd4acc6736f4091e67ad72a,,0.0,0.0
+Cryptobite coin,NoTokenTransfer,,,0.0,0.0
+Cryptobnb,OK,0x225a94650d370268546e53719c740732d7126c45,,0.0,0.0
+Cryptocasher,NoTokenTransfer,,,0.0,0.0
+Cryptocoin insurance,NoMatch,,,0.0,0.0
+Cryptocopy,NoTokenTransfer,,,0.0,0.0
+Cryptocurve (preico),NonERC20,,,0.0,0.0
+Cryptodime,OK,0xc7572c42e538f80922b9c52e236502c948a081e4,,0.0,124.0
+Cryptodruid,NoTokenTransfer,,,0.0,0.0
+Cryptofitnessclub,NoTokenTransfer,,,0.0,0.0
+Cryptoflix,NoMatch,,,0.0,0.0
+Cryptofund,NoTokenTransfer,,,0.0,0.0
+Cryptoglobal markets,NoTokenTransfer,,,0.0,0.0
+Cryptohawk,NoMatch,,,0.0,0.0
+Cryptohit,NoTokenTransfer,,,0.0,0.0
+Cryptoindex,NoMatch,,,0.0,0.0
+Cryptoisbn,NoTokenTransfer,,,0.0,0.0
+Cryptokami,NonERC20,,,0.0,0.0
+Cryptoleaf (preico),transfer after ending,,,0.0,0.0
+Cryptolink network,OK,0x8f71659fb57e6c6be3ab563d0dd45101235ae762,,0.0,0.0
+Cryptomillionslotto,NoTokenTransfer,,,0.0,0.0
+Cryptomuseum,NoTokenTransfer,,,0.0,0.0
+Cryptonationz,NoTokenTransfer,,,0.0,0.0
+Cryptonia poker,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Cryptonity,DistributorsHardtoIdentify,,,0.0,0.0
+Cryptonsgame (preico),NoTokenTransfer,,,0.0,0.0
+Cryptopay,OK,0x0010a75a2f4b938d843634256ec2f8540a6a3d37,,1.0,0.0
+Cryptopus,NoTokenTransfer,,,0.0,0.0
+Cryptoriya,OK,0xdece7451ebee92bc6a4b97f358bb5f6e87ee102d,,0.0,0.0
+Cryptorobotics,DistributorsHardtoIdentify,,,0.0,0.0
+Cryptoscene,NonERC20,,,0.0,0.0
+Cryptosoft,NeedtoDownload,,,0.0,0.0
+Cryptosolartech,OK,0x1b91518648f8f153ce954a18d53bef5047e39c73,,0.0,0.0
+Cryptosoul,ICODateSeemsWrong,,,0.0,0.0
+Cryptostarter,NoMatch,,,0.0,0.0
+Cryptotask,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Cryptov8 (preico),OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Cryptoveno,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Cryptoworld,transfer after ending,,,0.0,0.0
+Cryptoxpress,NoTokenTransfer,,,0.0,0.0
+Cryptoya,NoTokenTransfer,,,0.0,0.0
+Cryptum,DistributorsHardtoIdentify,,,0.0,0.0
+Cryptune,OK,0x1237f026023f7e82e9749507f7272b4aef6a7646,,1.0,1.0
+Cryptyk,NoTokenTransfer,,,0.0,0.0
+Crystal clear,DistributorsHardtoIdentify,,,0.0,0.0
+Cubaaz,OK,0x4a81247ce8e94d6f1f0d6065bc62d3eb76904afd,,2.0,0.0
+Cube,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Cube chain,DistributorsHardtoIdentify,,,0.0,0.0
+Cubomania,transfer after ending,,,0.0,0.0
+Cuprum,NoMatch,,,0.0,0.0
+Curaizon,NoTokenTransfer,,,0.0,0.0
+Currenexchange,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Current,NoMatch,,,0.0,0.0
+Current x change,,,,0.0,0.0
+Custom deal (preico),transfer after ending,,,0.0,0.0
+Cverification,NoTokenTransfer,,,0.0,0.0
+Cvproof,NoMatch,,,0.0,0.0
+Cyber capital invest,NoTokenTransfer,,,0.0,0.0
+Cybermiles,DistributorsHardtoIdentify,,,0.0,0.0
+Cybertrust,NoTokenTransfer,,,0.0,0.0
+Cybit,NoTokenTransfer,,,0.0,0.0
+Cybr,,,,0.0,0.0
+Cyclean,OK,0xf835bf0285c99102eaedd684b4401272ef36af65,,0.0,0.0
+Cycloshieldcoin,NoTokenTransfer,,,0.0,0.0
+Cyphr coin,NoTokenTransfer,,,0.0,0.0
+Cytecoin,NoTokenTransfer,,,0.0,0.0
+Czero,NoTokenTransfer,,,0.0,0.0
+D-zone,OK,0x3f4448ce95b4adb86985a833c84b38e4b70b7956,,2.0,0.0
+Dacc,DistributorsHardtoIdentify,,,0.0,0.0
+Dacsee,transfer after ending,,,0.0,0.0
+Dacxi,NoMatch,,,0.0,0.0
+Dadi,NeedtoDownload,,,0.0,0.0
+Daex,DistributorsHardtoIdentify,,,0.0,0.0
+Dagnet,OK,0x507c5d74a09a4e419cc020d5dc7cf0680354ba79,,0.0,0.0
+Dagt,transfer after ending,,,0.0,0.0
+Dailycoin,NeedtoDownload,,,0.0,0.0
+Daneel,OK,0xd539028595ec3da4c499023ae988a9192f0301f8,,0.0,0.0
+Dank signals,transfer after ending,,,0.0,0.0
+Dans,transfer after ending,,,0.0,0.0
+Dao playmarket 2.0,NeedtoDownload,,,0.0,0.0
+Dao.casino,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Daostack,AlreadyinPreviousFile,,,0.0,0.0
+Daox,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Dapp builder,NoTokenTransfer,,,0.0,0.0
+Darcmatter coin,NonERC20,,,0.0,0.0
+Darenta,NoMatch,,,0.0,0.0
+Darico,transfer after ending,,,0.0,0.0
+Daseron,NeedtoDownload,,,0.0,0.0
+Dashlite,NoTokenTransfer,,,0.0,0.0
+Databrokerdao,IncompleteInformation,,,0.0,0.0
+Datareum,OK,0x451d4994cd2f2f691632b3d574e4a3d69c8cd7c6,,0.0,0.0
+Datarius,NeedtoDownload,,,0.0,0.0
+Datavlt,NeedtoDownload,,,0.0,0.0
+Datawallet,OK,0x201dcb47a936db8d0c6358783a7d24b37d5fd1cd,0x201dcb47a936db8d0c6358783a7d24b37d5fd1cd,0.0,0.0
+Dataxchain,NoTokenTransfer,,,0.0,0.0
+Datbit,OK,0x745e1ad35d210359829deaff3ee9740f54b746a6,,0.0,0.0
+Dateat,transfer after ending,,,0.0,0.0
+Datecoin,NoTokenTransfer,,,0.0,0.0
+Dato,NoMatch,,,0.0,0.0
+Datum,OK,0xf6e9baf2e5950f2eca57dbb859677b49ce7e4bca,,0.0,0.0
+Datx,NeedtoDownload,,,0.0,0.0
+Dav,NoTokenTransfer,,,0.0,0.0
+Dawq,NoTokenTransfer,,,0.0,0.0
+Dax,ImpreciseInformation,,,0.0,0.0
+Daxbase,OK,0xf7442449cff3aa74b133367308503f4223c7cfb0,,0.0,0.0
+Dbrain,NoTokenTransfer,,,0.0,0.0
+Dcc,ICODateSeemsWrong,,,0.0,0.0
+Dcentral capital,NonERC20,,,0.0,0.0
+Dcoin,NonERC20,,,0.0,0.0
+Dcx,NoTokenTransfer,,,0.0,0.0
+Ddtoken,NoTokenTransfer,,,0.0,0.0
+Dealbox,NoTokenTransfer,,,0.0,0.0
+Debitum network,NeedtoDownload,,,0.0,0.0
+Decem (preico),NoMatch,,,0.0,0.0
+Decentraland,OK,0x3c337fa1bf8725f59f73db6db719c792c5e8ae74,,0.0,0.0
+Decentralend - just priority listing,NoTokenTransfer,,,0.0,0.0
+Decentralized escrow,NeedtoDownload,,,0.0,0.0
+Decentralized id,NoTokenTransfer,,,0.0,0.0
+Decentralized news network,NoTokenTransfer,,,0.0,0.0
+Decibels,OK,0xe2a884ea3eee4e2106e7229d5f1b7e328684542f,,0.0,0.0
+Deckswap,NoTokenTransfer,,,0.0,0.0
+Declub,NoTokenTransfer,,,0.0,0.0
+Decoin,NoTokenTransfer,,,0.0,0.0
+Deep aero,OK,0xbed908dc39c34125314f2141079b5ffadb270300,,0.0,0.0
+Deep gold,NeedtoDownload,,,0.0,0.0
+Deepwater treasure recovery,NoTokenTransfer,,,0.0,0.0
+Deex,DistributorsHardtoIdentify,,,0.0,0.0
+Defund project,,,,0.0,0.0
+Dehedge,NeedtoDownload,,,0.0,0.0
+Dein anteil,NoTokenTransfer,,,0.0,0.0
+Delphi systems,NeedtoDownload,,,0.0,0.0
+Denaro,DistributorsHardtoIdentify,,,0.0,0.0
+Dencity,NeedtoDownload,,,0.0,0.0
+Dent,DistributorsHardtoIdentify,,,0.0,0.0
+Dentacoin,DistributorsHardtoIdentify,,,0.0,0.0
+Dentix,NoTokenTransfer,,,0.0,0.0
+Descrow,NoMatch,,,0.0,0.0
+Destineed,NeedtoDownload,,,0.0,0.0
+Destineyai,NonERC20,,,0.0,0.0
+Destream,NonERC20,,,0.0,0.0
+Dether,NeedtoDownload,,,0.0,0.0
+Develop[crypto],NoMatch,,,0.0,0.0
+Devery,NeedtoDownload,,,0.0,0.0
+Devnetwork,NoTokenTransfer,,,0.0,0.0
+Diamond guard,NoTokenTransfer,,,0.0,0.0
+Dibbs,NoMatch,,,0.0,0.0
+Dicegame,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Digidex,NoTokenTransfer,,,0.0,0.0
+Digipay network,NoTokenTransfer,,,0.0,0.0
+Digipulse,OK,0xf6cfe53d6febaeea051f400ff5fc14f0cbbdaca1,,0.0,0.0
+Digital credit,NoMatch,,,0.0,0.0
+Digital developers fund,DistributorsHardtoIdentify,,,0.0,0.0
+Digital gold,NoTokenTransfer,,,0.0,0.0
+Digital ticks,NeedtoDownload,,,0.0,0.0
+Digiters network,NoMatch,,,0.0,0.0
+Digitex,OK,0x53f117ca3b93eda96d08c8496af103303c385059,,4.0,0.0
+Digitize,NoTokenTransfer,,,0.0,0.0
+Digixdao,DistributorsHardtoIdentify,,,0.0,0.0
+Digmus,NoTokenTransfer,,,0.0,0.0
+Dimensions network,NoTokenTransfer,,,0.0,0.0
+Dinerocoin,NoTokenTransfer,,,0.0,0.0
+Dinnerful network,DistributorsHardtoIdentify,,,0.0,0.0
+Dinngo,,,,0.0,0.0
+Dipitto,NoTokenTransfer,,,0.0,0.0
+Directhome,NoMatch,,,0.0,0.0
+Disciplina by teachmeplease,,,,0.0,0.0
+Discoveroo,NoTokenTransfer,,,0.0,0.0
+Disledger,OK,0x0cff2ed2f99cd3c889ed19d3bc9c5d8a934a9a17,,2.0,0.0
+District0x,OK,0xf8094e15c897518b5ac5287d7070ca5850efc6ff,,0.0,0.0
+Ditry coin,NoMatch,,,0.0,0.0
+Diw token,OK,0x1282b35ebaeb933ff5199e814be6bf0924a8a6fd,,0.0,0.0
+Dizcovery network,NoMatch,,,0.0,0.0
+Dlex,NoTokenTransfer,,,0.0,0.0
+Dls academy,NeedtoDownload,,,0.0,0.0
+Dmarket,OK,0x8c77a38c5dfec301a0d67904ce1850812c42b0e7,,3.0,0.0
+Dobetacceptbet,OK,0x7dbb125435e98518154804911a42d8f8771ca5cd,,1.0,0.0
+Doc coin,NeedtoDownload,,,0.0,0.0
+Doc.ai,NoMatch,,,0.0,0.0
+Docademic,AlreadyinPreviousFile,,,0.0,0.0
+Dochain,DistributorsHardtoIdentify,,,0.0,0.0
+Dock.io,NeedtoDownload,,,0.0,0.0
+Docnota,NoTokenTransfer,,,0.0,0.0
+Doctailor,NeedtoDownload,,,0.0,0.0
+Doft,NeedtoDownload,,,0.0,0.0
+Dogezer,OK,0x16885883e2785c56d279636b45fb85d8f9b0db23,,0.0,0.0
+Dogracing,NoTokenTransfer,,,0.0,0.0
+Dolecoin,NoTokenTransfer,,,0.0,0.0
+Dollero technology,,,,0.0,0.0
+Dolos,NoMatch,,,0.0,0.0
+Dolphinbi,NoTokenTransfer,,,0.0,0.0
+Dome platform,NeedtoDownload,,,0.0,0.0
+Domraider,DistributorsHardtoIdentify,,,0.0,0.0
+Domuscoins,transfer after ending,,,0.0,0.0
+Dopameme,NoTokenTransfer,,,0.0,0.0
+Dopamine,NoTokenTransfer,,,0.0,0.0
+Dorado,AlreadyinPreviousFile,,,0.0,0.0
+Double land,NoTokenTransfer,,,0.0,0.0
+Dovu,OK,0x6699ed0afc9761aff5b7dbe08352fc0c8616ca31,,0.0,0.0
+Dox.network,OK,0xf7f6c903467c0c8b9cf7c9d9ea8e24ba54d3badd,,0.0,0.0
+Dplay.gg,NoTokenTransfer,,,0.0,0.0
+Dragon,DistributorsHardtoIdentify,,,0.0,0.0
+Dragonchain,OK,0xa195a45143069fc0ee478b4db7ca5e6b9abfcc65,,1.0,0.0
+Drcg,NoTokenTransfer,,,0.0,0.0
+Dreambit,NoTokenTransfer,,,0.0,0.0
+Dreamteam,NeedtoDownload,,,0.0,0.0
+Driiven,NoMatch,,,0.0,0.0
+Drivero,NoTokenTransfer,,,0.0,0.0
+Drivr network,OK,0xb43ce355b21d9af19953fa20cb7e3b1946e4650f,,0.0,0.0
+Dropanswer,NoTokenTransfer,,,0.0,0.0
+Dropdeck,OK,0xe129417140b1b4f5f3d5dcb554ddeb8d89c04a92,,0.0,0.0
+Dropil,OK,0x925ea5af075bde17811e4bcdc198dc5d3675e466,,0.0,0.0
+Droplex,OK,0xabe3d12e5518bf8266bb91b56913962ce1f77cf4,,0.0,0.0
+Dst,transfer after ending,,,0.0,0.0
+Dstadia,OK,0x310fb3b44211bd8a18ea347c108e697668a4bd1b,,4.0,0.0
+Dubailancers token,NoTokenTransfer,,,0.0,0.0
+Dubtokens,NoMatch,,,0.0,0.0
+Ducatur,DistributorsHardtoIdentify,,,0.0,0.0
+Dueltoken.io,NoTokenTransfer,,,0.0,0.0
+Dusk network,NonERC20,,,0.0,0.0
+Dutyof.care,NeedtoDownload,,,0.0,0.0
+Dxchain,DistributorsHardtoIdentify,,,0.0,0.0
+Dynatiq,DistributorsHardtoIdentify,,,0.0,0.0
+Dysnomia,NoTokenTransfer,,,0.0,0.0
+E-chat,NeedtoDownload,,,0.0,0.0
+E-pocket,OK,0x449684cec6727d7240ecc6f29a0ebff9c5b27e59,,0.0,0.0
+E2c,DistributorsHardtoIdentify,,,0.0,0.0
+E4row,DistributorsHardtoIdentify,,,0.0,0.0
+Eagle project,OK,0x97cbc82a139c6ce4ec0c4d5fe1f005681d43d4d8,,34.0,8.0
+Earth token,NeedtoDownload,,,0.0,0.0
+Earthmedz,NoTokenTransfer,,,0.0,0.0
+Eastads credits,DistributorsHardtoIdentify,,,0.0,0.0
+Easylife,transfer after ending,,,0.0,0.0
+Easymine,OK,0x53ce47cbe7f2be0aecd086a70182a98c907d024d,,0.0,0.0
+Eatmecoin,NeedtoDownload,,,0.0,0.0
+Ebcoin,OK,0xcf320a7e47f70261124e43fa8af1161a5b9103c6,,0.0,0.0
+Ebyte (preico),transfer after ending,,,0.0,0.0
+Echarge.work,DistributorsHardtoIdentify,,,0.0,0.0
+Ecko coin,NonERC20,,,0.0,0.0
+Ecogreenhouse,NoTokenTransfer,,,0.0,0.0
+Ecoingot,,,,0.0,0.0
+Ecoinomic,transfer after ending,,,0.0,0.0
+Ecotoken blockchain,NoTokenTransfer,,,0.0,0.0
+Ecx exchange,OK,0x5e20042f16a1c481636aaf013baa886db48f8fa3,,3.0,0.0
+Eden,NeedtoDownload,,,0.0,0.0
+Edgecoin,NoTokenTransfer,,,0.0,0.0
+Edgeless,OK,0x003230bbe64eccd66f62913679c8966cf9f41166,,0.0,0.0
+Educoin,DistributorsHardtoIdentify,,,0.0,0.0
+Effect.ai,NonERC20,,,0.0,0.0
+Efir,NoMatch,,,0.0,0.0
+Egold,NoTokenTransfer,,,0.0,0.0
+Egretia,transfer after ending,,,0.0,0.0
+Ehalal,transfer after ending,,,0.0,0.0
+Eharvesthub,NoMatch,,,0.0,0.0
+Eho,NoTokenTransfer,,,0.0,0.0
+Eidoo,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Eiracube,NoTokenTransfer,,,0.0,0.0
+Ejacoin,NoMatch,,,0.0,0.0
+Ekash,NoMatch,,,0.0,0.0
+Ekkbaz,OK,0x43f27b4f518555ff5612ae248b51c1edf76884f2,,0.0,0.0
+Ekspa,NoMatch,,,0.0,0.0
+Elamachain,NoTokenTransfer,,,0.0,0.0
+Elastos,NonERC20,,,0.0,0.0
+Elbyte network,NoTokenTransfer,,,0.0,0.0
+Elcoin,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Electrify.asia,NeedtoDownload,,,0.0,0.0
+Electron world money,OK,0xb93489b75a0cf3bf5a380ab3c986482d15a9ef56,,0.0,0.0
+Elementh,,,,0.0,0.0
+Elepig,OK,0x71484afcf439c58204e0ba95058252b8f9c951b5,,0.0,0.0
+Elige.re,NoTokenTransfer,,,0.0,0.0
+Eligma,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Elisia,DistributorsHardtoIdentify,,,0.0,0.0
+Eloplay,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Elpis,transfer after ending,,,0.0,0.0
+Elysian,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Emarketchain,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Embermine,OK,0x9b73149133c7d34a50b6b078d1244961e3c39768,,161.0,0.0
+Emiba,,,,0.0,0.0
+Emmares,OK,"0xad97af045f815d91621040809f863a5fb070b52d,0x2821fb31998e60d220ff52af6299872f25a3e149",,0.0,0.0
+Emphy,OK,0xc91fe17ea06651751ef7a995356ec8d90967a4da,,0.0,0.0
+Empire card,NoTokenTransfer,,,0.0,0.0
+Empowr,DistributorsHardtoIdentify,,,0.0,0.0
+Emu project,OK,0xd12613517a4e424494094e1b2bd7152b0baeab56,,8.0,0.0
+Emusic,,,,0.0,0.0
+Emyron coin,NoMatch,,,0.0,0.0
+Encrypgen,OK,0x795c6e34f6fe0be0dd61207776659714e69f2cbd,,0.0,0.0
+Encryptotel,OK,0xba091db085eac2055400c934c8dc989b500113a2,,1.0,0.0
+Endo protocol,NonERC20,,,0.0,0.0
+Enecuum,OK,"0x0000000000000000000000000000000000000000,0xdf26369b419013cba54eb859daff6f8bc167618b",,0.0,0.0
+Energi token,OK,0x005d27924275cc39235f6c4f95da3d0cc592c380,,0.0,0.0
+Energy premier (preico),NoTokenTransfer,,,0.0,0.0
+Engagement token,transfer after ending,,,0.0,0.0
+Engamechain,NoTokenTransfer,,,0.0,0.0
+Engraved,NoTokenTransfer,,,0.0,0.0
+Engyo,NoMatch,,,0.0,0.0
+Eniac network,NoTokenTransfer,,,0.0,0.0
+Enigma catalyst,DistributorsHardtoIdentify,,,0.0,0.0
+Enjin coin,OK,0x9b73d1779c41dca36314fb7c4d3309838e20c4e7,,0.0,0.0
+Enjoy life,OK,0xa7d465d4d22d706ecef281ce06932a9c9a7f7426,,0.0,0.0
+Enkidu,NeedtoDownload,,,0.0,0.0
+Enkronos,ICODateSeemsWrong,,,0.0,0.0
+Enlte,NonERC20,,,0.0,0.0
+Ens.bid,NoTokenTransfer,,,0.0,0.0
+Entry,NonERC20,,,0.0,0.0
+Envion,NeedtoDownload,,,0.0,0.0
+Enzed share,NoTokenTransfer,,,0.0,0.0
+Eos,NeedtoDownload,,,0.0,0.0
+Eosex,NonERC20,,,0.0,0.0
+Epigencare,OK,0x95b9a60c31ab11463a63784614c9b6ec71a1a2a9,,0.0,0.0
+Epoch,OK,0xe8f90ca193e4adaa17923cdd94f85632db2fb925,,0.0,0.0
+Epocum,DistributorsHardtoIdentify,,,0.0,0.0
+Epos,NoTokenTransfer,,,0.0,0.0
+Epowchain ecosystem,NoTokenTransfer,,,0.0,0.0
+Eqi,Project has been listed without team's consent,,,0.0,0.0
+Equadex,NoTokenTransfer,,,0.0,0.0
+Equi,NoMatch,,,0.0,0.0
+Equitybase,DistributorsHardtoIdentify,,,0.0,0.0
+Era swap token,OK,0x1be138effe5fa00b4c2d5ec62b8d555646389476,,0.0,0.0
+Eristica,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Eroiy,NonERC20,,,0.0,0.0
+Erotix,ImpreciseInformation,,,0.0,0.0
+Escapetoken,NoTokenTransfer,,,0.0,0.0
+Escrowblock,NoTokenTransfer,,,0.0,0.0
+Esr wallet,NeedtoDownload,,,0.0,0.0
+Essentia,,,,0.0,0.0
+Estate coin,NoTokenTransfer,,,0.0,0.0
+Estatecoin.fund,NoMatch,,,0.0,0.0
+Etainpower token ico,DistributorsHardtoIdentify,,,0.0,0.0
+Etardis,NoTokenTransfer,,,0.0,0.0
+Etcetera,NeedtoDownload,,,0.0,0.0
+Etch,NoMatch,,,0.0,0.0
+Eterbank,NonERC20,,,0.0,0.0
+Eternal trusts,NoTokenTransfer,,,0.0,0.0
+Eth lottery,NeedtoDownload,,,0.0,0.0
+Eth travel,NoTokenTransfer,,,0.0,0.0
+Ethace,OK,0x7f9be694b40224a0d4e2e90a93aaba72f9cfe580,,0.0,0.0
+Ethbet,OK,0x1e932ce1e5167c4747196517783c2bc8106656f4,,0.0,0.0
+Ethbits,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Ethbooks,NeedtoDownload,,,0.0,0.0
+Etheal,IncompleteInformation,,,0.0,0.0
+Ethearnal,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Etheera,OK,0x470a2eb9907f216e5ce79c9ec0818f17001311c6,,3.0,0.0
+Etherace speculation platform,NoMatch,,,0.0,0.0
+Etheraffle,NoTokenTransfer,,,0.0,0.0
+Ethercom,NoMatch,,,0.0,0.0
+Etherecash,ImpreciseInformation,,,0.0,0.0
+Ethereum high,NeedtoDownload,,,0.0,0.0
+Ethereum movie venture,DistributorsHardtoIdentify,,,0.0,0.0
+Ethereum slot machine,transfer after ending,,,0.0,0.0
+Ethereum.link,OK,0x599dbc0ecfa98fbd2b720210141c2ee2068e428d,,3.0,0.0
+Etherflyer,NeedtoDownload,,,0.0,0.0
+Etherinc,NoMatch,,,0.0,0.0
+Etherisc,NeedtoDownload,,,0.0,0.0
+Etheriya,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Etherjack.io,OK,0xe64d5f33e28387855d33980719f27f0d579392af,,0.0,0.0
+Ethernal heroes,NeedtoDownload,,,0.0,0.0
+Ethernitymining,ICODateSeemsWrong,,,0.0,0.0
+Etheroll,OK,0x805129c7144688224c122c924e3855d5b4fa01d8,,0.0,0.0
+Etherparty,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Etherspin,NoTokenTransfer,,,0.0,0.0
+Ethersport,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Ethersportz,NeedtoDownload,,,0.0,0.0
+Etherty,transfer after ending,,,0.0,0.0
+Ethichub,NoTokenTransfer,,,0.0,0.0
+Ethlend,DistributorsHardtoIdentify,,,0.0,0.0
+Ethoasis,OK,0xcb8b375721c7280b56e88c231cce1a2d2bc00333,,1.0,0.0
+Ethorse,NeedtoDownload,,,0.0,0.0
+Eticket4,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Eurocoinpay,transfer after ending,,,0.0,0.0
+Evacoin,NoTokenTransfer,,,0.0,0.0
+Evareium,NonERC20,,,0.0,0.0
+Even,NeedtoDownload,,,0.0,0.0
+Eventchain,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Eventjoin,NonERC20,,,0.0,0.0
+Eventrabbt,NoTokenTransfer,,,0.0,0.0
+Everest,NoTokenTransfer,,,0.0,0.0
+Everex,OK,0xa6c1f8fdba848a17437d46595ae21c74bb30b9d8,,0.0,0.0
+Everycoin,transfer after ending,,,0.0,0.0
+Evo,DistributorsHardtoIdentify,,,0.0,0.0
+Evochain,NoTokenTransfer,,,0.0,0.0
+Ewa,NoMatch,,,0.0,0.0
+Ewaiter,NoMatch,,,0.0,0.0
+Exbitrade,NoMatch,,,0.0,0.0
+Exchain,NoMatch,,,0.0,0.0
+Exchange union,OK,0x06d192f59ac8c757ce1bc880c0b19216ecbfd075,,0.0,0.0
+Excoins exchange,NoMatch,,,0.0,0.0
+Excolony,NonERC20,,,0.0,0.0
+Exenium,NoTokenTransfer,,,0.0,0.0
+Eximchain,NeedtoDownload,,,0.0,0.0
+Exmo coin,NoMatch,,,0.0,0.0
+Exodius,NonERC20,,,0.0,0.0
+Exolover,transfer after ending,,,0.0,0.0
+Exosis,NoMatch,,,0.0,0.0
+Experimental,IncompleteInformation,,,0.0,0.0
+Experty,NeedtoDownload,,,0.0,0.0
+Export.online,NoTokenTransfer,,,0.0,0.0
+Exsulcoin,NeedtoDownload,,,0.0,0.0
+Extoke,NoMatch,,,0.0,0.0
+Extrabit,OK,0xe15fb2a26fba60fd7578697462bdc7e8d8b0d4ba,,2.0,16.0
+Extradecoin (preico),transfer after ending,,,0.0,0.0
+Extremium,NoTokenTransfer,,,0.0,0.0
+Exxo,NoTokenTransfer,,,0.0,0.0
+Ezcash,NoTokenTransfer,,,0.0,0.0
+Ezmarket,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Ezpos,NeedtoDownload,,,0.0,0.0
+Ezycount,NoMatch,,,0.0,0.0
+Fabric token,AlreadyinPreviousFile,,,0.0,0.0
+Faceter,OK,0x6605f21fd3d3a9cddbe97c399c8c76f8bce5ec97,,0.0,0.0
+Factr,NonERC20,,,0.0,0.0
+Faima,NoMatch,,,0.0,0.0
+Fair diamond mining,NoTokenTransfer,,,0.0,0.0
+Fair ninja,NoMatch,,,0.0,0.0
+Fair.game,NeedtoDownload,,,0.0,0.0
+Fairgrounds,OK,0xa3db4b373b39301f6e1fdf9167349636d693406b,,0.0,0.0
+Fameone,NoMatch,,,0.0,0.0
+Familypoints,NeedtoDownload,,,0.0,0.0
+Fan controlled football league,NoTokenTransfer,,,0.0,0.0
+Fanfare,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Fantom,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Fapcoin,DistributorsHardtoIdentify,,,0.0,0.0
+Farad,DistributorsHardtoIdentify,,,0.0,0.0
+Farm2kitchen,,,,0.0,0.0
+Farmatrust,NoTokenTransfer,,,0.0,0.0
+Fast access blockchain,NoTokenTransfer,,,0.0,0.0
+Fast invest,OK,0x26f4ed5d5767b7609a98b27237aa0342f89df58c,,0.0,0.0
+Faxport,DistributorsHardtoIdentify,,,0.0,0.0
+Feedchain (preico),NoMatch,,,0.0,0.0
+Femaletoken,NoTokenTransfer,,,0.0,0.0
+Fenix.cash,NonERC20,,,0.0,0.0
+Feon,NoMatch,,,0.0,0.0
+Fiancia coin,NoTokenTransfer,,,0.0,0.0
+Fic,DistributorsHardtoIdentify,,,0.0,0.0
+Fidcom,NoTokenTransfer,,,0.0,0.0
+Fidelity house,,,,0.0,0.0
+Fidelium,OK,0x0096333a27d578dae601d6794e5045ad6f93481a,,0.0,0.0
+Fidentiax,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Fiii,NoTokenTransfer,,,0.0,0.0
+Fiinu,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Filipcoin,NoTokenTransfer,,,0.0,0.0
+Fillit,SuccessButNoTokenTransfer,,,0.0,0.0
+Financex,transfer after ending,,,0.0,0.0
+Findafixr,NoTokenTransfer,,,0.0,0.0
+Finlocale,OK,0xe0f4aee08710ddda937d2984f4abfd66ce6c82ff,,0.0,0.0
+Finom,NoTokenTransfer,,,0.0,0.0
+Finshi capital,OK,0x442415af6fc2e9ec9c5617ddd1647727016c2d20,,0.0,0.0
+Fintab,OK,0x35cc33e802f869eecb08fdce3196a505829a400e,,1.0,0.0
+Fintech coin,OK,0x3fcda408442d550fa6a142505d22a943a64f41e0,,0.0,0.0
+Finterra,,,,0.0,0.0
+Fintrux,OK,0x1e86eab90807895d5136b7e236dbc13d7902fd1b,,0.0,0.0
+Finx,NoTokenTransfer,,,0.0,0.0
+Fire lotto,transfer after ending,,,0.0,0.0
+Firmo,NoMatch,,,0.0,0.0
+First crypto etf,NoTokenTransfer,,,0.0,0.0
+First token asia,NoTokenTransfer,,,0.0,0.0
+Firstblood,DistributorsHardtoIdentify,,,0.0,0.0
+Fishcoin,NoMatch,,,0.0,0.0
+Fissacoin,NonERC20,,,0.0,0.0
+Fit token,NeedtoDownload,,,0.0,0.0
+Fitblox,,,,0.0,0.0
+Fitrova,NeedtoDownload,,,0.0,0.0
+Fitvitalik,NoMatch,,,0.0,0.0
+Fitx,NonERC20,,,0.0,0.0
+Fixy network,OK,0x800e09a697539ad9c700fcf6f41dda91149c9951,,0.0,0.0
+Flashmoni,transfer after ending,,,0.0,0.0
+Flexion,OK,0xa17e797bc064580f83911e69255704fe12bce249,,0.0,0.0
+Flixxo,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Floaterium,NoMatch,,,0.0,0.0
+Flogmall,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Flowfeed,NoMatch,,,0.0,0.0
+Fluence,NoTokenTransfer,,,0.0,0.0
+Flux token sale,OK,0xa863f95463b8e95635fa89b95fbffcba62c00ca9,,0.0,0.0
+Fluxorin,NoMatch,,,0.0,0.0
+Fluzfluz,NeedtoDownload,,,0.0,0.0
+Flying money,CancelledICO,,,0.0,0.0
+Flyp.me,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Foam,OK,0x3ce3b6d9372a4d761172a89cf0139129309fa0ae,,0.0,0.0
+Fobscoin,NoTokenTransfer,,,0.0,0.0
+Folio.ninja,NoTokenTransfer,,,0.0,0.0
+Follow coin,NeedtoDownload,,,0.0,0.0
+Fondocoin,NoMatch,,,0.0,0.0
+Foodcoin,transfer after ending,,,0.0,0.0
+Footstar,NoTokenTransfer,,,0.0,0.0
+Fop coin,NonERC20,,,0.0,0.0
+Forecast,NoTokenTransfer,,,0.0,0.0
+Foreground,NoTokenTransfer,,,0.0,0.0
+Forest foundation,NoTokenTransfer,,,0.0,0.0
+Foresting,DistributorsHardtoIdentify,,,0.0,0.0
+Forever has fallen,transfer after ending,,,0.0,0.0
+Forgecdn,NoTokenTransfer,,,0.0,0.0
+Formosa financial,transfer after ending,,,0.0,0.0
+Fornicoin,OK,0x658d9424da329087a60868957f9b1d1edd1d6f34,,0.0,0.0
+Fortitude ranch,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Fortknoxster,NeedtoDownload,,,0.0,0.0
+Fortunetoken,NoTokenTransfer,,,0.0,0.0
+Forty seven bank,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Fox trading,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Foxcasino,NoTokenTransfer,,,0.0,0.0
+Fr8 network,NoTokenTransfer,,,0.0,0.0
+Fractal token crowdsale,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Frasindo,NonERC20,,,0.0,0.0
+Free market token,NonERC20,,,0.0,0.0
+Freedom streaming,OK,0x963cb5e7190fa77435afe61fbb8c2ddb073e42c2,,0.0,0.0
+Freestart (preico),NoMatch,,,0.0,0.0
+Freezone,NoMatch,,,0.0,0.0
+Fresco,transfer after ending,,,0.0,0.0
+Friendsfingers,NoTokenTransfer,,,0.0,0.0
+Friendz,OK,0xc1c643701803eca8ddfa2017547e8441516be047,,0.0,0.0
+Froshfeel,NoMatch,,,0.0,0.0
+Ftcoin,NoMatch,,,0.0,0.0
+Ftec,OK,0x292fdfdd7e2967fc0251e35a2ef6cba3f312dad7,,41.0,491888.0
+Ftka,,,,0.0,0.0
+Ftw,NonERC20,,,0.0,0.0
+Fucktoken,OK,0x5cb8a6440469ef1c632a50fa796f4a631d5798a2,,0.0,0.0
+Fueldapp,NoTokenTransfer,,,0.0,0.0
+Fujinto,OK,0x66dc70150c5a1b236d4856a234b79ac8b91cfe1c,,217.0,1.0
+Fund platform,NonERC20,,,0.0,0.0
+Fund yourself now,DistributorsHardtoIdentify,,,0.0,0.0
+Fundaria,NeedtoDownload,,,0.0,0.0
+Fundfantasy,NoTokenTransfer,,,0.0,0.0
+Fundrequest,NeedtoDownload,,,0.0,0.0
+Funfair,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Fusion,OK,0x1bdf56c9593590122fd8750555d8148da2b80be8,,0.0,0.0
+Futourist,NeedtoDownload,,,0.0,0.0
+Future coin light,NoMatch,,,0.0,0.0
+Future1coin,transfer after ending,,,0.0,0.0
+Futureworks token,OK,0xb1af3544a2cb2b2b12346d2f2ca3cd03251d890a,,5.0,0.0
+Fxpay,transfer after ending,,,0.0,0.0
+G-coin,NoMatch,,,0.0,0.0
+G-global,NoTokenTransfer,,,0.0,0.0
+Gabro,OK,0xf54f1bdd09be61d2d92687b25a12d91fafdf94fc,,6.0,4.0
+Gagapay network,NonERC20,,,0.0,0.0
+Gainfy,,,,0.0,0.0
+Gainz token,NoTokenTransfer,,,0.0,0.0
+Galactikka,NeedtoDownload,,,0.0,0.0
+Galaxy esolutions,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Gallactic,NoTokenTransfer,,,0.0,0.0
+Gamb,transfer after ending,,,0.0,0.0
+Gamblica,OK,,,0.0,0.0
+Game fanz,OK,0x3930e4ddb4d24ef2f4cb54c1f009a3694b708428,,0.0,0.0
+Game machine,NoTokenTransfer,,,0.0,0.0
+Game protocol,NoTokenTransfer,,,0.0,0.0
+Game stars,OK,0x02d105f68abf0cb98416fd018a25230e80974abf,,0.0,0.0
+Game.com,DistributorsHardtoIdentify,,,0.0,0.0
+Gamecoin,DistributorsHardtoIdentify,,,0.0,0.0
+Gameflip - flip,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Gameloot,NoMatch,,,0.0,0.0
+Gamity,NeedtoDownload,,,0.0,0.0
+Gana,OK,0xfc543ba94943da77236d38d1cbe6bd9c7b945dfc,,0.0,0.0
+Garnet,NoTokenTransfer,,,0.0,0.0
+Garuda energy,transfer after ending,,,0.0,0.0
+Gascompressorcoin,NoMatch,,,0.0,0.0
+Gastery,ICODateSeemsWrong,,,0.0,0.0
+Gatcoin,NeedtoDownload,,,0.0,0.0
+Gaus,NoTokenTransfer,,,0.0,0.0
+Gawooni,NeedtoDownload,,,0.0,0.0
+Gaxcoin,OK,0x8a19501c2842be5110f4dc12234fb788ba1f5a97,,0.0,0.0
+Gazecoin,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Gazellefund,NoMatch,,,0.0,0.0
+Gbpt,,,,0.0,0.0
+Gbx,NoMatch,,,0.0,0.0
+Gcbib,NoMatch,,,0.0,0.0
+Gdpr.cash,transfer after ending,,,0.0,0.0
+Gecko crypto1,NoMatch,,,0.0,0.0
+Geekzcode,NoMatch,,,0.0,0.0
+Geens,NeedtoDownload,,,0.0,0.0
+Gelios,NeedtoDownload,,,0.0,0.0
+Gem4me market space,,,,0.0,0.0
+Gems,NeedtoDownload,,,0.0,0.0
+Genaro,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Geneos,NonERC20,,,0.0,0.0
+Genesis,NoMatch,,,0.0,0.0
+Genesis space,NoMatch,,,0.0,0.0
+Genesis vision,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Genevieve vc,NoTokenTransfer,,,0.0,0.0
+Genexi,NoMatch,,,0.0,0.0
+Genieico,NeedtoDownload,,,0.0,0.0
+Geofunders,NoTokenTransfer,,,0.0,0.0
+Germoney,NoTokenTransfer,,,0.0,0.0
+Gese (preico),transfer after ending,,,0.0,0.0
+Get achieve,OK,0x1aff1fa1fb9e83f91e660e64247cbd6d62d220e0,,0.0,0.0
+Get do it,NoMatch,,,0.0,0.0
+Gg world lottery,NoMatch,,,0.0,0.0
+Gifcoin,NeedtoDownload,,,0.0,0.0
+Gift token,NoTokenTransfer,,,0.0,0.0
+Giftcoin,OK,0x0f72b988c30a4e4472607703c3363dcfe0f58e0d,,0.0,0.0
+Gifto,OK,0x615ed6779507f223d04722d43ccc0cd871964e2a,,0.0,0.0
+Giftz.io,NeedtoDownload,,,0.0,0.0
+Giga watt,DistributorsHardtoIdentify,,,0.0,0.0
+Gigahash miner,NoTokenTransfer,,,0.0,0.0
+Gigecoin,NeedtoDownload,,,0.0,0.0
+Gigzi,,,,0.0,0.0
+Gilgam,NoTokenTransfer,,,0.0,0.0
+Gilgamesh platform,NeedtoDownload,,,0.0,0.0
+Gimli,OK,0xae4f56f072c34c0a65b3ae3e4db797d831439d93,,0.0,0.0
+Gimmer,NeedtoDownload,,,0.0,0.0
+Ginex,NoTokenTransfer,,,0.0,0.0
+Givacoin,NeedtoDownload,,,0.0,0.0
+Gizer,NeedtoDownload,,,0.0,0.0
+Gl token,NoTokenTransfer,,,0.0,0.0
+Gladius,OK,0x71d01db8d6a2fbea7f8d434599c237980c234e4c,,0.0,0.0
+Gledos,NoMatch,,,0.0,0.0
+Glitzkoin,NonERC20,,,0.0,0.0
+Global finances,NoTokenTransfer,,,0.0,0.0
+Global ico fund,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Global jobcoin,OK,0x2de60f36bb208b5c96acb36d4a49aad3e2be0627,,0.0,0.0
+Global metrology project,NoTokenTransfer,,,0.0,0.0
+Global pay net,NonERC20,,,0.0,0.0
+Global re bitcoin,NoTokenTransfer,,,0.0,0.0
+Global reit,transfer after ending,,,0.0,0.0
+Global shrimp coin,NoTokenTransfer,,,0.0,0.0
+Global spy,NoTokenTransfer,0x0000000000000000000000000000000000000000,,0.0,0.0
+Global tech,OK,0x69f8c1604f27475af9f872e07c2e6a56b485dacf,,7.0,0.0
+Globalcarservice,OK,"0x0000000000000000000000000000000000000000,0x3dac68f3c3a3a12d1a98d314e574215552143e86",,0.0,0.0
+Globatalent,transfer after ending,,,0.0,0.0
+Globcoin,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Globecas (preico),NoMatch,,,0.0,0.0
+Globetrotter,NoTokenTransfer,,,0.0,0.0
+Globexsci,OK,0x845565dfeec2d3eeb1583cf3a6336428be59c19b,,0.0,0.0
+Globitex,NeedtoDownload,,,0.0,0.0
+Globo,NoMatch,,,0.0,0.0
+Glu,NeedtoDownload,,,0.0,0.0
+Glxcoin,NoTokenTransfer,,,0.0,0.0
+Gn compass,OK,0x4b02072f4c81feb543b10b81958307af3b4ff5da,,0.0,0.0
+Gnome invasion,NoMatch,,,0.0,0.0
+Gnosis,ImpreciseInformation,,,0.0,0.0
+Go cubo lodge club,NoMatch,,,0.0,0.0
+Goal bonanza,OK,0x7b69b78cc7fee48202c208609ae6d1f78ce42e13,,0.0,0.0
+Gochain,NoMatch,,,0.0,0.0
+Godbex,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Godzillion,OK,0x1e95ebb48045be65462342988b53ad5aba5a1d31,,31.0,0.0
+Goeureka,transfer after ending,,,0.0,0.0
+Gohelpfund,transfer after ending,,,0.0,0.0
+Gold bits coin,OK,0xc8058d59e208399b76e66da1ec669dd6b1bee2ea,,0.0,0.0
+Gold byte coin,,,,0.0,0.0
+Gold mine,NoTokenTransfer,,,0.0,0.0
+Goldbox.io,OK,0xa9cd57e9270532bf376e31e5ea31186c2bfd1d78,,0.0,0.0
+Goldea,OK,"0x3076d20cef23cf934fc6f857eb97e2baa63fc9fb,0x1ada104c71d837ee35f5eac6b465c0526f21bf27",,0.0,0.0
+Golden fleece,DistributorsHardtoIdentify,,,0.0,0.0
+Goldiam,OK,0x0f1f2c619fa8a05fcce5233aa8c67e943d1957ee,,0.0,0.0
+Goldma,NonERC20,,,0.0,0.0
+Goldminecoin,NoTokenTransfer,,,0.0,0.0
+Goldmint,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Golem,NeedtoDownload,,,0.0,0.0
+Gomineworld,NoTokenTransfer,,,0.0,0.0
+Gonetworks,transfer after ending,,,0.0,0.0
+Gotoken,transfer after ending,,,0.0,0.0
+Govchain,NoTokenTransfer,,,0.0,0.0
+Gpcc  - global protected crypto copyright,NoTokenTransfer,,,0.0,0.0
+Gpn coin,OK,0x5f5affd524e4f0efffa61e25f85c05aff37de051,,67.0,0.0
+Grabameal,NoMatch,,,0.0,0.0
+Grain.io,,,,0.0,0.0
+Gramarye media,NoMatch,,,0.0,0.0
+Gramaton token,NoTokenTransfer,,,0.0,0.0
+Gramgold token,transfer after ending,,,0.0,0.0
+Granite,NeedtoDownload,,,0.0,0.0
+Grapevine,transfer after ending,,,0.0,0.0
+Graphentech,,,,0.0,0.0
+Graphgrail ai,transfer after ending,,,0.0,0.0
+Gratzio,NonERC20,,,0.0,0.0
+Gravel coin,NoTokenTransfer,,,0.0,0.0
+Graz,NoMatch,,,0.0,0.0
+Gre,ICODateSeemsWrong,,,0.0,0.0
+Gre8,NoTokenTransfer,,,0.0,0.0
+Green list standard,NoTokenTransfer,,,0.0,0.0
+Greenhashes,NonERC20,,,0.0,0.0
+Greenish,NonERC20,,,0.0,0.0
+Greentoken,ICODateSeemsWrong,,,0.0,0.0
+Greenworld farm,ICODateSeemsWrong,,,0.0,0.0
+Greenx,transfer after ending,,,0.0,0.0
+Gric,,,,0.0,0.0
+Grid plus,NoTokenTransfer,,,0.0,0.0
+Grocercoin,NoTokenTransfer,,,0.0,0.0
+Gron digital,ICODateSeemsWrong,0x004e6f03648b0b0f529511697b0f36a463a24836,,0.0,0.0
+Grow & mine,NoMatch,,,0.0,0.0
+Growpayment,NoMatch,,,0.0,0.0
+Guardium,NonERC20,,,0.0,0.0
+Guide,NoTokenTransfer,,,0.0,0.0
+Guts tickets,NoTokenTransfer,,,0.0,0.0
+Gym ledger,DistributorsHardtoIdentify,,,0.0,0.0
+Gym rewards,NeedtoDownload,,,0.0,0.0
+H2sol,NoMatch,,,0.0,0.0
+Habibicoin,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Habricks,NoMatch,,,0.0,0.0
+Hacken,OK,0xbce77d679864e792b5ec5ae3dd3fe360cc5c75c0,,0.0,0.0
+Hackspace,NeedtoDownload,,,0.0,0.0
+Hada dbank,NeedtoDownload,,,0.0,0.0
+Hai project,NoMatch,,,0.0,0.0
+Hamster marketplace,transfer after ending,,,0.0,0.0
+Handelion,DistributorsHardtoIdentify,,,0.0,0.0
+Hara,transfer after ending,,,0.0,0.0
+Harapan,,,,0.0,0.0
+Harbor,NoTokenTransfer,,,0.0,0.0
+Hash rush,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Hashbyte,OK,,,0.0,0.0
+Hashcard,OK,0x7acc4b2272e3f5f691f7447c16eb1b71890ced9c,,0.0,0.0
+Hashgains,OK,0x1312f8f9bf5703c75c37bb339692a468a153eeb4,,0.0,0.0
+Hashhive,NonERC20,,,0.0,0.0
+Havven,NeedtoDownload,,,0.0,0.0
+Hazeian,NoMatch,,,0.0,0.0
+Hazza,transfer after ending,,,0.0,0.0
+Hdcoin,NoTokenTransfer,,,0.0,0.0
+Health monitor,NoTokenTransfer,,,0.0,0.0
+Healthereum,NoTokenTransfer,,,0.0,0.0
+Healthheart,transfer after ending,,,0.0,0.0
+Healthureum,NoMatch,,,0.0,0.0
+Healthy corporation,,,,0.0,0.0
+Heartbout,NeedtoDownload,,,0.0,0.0
+Hearthy,NoTokenTransfer,,,0.0,0.0
+Hedge,OK,0x13a8b6434bd5cef0924814f7414482529b51df2a,,0.0,0.0
+Hedge coin capital,NeedtoDownload,,,0.0,0.0
+Hedge.pro,NoTokenTransfer,,,0.0,0.0
+Hedgeconnect,NeedtoDownload,,,0.0,0.0
+Hedger,OK,0x3f2d8f12a3e4fcad05564da151c7cbc47e31b517,,0.0,0.0
+Hedpay,OK,0x012a1ee336fbe10a2f05ff93f3985657f48a0037,,2.0,0.0
+Helbiz,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Helioscoin,NoMatch,,,0.0,0.0
+Hellenium,NoTokenTransfer,,,0.0,0.0
+Hellogold,OK,0xc03281af336e2c25b41ff893a0e6ce1a932b23af,,0.0,0.0
+Helveticoin,NoTokenTransfer,,,0.0,0.0
+Herby,NoTokenTransfer,,,0.0,0.0
+Herdius,NoTokenTransfer,,,0.0,0.0
+Hereda hashgraph,NonERC20,,,0.0,0.0
+Hero,DistributorsHardtoIdentify,,,0.0,0.0
+Heroesjourney,NoTokenTransfer,,,0.0,0.0
+Hetachain,NoMatch,,,0.0,0.0
+"Hey, be well",CancelledICO,,,0.0,0.0
+Hi-tek,NonERC20,,,0.0,0.0
+Hicky,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Highcastle,OK,0x8c6fbcb74a34d0bebbd807d146e8f02581e6ed96,,0.0,0.0
+Higher,NoTokenTransfer,,,0.0,0.0
+Highseek,NonERC20,,,0.0,0.0
+Hihealth,NoMatch,,,0.0,0.0
+Hipe,NeedtoDownload,,,0.0,0.0
+Hirebits,NoTokenTransfer,,,0.0,0.0
+Hirego,OK,0x2ce8a025f3a547d75d69bb9f6a55b279638e4b2e,,2.0,1072.0
+Hirematch,NeedtoDownload,,,0.0,0.0
+Hive power,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Hive project,OK,0xdb969febe87e23d6d64b918d01b5529310511c47,,3.0,0.0
+Hiveway,OK,0xecabf659b107799721c13df71cbc46d074fece57,,0.0,0.0
+Hoard wallet,transfer after ending,,,0.0,0.0
+Hold,transfer after ending,,,0.0,0.0
+Holdme,NeedtoDownload,,,0.0,0.0
+Holiday,NonERC20,,,0.0,0.0
+Holo,NoTokenTransfer,,,0.0,0.0
+Holy coin,NoTokenTransfer,,,0.0,0.0
+Homecoin,NoTokenTransfer,,,0.0,0.0
+Homemine,NonERC20,,,0.0,0.0
+Homni,NoTokenTransfer,,,0.0,0.0
+Honestis network,NeedtoDownload,,,0.0,0.0
+Honeybee,NoTokenTransfer,,,0.0,0.0
+Honor,NeedtoDownload,,,0.0,0.0
+Hoqu,NeedtoDownload,,,0.0,0.0
+Horizon communications,NoMatch,,,0.0,0.0
+Horizon state,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Horsecoin,NoTokenTransfer,,,0.0,0.0
+Horyou,transfer after ending,,,0.0,0.0
+Hostcoin,NonERC20,,,0.0,0.0
+Hotengine,NoTokenTransfer,,,0.0,0.0
+House coupon token,OK,0x90eb9c477caae73d77aabe3f640b47388ddcc896,,0.0,0.0
+Howdoo,transfer after ending,,,0.0,0.0
+Hpay coin,transfer after ending,,,0.0,0.0
+Hplus,NonERC20,,,0.0,0.0
+Hpq,NoMatch,,,0.0,0.0
+Htfx,,,,0.0,0.0
+Hubezoo,NoMatch,,,0.0,0.0
+Hubii network,DistributorsHardtoIdentify,,,0.0,0.0
+Human discovery platform,NoTokenTransfer,,,0.0,0.0
+Humancoin (preico),NoMatch,,,0.0,0.0
+Humaniq,ImpreciseInformation,,,0.0,0.0
+Humanixr,NoTokenTransfer,,,0.0,0.0
+Humbyl,OK,0xaa2b65eea50eb267406a2fc4cae065c6dfdf4304,,2.0,0.0
+Hungry panda games,NoTokenTransfer,,,0.0,0.0
+Hunt.bet,NoTokenTransfer,,,0.0,0.0
+Hupplat,NoTokenTransfer,,,0.0,0.0
+Hurify,NeedtoDownload,,,0.0,0.0
+Hush,NeedtoDownload,,,0.0,0.0
+Hut34 project,OK,0x00f0165f38ecfaa33cd3e437e759f8d92678f646,,1.0,0.0
+Huyucoin,NonERC20,,,0.0,0.0
+Hybrid betting,,,,0.0,0.0
+Hybridblock,transfer after ending,,,0.0,0.0
+Hycon,NonERC20,,,0.0,0.0
+Hyde and co,NoTokenTransfer,,,0.0,0.0
+Hydrocoin,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Hydrominer,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Hyperion fund,NoMatch,,,0.0,0.0
+I'm aero,NoMatch,,,0.0,0.0
+Iac autounit,DistributorsHardtoIdentify,,,0.0,0.0
+Iagon,DistributorsHardtoIdentify,,,0.0,0.0
+Iamhero,NoMatch,,,0.0,0.0
+Iat,NoMatch,,,0.0,0.0
+Ibfs.world,NoTokenTransfer,,,0.0,0.0
+Ibuildapp,OK,0xbce77d679864e792b5ec5ae3dd3fe360cc5c75c0,,0.0,0.0
+Ic3 cubes,NoTokenTransfer,,,0.0,0.0
+Icbcoin,NoMatch,,,0.0,0.0
+Ice rock mining,OK,0xb16dc534252e1bbc5a5190e7225615360d1e27eb,,0.0,0.0
+Icebreakerar (preico),NoMatch,,,0.0,0.0
+Icechain,NoTokenTransfer,,,0.0,0.0
+Icloudsec,OK,0x478a46e809bb0bcf892bc00bf211d3b55184b743,,0.0,0.0
+Ico pass,NoMatch,,,0.0,0.0
+Icobasis,NoTokenTransfer,,,0.0,0.0
+Icoheadstart,DistributorsHardtoIdentify,,,0.0,0.0
+Icoico,NoMatch,,,0.0,0.0
+Icon,OK,0xe16fd9b95758fe8f3a478ef9b750a64513bf2e80,,0.0,0.0
+Iconic ecosystem,ICODateSeemsWrong,,,0.0,0.0
+Iconiq lab,NeedtoDownload,,,0.0,0.0
+Iconomi,OK,0x2e627e83b79d9963ac3f3ee320d769af9301418f,,0.0,0.0
+Iconsort,NoTokenTransfer,,,0.0,0.0
+Icos,NeedtoDownload,,,0.0,0.0
+Icostart,OK,0xfe35d801045592879638d26f74caeb6b1c4abaab,,0.0,0.0
+Icovo,DistributorsHardtoIdentify,,,0.0,0.0
+Icst,,,,0.0,0.0
+Icumulate,NoTokenTransfer,,,0.0,0.0
+Icury,NeedtoDownload,,,0.0,0.0
+Ida,NoMatch,,,0.0,0.0
+Idac,NoTokenTransfer,,,0.0,0.0
+Idea jump,NonERC20,,,0.0,0.0
+Idealcoin,OK,0x7c811ceffebaed45cb693bb18c950d1933e6f05d,,0.0,0.0
+Idgo (preico),NoTokenTransfer,,,0.0,0.0
+Idm,OK,,,0.0,0.0
+Idmoney,NeedtoDownload,,,0.0,0.0
+Idtechnology,NoMatch,,,0.0,0.0
+Iex.ec,OK,0xec33fb8d7c781f6feaf2dd46d521d4f292320200,,0.0,0.0
+Ifan,Scam,,,0.0,0.0
+Ignite ratings,NoTokenTransfer,,,0.0,0.0
+Iht coin,transfer after ending,,,0.0,0.0
+Iiottel,NoMatch,,,0.0,0.0
+Ilcoin,NoMatch,,,0.0,0.0
+Imdex,DistributorsHardtoIdentify,,,0.0,0.0
+Immla,NeedtoDownload,,,0.0,0.0
+Immvrse,NoTokenTransfer,,,0.0,0.0
+Impala,,,,0.0,0.0
+Imperium,NeedtoDownload,,,0.0,0.0
+Inbet,NoMatch,,,0.0,0.0
+Inbot intoken,NoMatch,,,0.0,0.0
+Incodium,DistributorsHardtoIdentify,,,0.0,0.0
+Incremint.io,NoMatch,,,0.0,0.0
+Incx,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Indahash,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Indeep,NoTokenTransfer,,,0.0,0.0
+Index coin,NoTokenTransfer,,,0.0,0.0
+Indicoin,OK,0x91c594706246bed9a99cb49718b95d0f067042c8,,0.0,0.0
+Indieon,NoTokenTransfer,,,0.0,0.0
+Indigodma,NoMatch,,,0.0,0.0
+Indochain,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Indorse,OK,0x0053b91e38b207c97cbff06f48a0f7ab2dd81449,,1.0,0.0
+Infinitus token,transfer after ending,,,0.0,0.0
+Infliv (preico),transfer after ending,,,0.0,0.0
+Influ,OK,0x6f3d70bae7cb77f064b7bd1773d5c1fb38f67cbe,,0.0,0.0
+Infracoins,NoMatch,,,0.0,0.0
+Ingot coin,DistributorsHardtoIdentify,,,0.0,0.0
+Injii,NoTokenTransfer,,,0.0,0.0
+Ink protocol,transfer after ending,,,0.0,0.0
+Inlock,OK,0x578fa4ab3b27a94fe97bd52167f1b02da20d31e8,,0.0,0.0
+Inmax,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Inmediate,NonERC20,,,0.0,0.0
+Inmusik,NoMatch,,,0.0,0.0
+Innovaminex,NonERC20,,,0.0,0.0
+Innovative bioresearch,transfer after ending,,,0.0,0.0
+Ins,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Ins ecosystem [insolar],NoMatch,,,0.0,0.0
+Inscoin for knox project,NoTokenTransfer,,,0.0,0.0
+Insights network,NeedtoDownload,,,0.0,0.0
+Inspeer,OK,0x8496e0641b067b5a67bc9d2fc6c6e5ac6a8433e6,,0.0,0.0
+Inspem,OnlyPreICOTransactions,,,0.0,0.0
+Insurepal,NeedtoDownload,,,0.0,0.0
+Insurex,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Integrative wallet token,NoTokenTransfer,,,0.0,0.0
+Intelligent trading foundation,NoMatch,,,0.0,0.0
+Intelligent trading technologies,OK,0x950db1e0ef25f9966b8762d4dccaeb70e84b04a5,,0.0,0.0
+Internacional coin,NonERC20,,,0.0,0.0
+Internxt,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Intervalue,transfer after ending,,,0.0,0.0
+Intimate,OK,0xf7bc09414afc7e078b45f7c7668f58736161897d,,1.0,0.0
+Intiva,transfer after ending,,,0.0,0.0
+Intro,OK,0x65d0554304c0c86be9899437d9101cd3eada8173,,2.0,0.0
+Invacio,,,,0.0,0.0
+Invest in brokers,NoMatch,,,0.0,0.0
+Investa,NoTokenTransfer,,,0.0,0.0
+Investfeed,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Investx,NoMatch,,,0.0,0.0
+Investy,NeedtoDownload,,,0.0,0.0
+Invictus hyperion fund,transfer after ending,,,0.0,0.0
+Involve,NoMatch,,,0.0,0.0
+Invox finance,NoTokenTransfer,,,0.0,0.0
+Iolite,NonERC20,,,0.0,0.0
+Iou,ICODateSeemsWrong,,,0.0,0.0
+Ip sharing exchange,NeedtoDownload,,,0.0,0.0
+Ip.gold,transfer after ending,,,0.0,0.0
+Ipay,NonERC20,,,0.0,0.0
+Ips,NoTokenTransfer,,,0.0,0.0
+Ipstock,transfer after ending,,,0.0,0.0
+Iqeon,OK,0xc10c99cad6d252271d8465c63f8dbad09f43fba2,,0.0,0.0
+Iquant chain,NeedtoDownload,,,0.0,0.0
+Iregmed,NoTokenTransfer,,,0.0,0.0
+Ironblock,NeedtoDownload,,,0.0,0.0
+Ironx,DistributorsHardtoIdentify,,,0.0,0.0
+Ishook,Complicated,,,0.0,0.0
+Island coin gold,OK,0x76b59b275c3a7ffbee43553716ea698848313bf8,,0.0,0.0
+Istrium,OK,0x244e63936e7a22ce320cb4f06e16f25868ccabc6,,37.0,1443.0
+Ito assendelft,NoMatch,,,0.0,0.0
+Itob,NoTokenTransfer,,,0.0,0.0
+Iungo,NeedtoDownload,,,0.0,0.0
+Iuno,NoMatch,,,0.0,0.0
+Ivin,NonERC20,,,0.0,0.0
+Ivmedia,NoMatch,,,0.0,0.0
+Ivyn,NoTokenTransfer,,,0.0,0.0
+Ixir,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Ixtus,transfer after ending,,,0.0,0.0
+Izac,NoTokenTransfer,,,0.0,0.0
+Izibits,NoTokenTransfer,,,0.0,0.0
+Izichain,DistributorsHardtoIdentify,,,0.0,0.0
+Iziing,NoTokenTransfer,,,0.0,0.0
+Izx,,,,0.0,0.0
+Jboxcoin,NoTokenTransfer,,,0.0,0.0
+Jcash,NoMatch,,,0.0,0.0
+Jcn (preico),NoTokenTransfer,,,0.0,0.0
+Jcoin,NoTokenTransfer,,,0.0,0.0
+Jet8,NeedtoDownload,,,0.0,0.0
+Jibrel network,NeedtoDownload,,,0.0,0.0
+Jincor,DistributorsHardtoIdentify,,,0.0,0.0
+Jiocoin,NeedtoDownload,,,0.0,0.0
+Jizzcoins,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Joingrowth,NeedtoDownload,,,0.0,0.0
+Joint ventures,NoMatch,,,0.0,0.0
+Jointedu,OK,0xd2652b91649284ea094bf1d9f51501ffa96bac5c,,0.0,0.0
+Joyso,NeedtoDownload,,,0.0,0.0
+Joytoken,transfer after ending,,,0.0,0.0
+Jsecoin,OK,0xcfc4fceb90787ef1fda15bb115630ef453f50f86,,0.0,0.0
+Jupiter project,NoMatch,,,0.0,0.0
+Jury.online,,,,0.0,0.0
+Just pay coin,NonERC20,,,0.0,0.0
+K-systems,NoTokenTransfer,,,0.0,0.0
+Kaasy.ai,,,,0.0,0.0
+Kaching,OK,0x61773eeb92cbcf5f3f93783153fde2be51cb6006,,0.0,0.0
+Kahnchat,DistributorsHardtoIdentify,,,0.0,0.0
+Kakushin,OK,0x36f7f9cd70b52f4b2b8ca861faa4a44d8c1e4be3,,0.0,0.0
+Kala token,NoMatch,,,0.0,0.0
+Kamen,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Kapex (preico),NoMatch,,,0.0,0.0
+Karatgold coin (kbc),AlreadyinPreviousFile,,,0.0,0.0
+Karbon,NoTokenTransfer,,,0.0,0.0
+Karbon14,,,,0.0,0.0
+Karma,HardtoUnderstand,,,0.0,0.0
+Karuna network,NoMatch,,,0.0,0.0
+Kash,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Kastle,NonERC20,,,0.0,0.0
+Kc bank,,,,0.0,0.0
+Keeppet,OK,0x839e78cf4b2d6c6bc80d679eb95d072a0358d5b3,,0.0,0.0
+Keepsafepay,NoMatch,,,0.0,0.0
+Kelta,transfer after ending,,,0.0,0.0
+Kencoin,NoTokenTransfer,,,0.0,0.0
+Kepler technologies,ICODateSeemsWrong,,,0.0,0.0
+Kerberos ico,NoMatch,,,0.0,0.0
+Kevin.,OK,0xe9521fd4bc7e2c6fc393c8e352db34ecac674500,,0.0,0.0
+Keypasco,NoMatch,,,0.0,0.0
+Keyrpto,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Kheper,DistributorsHardtoIdentify,,,0.0,0.0
+Kickcity,OK,0x9d22c3bf2b51213a3572e865ecf78fab0294e75b,,0.0,0.0
+Kickico,NeedtoDownload,,,0.0,0.0
+Kijash,NoMatch,,,0.0,0.0
+Kikicoin,,,,0.0,0.0
+Kin,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Kind ads system,transfer after ending,,,0.0,0.0
+Kinesis,,,,0.0,0.0
+Kinetic revolution,DistributorsHardtoIdentify,,,0.0,0.0
+Kings distributed systems,NoTokenTransfer,,,0.0,0.0
+Kinguin.io,NeedtoDownload,,,0.0,0.0
+Kissescoin,NoMatch,,,0.0,0.0
+Kittoken,DistributorsHardtoIdentify,,,0.0,0.0
+Kleos,NoMatch,,,0.0,0.0
+Kleros,transfer after ending,,,0.0,0.0
+Knowledge,transfer after ending,,,0.0,0.0
+Koala,NoTokenTransfer,,,0.0,0.0
+Koilop,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Koios ai,NeedtoDownload,,,0.0,0.0
+Konero,NoTokenTransfer,,,0.0,0.0
+Konios project,transfer after ending,,,0.0,0.0
+Konkrete,,,,0.0,0.0
+Kora network,transfer after ending,,,0.0,0.0
+Korbex,NoTokenTransfer,,,0.0,0.0
+Korona coin,NoTokenTransfer,,,0.0,0.0
+Kpr coin,transfer after ending,,,0.0,0.0
+Kratos (preico),transfer after ending,,,0.0,0.0
+Kredx,DistributorsHardtoIdentify,,,0.0,0.0
+Krios,OK,"0xf7a675abceb148291fa19947e50e961402f89225,0x51871d550158108f5313d2f17d099469a3b595ec",,0.0,0.0
+Kript,NoMatch,,,0.0,0.0
+Krops,NoMatch,,,0.0,0.0
+Krosscoin,NonERC20,,,0.0,0.0
+Kryll.io,,,,0.0,0.0
+Krypted,NoMatch,,,0.0,0.0
+Krypteum,DistributorsHardtoIdentify,,,0.0,0.0
+Krypti.io,,,,0.0,0.0
+Kryptonium,transfer after ending,,,0.0,0.0
+Kryptopal,NoMatch,,,0.0,0.0
+Kryptopy,NeedtoDownload,,,0.0,0.0
+Kryptoro,transfer after ending,,,0.0,0.0
+Kubera,NeedtoDownload,,,0.0,0.0
+Kuende,ICODateSeemsWrong,,,0.0,0.0
+Kurecoin,transfer after ending,,,0.0,0.0
+Kuwaitkoin,NoMatch,,,0.0,0.0
+Kvantor,OK,0xe4ed7e14e961550c0ce7571df8a5b11dec9f7f52,,1.0,0.0
+Kwhcoin,DistributorsHardtoIdentify,,,0.0,0.0
+Kybernetwork,OK,0xd6cd31f283d24cfb442cba1bcf42290c07c15792,,0.0,0.0
+Kyc.legal,transfer after ending,,,0.0,0.0
+Kynson,NoMatch,,,0.0,0.0
+L-pesa,transfer after ending,,,0.0,0.0
+Labelscoin,OK,0x83cc5b28085efad0073c06fca3936a7fc3c680f3,,0.0,0.0
+Labrys,NoTokenTransfer,,,0.0,0.0
+Labstart,NoMatch,,,0.0,0.0
+Labtorum,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Laccoin,NoTokenTransfer,,,0.0,0.0
+Lala world,NeedtoDownload,,,0.0,0.0
+Lambda,NoTokenTransfer,,,0.0,0.0
+Lamden,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Lamoneda,transfer after ending,,,0.0,0.0
+Lamp,NoTokenTransfer,,,0.0,0.0
+Lampix,DistributorsHardtoIdentify,,,0.0,0.0
+Lancechain,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Lancer network (preico),OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Laneaxis,NoMatch,,,0.0,0.0
+Latium,NeedtoDownload,,,0.0,0.0
+Latoken,DistributorsHardtoIdentify,,,0.0,0.0
+Lattice,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Lavenir ico,OK,0xc9167f51cdea635634e6d92d25664379dde36484,,2.0,7002.0
+Lccx - london crypto currency exchange,NoMatch,,,0.0,0.0
+Leadcoin,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Leadrex,transfer after ending,,,0.0,0.0
+Leap with alice,NoTokenTransfer,,,0.0,0.0
+Ledgit,OK,0xb12d5394aac54328721749dc16cde2ba09215a77,,0.0,0.0
+Legolas exchange,NeedtoDownload,,,0.0,0.0
+Lemmon,NoTokenTransfer,,,0.0,0.0
+Lemochain,transfer after ending,,,0.0,0.0
+Lendingblock,AlreadyinPreviousFile,,,0.0,0.0
+Lendium.tech,NoTokenTransfer,,,0.0,0.0
+Lendo,NoMatch,,,0.0,0.0
+Lendoit,OK,0x00a7ca00471d62dece1b52ab409b8307836072c3,,0.0,0.0
+Lendroid,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Lendsbay,NoTokenTransfer,,,0.0,0.0
+Leonardian,DistributorsHardtoIdentify,,,0.0,0.0
+Leopays (preico),DistributorsHardtoIdentify,,,0.0,0.0
+Lescovex,NeedtoDownload,,,0.0,0.0
+Let bet,NoMatch,,,0.0,0.0
+Letsbet,NoMatch,,,0.0,0.0
+Levelapp,transfer after ending,,,0.0,0.0
+Levelnet,NeedtoDownload,,,0.0,0.0
+Leverj,OK,0xf2fbb2939981594e25d93e6226231fcc1b01718e,,0.0,0.0
+Lewt,NoTokenTransfer,,,0.0,0.0
+Lexit,transfer after ending,,,0.0,0.0
+Lexzoom,NoTokenTransfer,,,0.0,0.0
+Lh-crypto,NoTokenTransfer,,,0.0,0.0
+Libidocoin,OK,0x40445c8962aca4a997b66e2abdac664460858d6c,,0.0,0.0
+Liblob,OK,0x300a0a820d8fb6e77850da5eaa8df64bbff5746d,,0.0,0.0
+Librium,NoTokenTransfer,,,0.0,0.0
+Life charity,NoMatch,,,0.0,0.0
+Lifetask,OK,0x979d88a8d8af9b86161fc3866922f5bf4160421c,,0.0,0.0
+Lift token,OK,0x19503ed10eeebb3425fbee36a4b06af64ba10e53,,0.0,0.0
+Lightbitatom,transfer after ending,,,0.0,0.0
+Lightcash blockchain system,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Like,NeedtoDownload,,,0.0,0.0
+Likecoin,DistributorsHardtoIdentify,,,0.0,0.0
+Liker,transfer after ending,,,0.0,0.0
+Liminality network,NoTokenTransfer,,,0.0,0.0
+Linda healthcare,NeedtoDownload,,,0.0,0.0
+Lineage network,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Linkcoin,transfer after ending,,,0.0,0.0
+Linkercoin,DistributorsHardtoIdentify,,,0.0,0.0
+Linkeye,transfer after ending,,,0.0,0.0
+Lionstarter,NoTokenTransfer,,,0.0,0.0
+Lipchain,transfer after ending,,,0.0,0.0
+Liquid bonus loyalty ico,NoTokenTransfer,,,0.0,0.0
+Liquidity.network,transfer after ending,,,0.0,0.0
+List101,,,,0.0,0.0
+Litebolt,OK,0xcb5e3d507ac02ae6b977463b79b4b902c90c18f8,,0.0,0.0
+Litecoin cash,NoTokenTransfer,,,0.0,0.0
+Live show,NeedtoDownload,,,0.0,0.0
+Live stars,OK,0xf36498354cf7ff6044a6db4f7b096075ff294343,,0.0,0.0
+Liveedu,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Livepeer,,,,0.0,0.0
+Livetree adept,OK,"0xf373bfd05c8035be6dcb44cabd17557e49d5364c,0xc107ec2077ba7d65944267b64f005471a6c05692",,0.0,0.0
+Loan bit,NeedtoDownload,,,0.0,0.0
+Loandex,NoTokenTransfer,,,0.0,0.0
+Local world forwarders,NoTokenTransfer,,,0.0,0.0
+Localcoinswap,OK,0x7da5d2fbebdddc9e2c5e35eade8ee9a04243da83,,3.0,0.0
+Loci coin,OK,0x5401bb4729bd7f025b97399c3c92854ec299f81a,,0.0,0.0
+Lockchain,DistributorsHardtoIdentify,,,0.0,0.0
+London football exchange,NoMatch,,,0.0,0.0
+Longevity united,NoTokenTransfer,,,0.0,0.0
+Loomia,NoTokenTransfer,,,0.0,0.0
+Loopring,DistributorsHardtoIdentify,,,0.0,0.0
+Loopx,,,,0.0,0.0
+Lordmancer ii,OK,0x47b8b6256f49cba6c8bd37361cac8b0fe324d605,,0.0,0.0
+Lottechain,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Lotus,DistributorsHardtoIdentify,,,0.0,0.0
+Lovar,NoTokenTransfer,,,0.0,0.0
+Love coins,NoTokenTransfer,,,0.0,0.0
+Love token,transfer after ending,,,0.0,0.0
+Loveblock.one,OnlyPrivateSale,,,0.0,0.0
+Lovelysuites,,,,0.0,0.0
+Lovr pre-ico,OK,0xe49ee2ca3a740b070c52de2c0fbc413dc0b765cf,,0.0,0.0
+Loyakk,NoTokenTransfer,,,0.0,0.0
+Loyaltychain,NoTokenTransfer,,,0.0,0.0
+Lsd,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Lucidexchange,NoTokenTransfer,,,0.0,0.0
+Luckbox,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Lucyd,OK,0x4a20a727c87647eeae9cf98ce56b87de2541e7cd,,1.0,1071.0
+Lumenus,NonERC20,,,0.0,0.0
+Lunch money,transfer after ending,,,0.0,0.0
+Lunes platform,NonERC20,,,0.0,0.0
+Lunyr,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Luven diagnostic,OK,0x2aaa16af369a4d1c77146d7c76fa94128fb68c08,,0.0,0.0
+Luxbio,NoMatch,,,0.0,0.0
+Luxcess group,OK,0xb97ef1020a7efb42d1d81b7b873707211e2ca58a,,0.0,0.0
+Luxreum,NoTokenTransfer,,,0.0,0.0
+Luxure global citizen,,,,0.0,0.0
+Lvx,OK,0x07b71181f761216e11e78937535e6c74ce38e305,,0.0,0.0
+Lxdx,NoMatch,,,0.0,0.0
+Lydian,DistributorsHardtoIdentify,,,0.0,0.0
+Lyfe,transfer after ending,,,0.0,0.0
+Lympo,NeedtoDownload,,,0.0,0.0
+Lynchpin token,,,,0.0,0.0
+Lynked.world,NoMatch,,,0.0,0.0
+Lyves,NoTokenTransfer,,,0.0,0.0
+M2o,transfer after ending,,,0.0,0.0
+Macroverse,DistributorsHardtoIdentify,,,0.0,0.0
+Madnetwork,NoTokenTransfer,,,0.0,0.0
+Maecenas,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Maestro,OK,0x1a3172b477e4f71ec61f1ace2b8a546ebaa05b0f,,0.0,0.0
+Magnetics,NoTokenTransfer,,,0.0,0.0
+Magnify,NoMatch,,,0.0,0.0
+Magos,NoTokenTransfer,,,0.0,0.0
+Mahra,NonERC20,,,0.0,0.0
+Majato project,NeedtoDownload,,,0.0,0.0
+Majato project (preico),IncompleteInformation,,,0.0,0.0
+Makeafolio,NonERC20,,,0.0,0.0
+Mambocoin,NoTokenTransfer,,,0.0,0.0
+Mandala,transfer after ending,,,0.0,0.0
+Mango startups,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Marginless,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Mark.space,OK,0x15f2e85efb82c61ba4963b67aa1e89cf72cd0c37,,0.0,0.0
+Market.space,transfer after ending,,,0.0,0.0
+Marketlist,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Markscheider,OK,0x56336679b51d0290f1e47a835c00e1f145a54754,,0.0,0.0
+Mass.cloud,NoTokenTransfer,,,0.0,0.0
+Matchpool,DistributorsHardtoIdentify,,,0.0,0.0
+Math oriented value investing,NoTokenTransfer,,,0.0,0.0
+Matox,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Matrexa,NoTokenTransfer,,,0.0,0.0
+Matrix,OK,0x56904ddefe73fe976e57f474dd782277451074c8,,1.0,188.0
+Matryx,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Mavin,NeedtoDownload,,,0.0,0.0
+Mavro,OK,0x6a5444c7154cde73fbfec29d57776bfb9b6c917e,,2.0,0.0
+Maxdata,NoMatch,,,0.0,0.0
+Mazzuma (maz),NoMatch,,,0.0,0.0
+Mbys,NoMatch,,,0.0,0.0
+Mcap,NeedtoDownload,,,0.0,0.0
+Mcart protocol,NoMatch,,,0.0,0.0
+Mccain corp,,,,0.0,0.0
+Mcfly.aero,DistributorsHardtoIdentify,,,0.0,0.0
+Mcoin,NonERC20,,,0.0,0.0
+Mcx,NonERC20,,,0.0,0.0
+Md tokens,NonERC20,,,0.0,0.0
+Mdcn,OK,0x6b042d4c9e75b5e61a341c5fddcebcfbfa5be0e9,,0.0,0.0
+Mdk,NeedtoDownload,,,0.0,0.0
+Mdl talent hub,NonERC20,,,0.0,0.0
+Medai network,NoTokenTransfer,,,0.0,0.0
+Medcash,NoTokenTransfer,,,0.0,0.0
+Medchain,NonERC20,,,0.0,0.0
+Medcredits,NoTokenTransfer,,,0.0,0.0
+Media network token,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Medical cannabis,NoTokenTransfer,,,0.0,0.0
+Medicoin,NoTokenTransfer,,,0.0,0.0
+Mediex,DistributorsHardtoIdentify,,,0.0,0.0
+Medis,NoTokenTransfer,,,0.0,0.0
+Medoctor,,,,0.0,0.0
+Meerkat,NoTokenTransfer,,,0.0,0.0
+Meetip,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Meetngreetme,NoTokenTransfer,,,0.0,0.0
+Mega x,NeedtoDownload,,,0.0,0.0
+Melior ai,NoMatch,,,0.0,0.0
+Melonport,DistributorsHardtoIdentify,,,0.0,0.0
+Memority,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Menlo one,OK,"0xdd782bc3c2593e6229b42806c1928e864f74fe57,0xfb37203c94fe35f1e11cf4d8c10cd5f8703ce49d",,0.0,0.0
+Menubuzz,NeedtoDownload,,,0.0,0.0
+Mercury protocol,IncompleteInformation,,,0.0,0.0
+Metabase,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Metadium,transfer after ending,,,0.0,0.0
+Metal,OK,0xa9cb5902a29c32ed82294d88cccd0410378f878b,,0.0,0.0
+Metamorph.pro,DistributorsHardtoIdentify,,,0.0,0.0
+Metatip,NonERC20,,,0.0,0.0
+Meterx,NoTokenTransfer,,,0.0,0.0
+Metoken (preico),NoMatch,,,0.0,0.0
+Metta,NoTokenTransfer,,,0.0,0.0
+Mhealthcoin,,,,0.0,0.0
+Miami crypto exchange,NoTokenTransfer,,,0.0,0.0
+Mib,NonERC20,,,0.0,0.0
+Miboodle,NoTokenTransfer,,,0.0,0.0
+Micars,NeedtoDownload,,,0.0,0.0
+Micromoney,OK,0xbce77d679864e792b5ec5ae3dd3fe360cc5c75c0,,0.0,0.0
+Midas,OK,0xb28b47e0545fa9ee79a01a705c43372ad1c1bd5d,,2.0,0.0
+Midex,DistributorsHardtoIdentify,,,0.0,0.0
+Mijn vastgoed,NoMatch,,,0.0,0.0
+Milc,OK,0x75a89ca44d4c60977dbed2e081ecef133872d11b,,0.0,0.0
+Mimicoin,NeedtoDownload,,,0.0,0.0
+Min,NonERC20,,,0.0,0.0
+Mindlink,OK,0x72ebea93329332af8356103a3af0e495049bf657,,0.0,0.0
+Mindol,DistributorsHardtoIdentify,,,0.0,0.0
+Mindsports,IncompleteInformation,,,0.0,0.0
+Mine,NoMatch,,,0.0,0.0
+Mineberg,NoTokenTransfer,,,0.0,0.0
+Miner one,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Minerva,NoTokenTransfer,,,0.0,0.0
+Minery,NoTokenTransfer,,,0.0,0.0
+Mingo,NeedtoDownload,,,0.0,0.0
+Miniapps,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Mining now,NoTokenTransfer,,,0.0,0.0
+Mining seconds,NonERC20,,,0.0,0.0
+Minter,NonERC20,,,0.0,0.0
+Minthealth,NonERC20,,,0.0,0.0
+Mir,NonERC20,,,0.0,0.0
+Miracle tele,,,,0.0,0.0
+Mirocana,NoTokenTransfer,,,0.0,0.0
+Misscoin,NoTokenTransfer,,,0.0,0.0
+Mithril ore,NoTokenTransfer,,,0.0,0.0
+Mito,OK,0xe9d61c62696a3c38e310c3e08ad6f48febcb520e,,0.0,0.0
+Mix rent (preico),NoMatch,,,0.0,0.0
+Mjcoin,OK,0xf6f89d6d0cf6a026b6cc75c8fdd3fd83f8d0112a,,0.0,0.0
+Mltoken,NoTokenTransfer,,,0.0,0.0
+Mobee,OK,0x616e87fc8534fc4729b3b2af788addda0043f924,,0.0,0.0
+Mobilego,OK,0x399272f91b10ac79aa4ca3f61a893a7726f07efa,,3.0,0.0
+Mobilink-coin,transfer after ending,,,0.0,0.0
+Modex,NoTokenTransfer,,,0.0,0.0
+Modultrade,OK,0x51420c0846571de5b70851789bedefa67b5edacd,,3.0,0.0
+Modulum,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Modum,,,,0.0,0.0
+Moeda,NeedtoDownload,,,0.0,0.0
+Moentum token,NoTokenTransfer,,,0.0,0.0
+Mog,transfer after ending,,,0.0,0.0
+Mokenex,OK,0x73bb668896012d42e1f8be7a7a981cce88f88674,,0.0,0.0
+Molecule,DistributorsHardtoIdentify,,,0.0,0.0
+Moms avenue,NoTokenTransfer,,,0.0,0.0
+Monaco,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Monaco estate,NoTokenTransfer,0x0000000000000000000000000000000000000000,,0.0,0.0
+Monanex,NoTokenTransfer,,,0.0,0.0
+Monartis,NoTokenTransfer,,,0.0,0.0
+Moncrypt,NoTokenTransfer,,,0.0,0.0
+Mondo,NoTokenTransfer,,,0.0,0.0
+Moneda,NoTokenTransfer,,,0.0,0.0
+Monetahawk,NoMatch,,,0.0,0.0
+Monetha,OK,0x0027bcc0275ed76e0b338a42e7e08dec36d25678,,0.0,0.0
+Monetizr (preico),NoMatch,,,0.0,0.0
+Moneto,NoTokenTransfer,,,0.0,0.0
+Money rebel,NoTokenTransfer,,,0.0,0.0
+Moneyking,NonERC20,,,0.0,0.0
+Moneynet,OK,0x6eacb6f95b8119aa92d2d394f0a04ad83fe42091,,0.0,0.0
+Moneytoken,,,,0.0,0.0
+Monopoly,NoTokenTransfer,,,0.0,0.0
+Monster bit,DistributorsHardtoIdentify,,,0.0,0.0
+Montis,,,,0.0,0.0
+Monvid,NoMatch,,,0.0,0.0
+Moonlite,OK,0x11582b40e2a8ab5ac53bc88bddb925d0909cc332,0x0000000000000000000000000000000000000000,0.0,0.0
+Moonx,NoMatch,,,0.0,0.0
+Moover,NoMatch,,,0.0,0.0
+Moria,DistributorsHardtoIdentify,,,0.0,0.0
+Morpheus infrastructure token,AlreadyinPreviousFile,,,0.0,0.0
+Morpheus network,NeedtoDownload,,,0.0,0.0
+Mos lottery,NoMatch,,,0.0,0.0
+Mossland,transfer after ending,,,0.0,0.0
+Mothership,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Mountain resorts,NonERC20,,,0.0,0.0
+Movement app,NoTokenTransfer,,,0.0,0.0
+Moviechain,NoTokenTransfer,,,0.0,0.0
+Movieschain,NoMatch,,,0.0,0.0
+Moxyone,NoMatch,,,0.0,0.0
+Mratoken,NoTokenTransfer,,,0.0,0.0
+Mrchain,DistributorsHardtoIdentify,,,0.0,0.0
+Msc,NoMatch,,,0.0,0.0
+Mt pelerin,OK,0x09519a92007e055c8a727df194cd951da654b616,,0.0,0.0
+Mtcash,NoMatch,,,0.0,0.0
+Mtk,NoMatch,,,0.0,0.0
+Multibot,NeedtoDownload,,,0.0,0.0
+Multichainexchange,DistributorsHardtoIdentify,,,0.0,0.0
+Multisignio,NoMatch,,,0.0,0.0
+Multiversum,transfer after ending,,,0.0,0.0
+Multra,OK,0xdfd46b7e8af013250a79c15d433d59cfa8829b42,,0.0,0.0
+Mundus,NeedtoDownload,,,0.0,0.0
+Musiclife,NoMatch,,,0.0,0.0
+Must protocol,,,,0.0,0.0
+Muusic,NonERC20,,,0.0,0.0
+Muxe,DistributorsHardtoIdentify,,,0.0,0.0
+Muzika,ICODateSeemsWrong,,,0.0,0.0
+Mvlchain,transfer after ending,,,0.0,0.0
+Myanmar gold coin,transfer after ending,,,0.0,0.0
+Myart,DistributorsHardtoIdentify,,,0.0,0.0
+Mybit,OK,0x6e0ec952e49212f2e2e2f94fedaa84f5c044acef,,0.0,0.0
+Mymazzu,NoTokenTransfer,,,0.0,0.0
+Myoddz,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Myoho,,,,0.0,0.0
+Myriads.io,NoMatch,,,0.0,0.0
+Mysterium,DistributorsHardtoIdentify,,,0.0,0.0
+Mywish,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+N'cloud.swiss,OK,0x009a6317bec34adaf5700d707556e15f553d1845,,0.0,0.0
+N.exchange,NoMatch,,,0.0,0.0
+Nacreous,DistributorsHardtoIdentify,,,0.0,0.0
+Naga,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Nagricoin,OK,0x6abfab47fa450c4fd73f96879c3a00203d1a1023,,6.0,0.0
+Nai,NoMatch,,,0.0,0.0
+Naireum,NoMatch,,,0.0,0.0
+Naked technologies,transfer after ending,,,0.0,0.0
+Nam,NeedtoDownload,,,0.0,0.0
+Namek,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Nametoken,OK,0x3a9a0d0f1df94c5e240b446455f57c1a6503884c,,2.0,0.0
+Nami.trade,DistributorsHardtoIdentify,,,0.0,0.0
+Napoleon x,OK,0x6551f97f7d133083b11c0350c5fa83eefee8000d,,35.0,0.0
+Narrative,NeedtoDownload,,,0.0,0.0
+Natcoin,OK,0x06e11f1e94e054cb85dfe3010106226a27e44b88,,29.0,10047.0
+Native video box,transfer after ending,,,0.0,0.0
+Nau,NoTokenTransfer,,,0.0,0.0
+Nauticus,transfer after ending,,,0.0,0.0
+Naviaddress,,,,0.0,0.0
+Nd invest,,,,0.0,0.0
+Nebeus,NeedtoDownload,,,0.0,0.0
+Nebula ai,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Nebula genomics,NeedtoDownload,,,0.0,0.0
+Nebulas,DistributorsHardtoIdentify,,,0.0,0.0
+Nedviga,NoTokenTransfer,,,0.0,0.0
+Neironix,OK,"0x40166dd59f6054a38652f6a99e363106a99a6845,0x05ca268db7beee6791c2145653f2083ac56fe232",,0.0,0.0
+Nel,NonERC20,,,0.0,0.0
+Neluns (preico),OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Neo finance,NoMatch,,,0.0,0.0
+Neogame,NoMatch,,,0.0,0.0
+Nettekcoin,OK,0x2d37ca83c3ecd6b6896e572955a720025237faa5,,8.0,0.0
+Netterium,OK,0xb987b463c7573f0b7b6ed7cc8e5fab9042272065,,2.0,0.0
+Networkunits,NoTokenTransfer,,,0.0,0.0
+Neufund,OK,0xf432cec23b2a0d6062b969467f65669de81f4653,,0.0,0.0
+Neunet,NoTokenTransfer,,,0.0,0.0
+Neurobot,OK,0x30b1dcaa03c18247d044dc2c282fe5c6f69e0287,,29.0,0.0
+Neurogress,NoTokenTransfer,,,0.0,0.0
+Neuromation,OK,0x2be094ee0095466e38d336c755c4d4b6195a086b,,4.0,0.0
+Neverdie,DistributorsHardtoIdentify,,,0.0,0.0
+New era energy,NoTokenTransfer,,,0.0,0.0
+Newbium,HardtoUnderstand,,,0.0,0.0
+Newera,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Newton,NonERC20,,,0.0,0.0
+Nex,NonERC20,,,0.0,0.0
+Nexo,,,,0.0,0.0
+Next.exchange,DistributorsHardtoIdentify,,,0.0,0.0
+Nexty,NoMatch,,,0.0,0.0
+Nhct,transfer after ending,,,0.0,0.0
+Nickelcoin,NoTokenTransfer,,,0.0,0.0
+Nimbus token,DistributorsHardtoIdentify,,,0.0,0.0
+Nimfamoney,ImpreciseInformation,,,0.0,0.0
+Nimiq,DistributorsHardtoIdentify,,,0.0,0.0
+Niqbix,NoTokenTransfer,,,0.0,0.0
+Nitecrawler,NoTokenTransfer,,,0.0,0.0
+Nitro,OK,0x4b0712de9b75bc68a566215acca876ea5e55c172,,0.0,0.0
+No fake today,transfer after ending,,,0.0,0.0
+Nocta,NeedtoDownload,,,0.0,0.0
+Nocturus,NoMatch,,,0.0,0.0
+Node,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Nodvix,,,,0.0,0.0
+Nollycoin,DistributorsHardtoIdentify,,,0.0,0.0
+Nonecoin,NoMatch,,,0.0,0.0
+Nordcoin mining,NoTokenTransfer,,,0.0,0.0
+Noscam,NoTokenTransfer,,,0.0,0.0
+Notarchain.es,NoMatch,,,0.0,0.0
+Notary,ImpreciseInformation,,,0.0,0.0
+Nova,NoMatch,,,0.0,0.0
+Nova blitz,OK,0x0dff10fcaccc3b18a1604509e9b4d0b9a7091278,,0.0,0.0
+Novalend,DistributorsHardtoIdentify,,,0.0,0.0
+Novex,NeedtoDownload,,,0.0,0.0
+Nper,OK,0xc9d9f9456dc29a03f05a0201750ac137e435a7c1,,0.0,0.0
+Ntok,NoMatch,,,0.0,0.0
+Nuggets,NoTokenTransfer,,,0.0,0.0
+Nuka token,NoTokenTransfer,,,0.0,0.0
+Nuls,AlreadyinPreviousFile,,,0.0,0.0
+Numoney exchange,NoTokenTransfer,,,0.0,0.0
+Nuvus.io,ICODateSeemsWrong,,,0.0,0.0
+Nyronchain,NeedtoDownload,,,0.0,0.0
+Nyx,NeedtoDownload,,,0.0,0.0
+Obirum,OK,0x341f968a686791f1d6b056bb93140acaa72b970c,,0.0,0.0
+Obizcoin,NoTokenTransfer,,,0.0,0.0
+Oceanus foundation,NoMatch,,,0.0,0.0
+Octobase,NoMatch,,,0.0,0.0
+Octobit.io,NoMatch,,,0.0,0.0
+Odeep,NoTokenTransfer,,,0.0,0.0
+Odem,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Odmcoin,OK,0xd890ce7c54b6132f57f0b2029e35f161f60e92f8,,0.0,0.0
+Oduwa,OK,"0xe35120fbf4fe6d9895cc8a93bd0796b5cb89e776,0x90af3daa5d77a41686afda52463725e19c69636c",,0.0,0.0
+Odyssey,NeedtoDownload,,,0.0,0.0
+Offerzone,NoTokenTransfer,,,0.0,0.0
+Officium,OK,0x20d41e5bf3e0f0afca2a373e5e5bdbc724976b54,,0.0,0.0
+Ofid,IncompleteInformation,,,0.0,0.0
+Ofnog,NoMatch,,,0.0,0.0
+Ogcoin,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Oid  - opioid token,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Oildexcoin,NoTokenTransfer,,,0.0,0.0
+Oilsc,OK,0xf7d844cea11ca4fa89b84af0c851b8a74ecfa912,,2.0,0.0
+Ojooo (preico),Ongoing,,,0.0,0.0
+Okeydokey,NoTokenTransfer,,,0.0,0.0
+Okmcoin,DistributorsHardtoIdentify,,,0.0,0.0
+Olife,NoMatch,,,0.0,0.0
+Olxa,OK,0xbcf2aea259311a09bd071ff6b3a16478c82a8c23,,0.0,0.0
+Omeno,transfer after ending,,,0.0,0.0
+Omisego,NeedtoDownload,,,0.0,0.0
+Ommer,NoTokenTransfer,,,0.0,0.0
+Omnitude,OK,0xa80f4c24e8358594e601b1204e56cb5a637cc9d6,,0.0,0.0
+On.live,,,,0.0,0.0
+Onam,CancelledICO,,,0.0,0.0
+One game,ICODateSeemsWrong,,,0.0,0.0
+One ledger,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+One solution,NoMatch,,,0.0,0.0
+Oneroot,DistributorsHardtoIdentify,0xbcf5b03cc17c92f1105f618b305baea01f88dd10,,0.0,0.0
+Onetotwo,NoTokenTransfer,,,0.0,0.0
+Ong.social,DistributorsHardtoIdentify,,,0.0,0.0
+Online,transfer after ending,,,0.0,0.0
+Online berry,,,,0.0,0.0
+Onplace,DistributorsHardtoIdentify,,,0.0,0.0
+Onstellar,NeedtoDownload,,,0.0,0.0
+Opakeco,NoMatch,,,0.0,0.0
+Opakeco foundation,NoMatch,,,0.0,0.0
+Open collectors network (preico),NonERC20,,,0.0,0.0
+Open longevity,NeedtoDownload,,,0.0,0.0
+Open money,NoTokenTransfer,,,0.0,0.0
+Open platform,NoTokenTransfer,,,0.0,0.0
+Open source university,NoMatch,,,0.0,0.0
+Openanx,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Openassets,NoMatch,,,0.0,0.0
+Openfinance network,NoTokenTransfer,,,0.0,0.0
+Openzen,NoTokenTransfer,,,0.0,0.0
+Ophcrcoin,NoMatch,,,0.0,0.0
+Opn platform,DistributorsHardtoIdentify,,,0.0,0.0
+Opp open wifi (preico),NoMatch,,,0.0,0.0
+Optitoken,NoTokenTransfer,,,0.0,0.0
+Opus,OK,0x4355fc160f74328f9b383df2ec589bb3dfd82ba0,,0.0,0.0
+Oracles network,NeedtoDownload,,,0.0,0.0
+Orada,NoMatch,,,0.0,0.0
+Orbeum,OK,0x8724bf017908129a186ad9e674d334af34ab9397,,9.0,390.0
+Orca,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Orch network,NoMatch,,,0.0,0.0
+Oret,,,,0.0,0.0
+Organicco,NoTokenTransfer,,,0.0,0.0
+Origami network,OK,0xb692dd4601d26712c3d6ce2e2cdce077989486bd,,0.0,0.0
+Origin protocol,NeedtoDownload,,,0.0,0.0
+Origin reporting,NoMatch,,,0.0,0.0
+Origintrail,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Orinoco,OK,0x9d4537094fa30d8042a51f4f0cd29f170b28456b,,1.0,1.0
+Orio,NoTokenTransfer,,,0.0,0.0
+Oris.space,NoMatch,,,0.0,0.0
+Orocrypt,OK,0x71a6180a9548740cde1798dcef4e61ee37629616,,0.0,0.0
+Orozu,NonERC20,,,0.0,0.0
+Ors ico,NoMatch,,,0.0,0.0
+Oryxcash,NoMatch,,,0.0,0.0
+Osa,transfer after ending,,,0.0,0.0
+Otppay,OK,0xa04ebf9bf9994ec776b6e8621b8ac75e32767dcd,,0.0,0.0
+Ourtell,NoMatch,,,0.0,0.0
+Out of the cloud (preico),NoMatch,,,0.0,0.0
+Outing,OK,0xa6a5878a9715310e80bb932772cad8e9c6a79c04,,0.0,0.0
+Ox fina,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Oyoba inc.,NoTokenTransfer,,,0.0,0.0
+Ozex,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+P2p global network,NoMatch,,,0.0,0.0
+P2pay,NonERC20,,,0.0,0.0
+P2pep,NoMatch,,,0.0,0.0
+Pally,OK,0x00a17ee45c970da08b8205f254bf2f9327d1eb74,,0.0,0.0
+Pandalancer,NoTokenTransfer,,,0.0,0.0
+Pantercon,NoMatch,,,0.0,0.0
+Paple,,,,0.0,0.0
+Papyrus,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Paquarium,OK,0x75498aecc94646f60662df22768709cc4e679d5f,,0.0,0.0
+Paragon coin,OK,0x909358627b668e7587d3c165621897df0c1c277c,,0.0,0.0
+Parcelx,DistributorsHardtoIdentify,,,0.0,0.0
+Pareto,NeedtoDownload,,,0.0,0.0
+Parkade,NoTokenTransfer,,,0.0,0.0
+Parkgene,DistributorsHardtoIdentify,,,0.0,0.0
+Parkres,NoTokenTransfer,,,0.0,0.0
+Parsec frontiers,DistributorsHardtoIdentify,,,0.0,0.0
+Path.network,DistributorsHardtoIdentify,,,0.0,0.0
+Patientory,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Patriot,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Patron,NoTokenTransfer,,,0.0,0.0
+Pave,NoTokenTransfer,,,0.0,0.0
+Payblok,NoTokenTransfer,,,0.0,0.0
+Paycent,OK,0xc15e9503128935e08fe1486d07936d99a73af890,,0.0,0.0
+Payera,NoMatch,,,0.0,0.0
+Payfair,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Payfrit rms,NoMatch,,,0.0,0.0
+Paygine,NeedtoDownload,,,0.0,0.0
+Payiza,OK,0xec374b845d41303302db444b0cb314996515d613,,0.0,0.0
+Paymon,AlreadyinPreviousFile,,,0.0,0.0
+Paypie,DistributorsHardtoIdentify,,,0.0,0.0
+Payportal,NoTokenTransfer,,,0.0,0.0
+Paypro,NeedtoDownload,,,0.0,0.0
+Paysura,OK,0x69b794ec295d665fc527230523f7012eea1dc03e,,0.0,0.0
+Paytailor,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Pbc,,,,0.0,0.0
+Pcc,OK,0xdeba5a198f4a3bf63a2d32703e17d96c936d3789,,0.0,0.0
+Peatcoin,NoTokenTransfer,,,0.0,0.0
+Peculium,DistributorsHardtoIdentify,,,0.0,0.0
+Pecunio,transfer after ending,,,0.0,0.0
+Peer mountain,NoTokenTransfer,,,0.0,0.0
+Peerbanks,ImpreciseInformation,,,0.0,0.0
+Peerguess,NeedtoDownload,,,0.0,0.0
+Pension rewards,,,,0.0,0.0
+Pentacore,NoTokenTransfer,,,0.0,0.0
+Peoples,OK,0x9134d84e747113584c679899b5172d7b9b81c551,,0.0,0.0
+Peoplewave,OK,0xa27c38533f003c582da43f19fc38eb13c05dfd38,,0.0,0.0
+Perfectchain network,OK,0x13873a43694f039d18107afeac917aff6bc4fa96,,0.0,0.0
+Perkscoin,OK,0x2094a91464a6c53d6900879223a1c2c6d9f8bd42,,0.0,0.0
+Personal data democracy,transfer after ending,,,0.0,0.0
+Petal,NoMatch,,,0.0,0.0
+Peur,transfer after ending,,,0.0,0.0
+Pgf500,,,,0.0,0.0
+Pharmagenome,NoTokenTransfer,,,0.0,0.0
+Phenomenal network,NoTokenTransfer,,,0.0,0.0
+Phi token,OK,0xac65447589555ec19cbafc5cec717318ec811874,,0.0,0.0
+Philanthor (preico),NoMatch,,,0.0,0.0
+Photochain,transfer after ending,,,0.0,0.0
+Pibble,DistributorsHardtoIdentify,,,0.0,0.0
+Pig world,NoMatch,,,0.0,0.0
+Pigzbe,NoMatch,,,0.0,0.0
+Pikcars,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Pikciochain,NonERC20,,,0.0,0.0
+Pillar,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Pindex,OK,0xf296c3f97f27db9df83145684d1745698a5187b6,,1.0,0.0
+Pindify,NeedtoDownload,,,0.0,0.0
+Ping chain,NoTokenTransfer,,,0.0,0.0
+Pingpaid,transfer after ending,,,0.0,0.0
+Pinkdate,NoTokenTransfer,,,0.0,0.0
+Pinmo,DistributorsHardtoIdentify,,,0.0,0.0
+Pinnacle brilliance,NonERC20,,,0.0,0.0
+Pitis coin,DistributorsHardtoIdentify,,,0.0,0.0
+Pixie,ICODateSeemsWrong,,,0.0,0.0
+Pixinch,NoTokenTransfer,,,0.0,0.0
+Plaak,DistributorsHardtoIdentify,,,0.0,0.0
+Placetorent (preico),OK,0x75630fa33a06e7396139a135937ccee887e68eb2,,0.0,0.0
+Plair,NonERC20,,,0.0,0.0
+Planex,NoMatch,,,0.0,0.0
+Plasmium,NoTokenTransfer (Suspicious ICO),,,0.0,0.0
+Platio solar,NoMatch,,,0.0,0.0
+Play game,,,,0.0,0.0
+Play2live,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Playbets,NoTokenTransfer,,,0.0,0.0
+Playbunk,NoTokenTransfer,,,0.0,0.0
+Playchip (preico),transfer after ending,,,0.0,0.0
+Playcoin,NonERC20,,,0.0,0.0
+Playhall,NeedtoDownload,,,0.0,0.0
+Playingcrypto,NoTokenTransfer,,,0.0,0.0
+Playkey,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Playrs,transfer after ending,,,0.0,0.0
+Playtrip,NoMatch,,,0.0,0.0
+Plaza systems (preico),OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Pldgr,NoTokenTransfer,,,0.0,0.0
+Plenus,NoTokenTransfer,,,0.0,0.0
+Pluscoin,OK,0x58ebcd3230e0c28bf82e3f91f72d80eff32d00f4,,0.0,0.0
+Pluscoin,NeedtoDownload,,,0.0,0.0
+Pm7,OK,0x61dbbe13c3b1ef2e6dd57a2b7f0e21e6247352f2,,4.0,0.0
+Pmotion,NeedtoDownload,,,0.0,0.0
+Po.et,OK,0x1111111111111111111111111111111111111111,,0.0,0.0
+Poa network,NeedtoDownload,,,0.0,0.0
+Pocketinns,OK,0xb4011f42a562e2aed139a37d272a7af17727abec,,0.0,0.0
+Podone,OK,0x83b164b8db82d35bd2ae70785095baf0f3417111,,0.0,0.0
+Poins,NonERC20,,,0.0,0.0
+Pointium,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Pokersports,transfer after ending,,,0.0,0.0
+Policypal network,NeedtoDownload,,,0.0,0.0
+Polkadot,NeedtoDownload,,,0.0,0.0
+Polochain,NoTokenTransfer,,,0.0,0.0
+Poloneum,NoTokenTransfer,,,0.0,0.0
+Polybius,OK,0xfaf9b1a7a09ee6f643653b2183b55d40cf4d28a5,0x313cd4f7e1afe625fd5cf4d0c3bc5df182a28c3d,3.0,0.0
+Polymerium,OK,0x5f9430c17a1d393bd9bd880b679e69d1842dae36,,0.0,0.0
+Polyswarm,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Ponics technologies,NoMatch,,,0.0,0.0
+Pontem inc.,NoMatch,,,0.0,0.0
+Pool of stake,transfer after ending,,,0.0,0.0
+Popchest (preico),NoMatch,,,0.0,0.0
+Populous,DistributorsHardtoIdentify,,,0.0,0.0
+Popultrade,NoTokenTransfer,,,0.0,0.0
+Pornx,OK,0xdd5d4cf95d52da7f43733749893eac0835aff986,,0.0,0.0
+Potion owl,NonERC20,,,0.0,0.0
+Power,NoMatch,,,0.0,0.0
+Power ledger,ImpreciseInformation,,,0.0,0.0
+Powershare,CancelledICO,,,0.0,0.0
+Praator,NoMatch,,,0.0,0.0
+Premium trade,NoMatch,,,0.0,0.0
+Premiummedicalchain,NoTokenTransfer,,,0.0,0.0
+Presearch,OK,0x16fa565b6b61248a5807c3af14f0005b383c4214,,0.0,0.0
+Pressco,NoTokenTransfer,,,0.0,0.0
+Presscoin,NeedtoDownload,,,0.0,0.0
+Prether,NoTokenTransfer,,,0.0,0.0
+Primas,transfer after ending,,,0.0,0.0
+Prime shipping foundation,NoMatch,,,0.0,0.0
+Prime-ex perpetual,transfer after ending,,,0.0,0.0
+Primelend,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Primex,NoTokenTransfer,,,0.0,0.0
+Priorityex,transfer after ending,,,0.0,0.0
+Privatix,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Privelege coin,OK,0x546e3628261ff8f224e18e65a95db87daebe00b4,,0.0,0.0
+Probit,NoTokenTransfer,,,0.0,0.0
+Productivist,transfer after ending,,,0.0,0.0
+Profede,NoMatch,,,0.0,0.0
+Projecereum tokens,transfer after ending,,,0.0,0.0
+Project shivom,transfer after ending,,,0.0,0.0
+Project zephyr,NonERC20,,,0.0,0.0
+Prokarex,,,,0.0,0.0
+Proncoin,OK,0xefd8968206bfa3148f213d70ce43250f00b726eb,,0.0,0.0
+Proof suite,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Properbuz,NoTokenTransfer,,,0.0,0.0
+Property coin,NoTokenTransfer,,,0.0,0.0
+Propertyclub,NoMatch,,,0.0,0.0
+Propify,NoTokenTransfer,,,0.0,0.0
+Props,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Propthereum,NeedtoDownload,,,0.0,0.0
+Propx nanochain,OK,0xa03b36e48a8c73e60859e5f23bdbc5330f68b2b7,,0.0,0.0
+Propy,OK,0xbce77d679864e792b5ec5ae3dd3fe360cc5c75c0,,0.0,0.0
+Prosense,NoTokenTransfer,,,0.0,0.0
+Prosume energy,NoTokenTransfer,,,0.0,0.0
+Protos,NeedtoDownload,,,0.0,0.0
+Prover,OK,0x6f3a995e904c9be5279e375e79f3c30105efa618,,0.0,0.0
+Provoco,transfer after ending,,,0.0,0.0
+Proximax,NonERC20,,,0.0,0.0
+Pryvatecoin,DistributorsHardtoIdentify,,,0.0,0.0
+Pryze,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Publica,OK,0xa99ab2fcc5ddfd5c1cbe6c3d760420d2ddb63d99,,1.0,0.0
+Puccoin,NoMatch,,,0.0,0.0
+Pulsar,NoMatch,,,0.0,0.0
+Pumped,NoTokenTransfer,,,0.0,0.0
+Pumpkin,NoTokenTransfer,,,0.0,0.0
+Pundi x,NeedtoDownload,,,0.0,0.0
+Pungo,NonERC20,,,0.0,0.0
+Puregold.io,DistributorsHardtoIdentify,,,0.0,0.0
+Purple throne,DistributorsHardtoIdentify,,,0.0,0.0
+Pyapay,NoMatch,,,0.0,0.0
+Pylon network,OK,0x8789f5be700495db1396ddc336dec8c120770c8e,,0.0,0.0
+Q-city,NoTokenTransfer,,,0.0,0.0
+Qash by quoine,DistributorsHardtoIdentify,,,0.0,0.0
+Qashback,transfer after ending,,,0.0,0.0
+Qfora,OK,0x83d8076e8891e99dc3147d4bcaf856c54d966d06,,0.0,0.0
+Qi,DistributorsHardtoIdentify,,,0.0,0.0
+Qiibee,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Qilimanjaro,NoTokenTransfer,,,0.0,0.0
+Qilin.market,NoTokenTransfer,,,0.0,0.0
+Qlc chain,NoMatch,,,0.0,0.0
+Qlink,NeedtoDownload,,,0.0,0.0
+Qompass,NoMatch,,,0.0,0.0
+Qtum,DistributorsHardtoIdentify,,,0.0,0.0
+Quadrant,OK,0xa145958ba7b9b3dbd481b2ee080b53f60b77751d,,0.0,0.0
+Quant network,transfer after ending,,,0.0,0.0
+Quantreum,NoTokenTransfer,,,0.0,0.0
+Quantstamp,OK,0x39a03cb1b1937a41b9846f4ca48822220819884f,,0.0,0.0
+Quantum,NeedtoDownload,,,0.0,0.0
+Quantum1net,OK,"0xc02e86c673dd62f8bb1927e16820ae09d6744da7,0x8dd908e85cacabfa7e44654d2b868fa9a9468e49",,0.0,0.0
+Quarkchain,OK,0x1ef7aa1bd73ea34e76637fadf05a1f2f69fbbdaf,,0.0,0.0
+Quasa,NeedtoDownload,,,0.0,0.0
+Quifas,NoTokenTransfer,0x0000000000000000000000000000000000000000,,0.0,0.0
+Quixxi,NoTokenTransfer,,,0.0,0.0
+Quixxi connect,transfer after ending,,,0.0,0.0
+Qurrex,OK,0x788cdc97403a5cafa60d9aaa7e8265f83d629df5,,1.0,77.0
+Qvolta,OK,0x00fee5170c113e84ac05742d4aff6408d1cf46bb,,1.0,0.0
+Qwasder,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Qwiqq ico,NoMatch,,,0.0,0.0
+Qykbar,NoMatch,,,0.0,0.0
+R pay,NoTokenTransfer,,,0.0,0.0
+R-bit,NoMatch,,,0.0,0.0
+R3s,NoTokenTransfer,,,0.0,0.0
+R_block,NoTokenTransfer,,,0.0,0.0
+Raacoin,NeedtoDownload,,,0.0,0.0
+Racoin,NoMatch,,,0.0,0.0
+Radioyo,NoTokenTransfer,,,0.0,0.0
+Rados,NeedtoDownload,,,0.0,0.0
+Rafl,NeedtoDownload,,,0.0,0.0
+Raiden network,OK,0xb5e5585d0057501c91c48094029a6f4fb10b5a01,,0.0,0.0
+Rainbow currency,NoTokenTransfer,,,0.0,0.0
+Raincheck,NonERC20,,,0.0,0.0
+Raison,DistributorsHardtoIdentify,,,0.0,0.0
+Rakugo,NoTokenTransfer,,,0.0,0.0
+Rank,NoTokenTransfer,,,0.0,0.0
+Rankingball,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Rasputin,OK,0x24bda83cf3ed52530f2842bc0ca4d98280c6be29,,0.0,622.0
+Rate date,NeedtoDownload,,,0.0,0.0
+Rate ico,NoTokenTransfer,,,0.0,0.0
+Rateonium (preico),NoMatch,,,0.0,0.0
+Ravelous,ImpreciseInformation,,,0.0,0.0
+Ravn's korrax,NonERC20,,,0.0,0.0
+Rchain (presale),NoMatch,,,0.0,0.0
+Real,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Real property token,DistributorsHardtoIdentify,,,0.0,0.0
+Reales coin,NoTokenTransfer,,,0.0,0.0
+Realista,NoTokenTransfer,,,0.0,0.0
+Realisto,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Reality clash,OK,0xd18d973c6bbea7b9a8b66cf9e460e8c21446451a,,0.0,0.0
+Realt,OK,0x28d9b4bc3070bd8f05b6ef27810b3cbc13bd186a,,0.0,0.0
+Realty crypto investment,NoMatch,,,0.0,0.0
+Realtycoin,OK,0x4d489874546e9e0568e586617abe0bbf5180c0ca,,0.0,0.0
+Reanimator,DistributorsHardtoIdentify,,,0.0,0.0
+Rebglo,OK,,,0.0,0.0
+Rebons,NoTokenTransfer,,,0.0,0.0
+Reborn bloc (preico),NoMatch,,,0.0,0.0
+Receiptcoin,DistributorsHardtoIdentify,,,0.0,0.0
+Record foundation,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Records keeper,NonERC20,,,0.0,0.0
+Red cat,transfer after ending,,,0.0,0.0
+Red lanterns,OK,0x0aca2111298d264a07ee1903ee0a18c7ea54fc3a,,0.0,0.0
+Redbux,transfer after ending,,,0.0,0.0
+Redcab,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Redchain,OK,0x9ab526794e1e6000381d53a592d303431f2d2a3b,,0.0,0.0
+Redfund (preico),NoMatch,,,0.0,0.0
+Refereum,NeedtoDownload,,,0.0,0.0
+Reftoken,OK,0x16bde4ff2db3c040b3ac7868b97ba067dde2b834,,0.0,0.0
+Refugecoin,OK,0x2946a42a03a2827a4a036f1b3dbaf9fec30a3f6e,,0.0,0.0
+Rega,OK,0x0a860fbdbb2a9acb0fe1d7c7da1b35c2cf1be751,,0.0,0.0
+Rego,transfer after ending,,,0.0,0.0
+Relest,OK,0x99df2e180976354a253422bc273c04426325ad5e,,0.0,0.0
+Remco,,,,0.0,0.0
+Remechain,transfer after ending,,,0.0,0.0
+Remiit,transfer after ending,,,0.0,0.0
+Remme,NeedtoDownload,,,0.0,0.0
+Remoneta,NoTokenTransfer,,,0.0,0.0
+Renaissance engineering,NonERC20,,,0.0,0.0
+Render it coin,OK,0xd17895a18cdbc7d16bda2db05634f5185124389d,,0.0,0.0
+Render payment,OK,0x7ce81c404bd76fa8f84c832ee84cd529781855b8,,0.0,0.0
+Rentaway,NoMatch,,,0.0,0.0
+Rentberry,NeedtoDownload,,,0.0,0.0
+Rento,OK,0x54a4654f625f7b760ecbac5a640b8b916ee1a0ea,,0.0,0.0
+Reo,NoMatch,,,0.0,0.0
+Reorder,NoMatch,,,0.0,0.0
+Reportercommunity,NeedtoDownload,,,0.0,0.0
+Reposalnetwork,NoTokenTransfer,,,0.0,0.0
+Repu,NoTokenTransfer,,,0.0,0.0
+Repux,NeedtoDownload,,,0.0,0.0
+Request network,OK,0x97208bf5dc25e6fd4719cfc2a3c1d1a59a974c3b,,0.0,0.0
+Requitix,NeedtoDownload,,,0.0,0.0
+Restart energy,NeedtoDownload,,,0.0,0.0
+Resto,OK,0x4ce10cf465d2b56dbf5cc0087eddc06bcf60670b,,0.0,0.0
+Ret,NoTokenTransfer,,,0.0,0.0
+Retail coin,transfer after ending,,,0.0,0.0
+Retail.global (preico),NoTokenTransfer,,,0.0,0.0
+Rethen,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Retn,DistributorsHardtoIdentify,,,0.0,0.0
+Revain,OK,0xe10ce89f260de9781cf944ce11662d51660769ad,,0.0,0.0
+Revenyou,NoMatch,,,0.0,0.0
+Revoil,NoTokenTransfer,,,0.0,0.0
+Revv coin,NoTokenTransfer,,,0.0,0.0
+Rex,DistributorsHardtoIdentify,,,0.0,0.0
+Rhea,NoTokenTransfer,,,0.0,0.0
+Rhizome,NoTokenTransfer,,,0.0,0.0
+Rhovit,NoTokenTransfer,,,0.0,0.0
+Rialto.ai,OK,0xe49b91d0a956356501fcbbad3b488ee052102aa8,,1.0,1.0
+Rider token,NoMatch,,,0.0,0.0
+Ripaex,NonERC20,,,0.0,0.0
+Ripio credit network,DistributorsHardtoIdentify,,,0.0,0.0
+Ripplecash,,,,0.0,0.0
+Riptide coin,DistributorsHardtoIdentify,,,0.0,0.0
+Rise housing,NoTokenTransfer,,,0.0,0.0
+Rivetz,OK,0x23c5f33eedd5deb772dc14c1283b436f923326a9,,0.0,0.0
+Rix,NoMatch,,,0.0,0.0
+Robo advisor coin,DistributorsHardtoIdentify,,,0.0,0.0
+Robocalls,transfer after ending,,,0.0,0.0
+Robomed network,OK,0x6542393623db0d7f27fded83e6fedbd767bff9b4,,2.0,0.0
+Robot trading,NoTokenTransfer,,,0.0,0.0
+Robotina,transfer after ending,,,0.0,0.0
+Roburst network,NonERC20,,,0.0,0.0
+Roc2,,,,0.0,0.0
+Rocati,NoMatch,,,0.0,0.0
+Rockchain,NoTokenTransfer,,,0.0,0.0
+Rocket ico,NoTokenTransfer,,,0.0,0.0
+Rocket pool,DistributorsHardtoIdentify,,,0.0,0.0
+Rolecoin,NonERC20,,,0.0,0.0
+Rom,transfer after ending,,,0.0,0.0
+Ronaldinho soccer coin,NonERC20,,,0.0,0.0
+Roomdao,DistributorsHardtoIdentify,,,0.0,0.0
+Root blockchain,OK,0x2877e0b0e54280dcdda357784c931f4a9b48106d,,0.0,0.0
+Roscacoin,transfer after ending,,,0.0,0.0
+Rotharium,DistributorsHardtoIdentify,,,0.0,0.0
+Rothscoin,NoTokenTransfer,,,0.0,0.0
+Rouge,transfer after ending,,,0.0,0.0
+Royal kingdom coin,NeedtoDownload,,,0.0,0.0
+Royal sting,,,,0.0,0.0
+Rubius,transfer after ending,,,0.0,0.0
+Rublix,NeedtoDownload,,,0.0,0.0
+Rucoin,NoMatch,,,0.0,0.0
+Rudrcoin,NonERC20,,,0.0,0.0
+Ruscoin,,,,0.0,0.0
+Rusgas,DistributorsHardtoIdentify,,,0.0,0.0
+Rxeal,transfer after ending,,,0.0,0.0
+Ryptox,NoTokenTransfer,,,0.0,0.0
+S-coin,NoTokenTransfer,,,0.0,0.0
+Saascoin,NonERC20,,,0.0,0.0
+Saavcoin,OK,0x2729d694154e35efeb3c535639c33f3ad38e0a38,,0.0,0.0
+Safe haven,NoTokenTransfer,,,0.0,0.0
+Safe.ad,NoMatch,,,0.0,0.0
+Safecrypt,transfer after ending,,,0.0,0.0
+Safekeet,transfer after ending,,,0.0,0.0
+Safestart,ICODateSeemsWrong,,,0.0,0.0
+Safinus,NoMatch,,,0.0,0.0
+Sahara chain,NoTokenTransfer,,,0.0,0.0
+Saifu,transfer after ending,,,0.0,0.0
+Saiterm,,,,0.0,0.0
+Saleshustler,NoTokenTransfer,,,0.0,0.0
+Samfins,OK,0xd699460bfb643fc09acb815900ac24caafff8975,,0.0,0.0
+Samy,NoMatch,,,0.0,0.0
+Sancoj,transfer after ending,,,0.0,0.0
+Sandblock,transfer after ending,,,0.0,0.0
+Sandcoin,DistributorsHardtoIdentify,,,0.0,0.0
+Sansox,NonERC20,,,0.0,0.0
+Santiment,DistributorsHardtoIdentify,,,0.0,0.0
+Sapien,transfer after ending,,,0.0,0.0
+Satoshi brewery,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Saturn network,OK,0xbb9303164bf36d92dddb805f267463d9688fe472,,0.0,0.0
+Savage,DistributorsHardtoIdentify,,,0.0,0.0
+Save environment token,transfer after ending,,,0.0,0.0
+Save token,NeedtoDownload,,,0.0,0.0
+Savedroid,NeedtoDownload,,,0.0,0.0
+Sbc platform,OK,0x0f0bee862feca0e64a13e1de5efafd2bf496519a,,2.0,0.0
+Sbinvestitions,NoMatch,,,0.0,0.0
+Scam ico killer,NoTokenTransfer,,,0.0,0.0
+Scanetchain,transfer after ending,,,0.0,0.0
+Scicoins,NoTokenTransfer,,,0.0,0.0
+Science blockchain,OK,0x31b36e29bc874b5e26e9ce74c7e887c8432ae3a5,,0.0,0.0
+Scopuly,,,,0.0,0.0
+Scout token,NoTokenTransfer,,,0.0,0.0
+Scrinium,OK,0xf397a8228e21c91a52fa88c99eefc485ca689a3d,,0.0,0.0
+Scriptdrop,NoTokenTransfer,,,0.0,0.0
+Scroll token,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Seal,,,,0.0,0.0
+Secure donation token,NoMatch,,,0.0,0.0
+Securitypluscloud,DistributorsHardtoIdentify,,,0.0,0.0
+Securix (preico),NoMatch,,,0.0,0.0
+Securosys,transfer after ending,,,0.0,0.0
+Selfkey,OK,0x925ea5af075bde17811e4bcdc198dc5d3675e466,,0.0,0.0
+Selfllery,IncompleteInformation,,,0.0,0.0
+Selfpay,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Selfsell,NoMatch,,,0.0,0.0
+Sense,DistributorsHardtoIdentify,,,0.0,0.0
+Sentinel chain,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Sentinel protocol,transfer after ending,,,0.0,0.0
+Seratio,DistributorsHardtoIdentify,,,0.0,0.0
+Serenity,DistributorsHardtoIdentify,,,0.0,0.0
+Setcoin,NonERC20,,,0.0,0.0
+Sether,NeedtoDownload,,,0.0,0.0
+Seylan,NoMatch,,,0.0,0.0
+Sga consulting,NeedtoDownload,,,0.0,0.0
+Sgpay,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Shamrock,OK,0x92d01e9128878aeca1db66695b22e420ccf27712,,0.0,0.0
+Shard,NonERC20,,,0.0,0.0
+Sharder protocol,OK,0x29289d68091f2060d28d91d022dbb11f1f90913c,,0.0,0.0
+Share estate,NoMatch,,,0.0,0.0
+Sharering,OK,0x0000000000000000000000000000000000000001,,0.0,0.0
+Sharpay,transfer after ending,,,0.0,0.0
+Sharpe capital,NeedtoDownload,,,0.0,0.0
+Shift.cash,OK,0x2eae96e6bf99565c9d8ce978b24c3fc3b552dc7b,,0.0,0.0
+Shinecoin,OK,0x26fe5848cf08a00936bfbdaec890da57c6e59ed6,,0.0,0.0
+Shipnext,NoMatch,,,0.0,0.0
+Shipowner.io,OK,0xd6860e7e55dbd737ce7c1876311136416e9cf924,,0.0,0.0
+Shivers,DistributorsHardtoIdentify,,,0.0,0.0
+Shop protocol,NoMatch,,,0.0,0.0
+Shopcorn,NeedtoDownload,,,0.0,0.0
+Shopiblock,NoTokenTransfer,,,0.0,0.0
+Shopin,transfer after ending,,,0.0,0.0
+Showmebiz,NoMatch,,,0.0,0.0
+Shping,OK,0xb2242f32aa8751d1a754e5ccd8eee904cd21c915,,0.0,0.0
+Sidera (preico),OK,0x3b09e1c048961566c700c0da407a142ea29d50a6,,0.0,0.0
+Signal,NonERC20,,,0.0,0.0
+Signals,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Silent notary,OK,0x00b43d3faa03fa867d0da9dd5907c785b47d5dfa,,0.0,0.0
+Silk road mining,,,,0.0,0.0
+Silkchain,NoTokenTransfer,,,0.0,0.0
+Silkos,OK,0x9c0932f0bbd3fa2710678361f34da6c405c6cb69,,0.0,0.0
+Silvarcoin,transfer after ending,,,0.0,0.0
+Silvertoken,NoTokenTransfer,,,0.0,0.0
+Simple token,OK,0x58b7056deb51ed292614f0da1e94e7e9c589828d,,0.0,0.0
+Simply vital health,NoTokenTransfer,,,0.0,0.0
+Sine,NoTokenTransfer,,,0.0,0.0
+Sinergia blockchain,NeedtoDownload,,,0.0,0.0
+Singulardtv,DistributorsHardtoIdentify,,,0.0,0.0
+Singularitynet,OK,0xc4aad17558fa95c8937d0856b2dad74c1a7a095f,,0.0,0.0
+Sint,NoMatch,,,0.0,0.0
+Sintez,NoMatch,,,0.0,0.0
+Sirin labs,NeedtoDownload,,,0.0,0.0
+Sisa,DistributorsHardtoIdentify,,,0.0,0.0
+Six.network,NonERC20,,,0.0,0.0
+Skara,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Skillchain,transfer after ending,,,0.0,0.0
+Skincoin,OK,0x422adcf787e49dd93ce10a583655c212e00d42ce,,0.0,0.0
+Skraps,OK,0xfdfe8b7ab6cf1bd1e3d14538ef40686296c42052,,0.0,0.0
+Skrilla,NeedtoDownload,,,0.0,0.0
+Skychain,NeedtoDownload,,,0.0,0.0
+Skye properties,NoTokenTransfer,,,0.0,0.0
+Skyfchain,ICODateSeemsWrong,,,0.0,0.0
+Skyhopecoin,NoMatch,,,0.0,0.0
+Skynavpro,,,,0.0,0.0
+Skytale,NonERC20,,,0.0,0.0
+Skyway,NoMatch,,,0.0,0.0
+Slate,NonERC20,,,0.0,0.0
+Sleecoin,OK,0x7fc2c09d688dd05f584216cfd784b2bfe06bf44e,,0.0,0.0
+Slt,NoMatch,,,0.0,0.0
+Smart city,OnlyPreICOTransactions,,,0.0,0.0
+Smart city eco,NonERC20,,,0.0,0.0
+Smart city enterprise,NoMatch,,,0.0,0.0
+Smart containers,transfer after ending,,,0.0,0.0
+Smart investment fund,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Smart league,NonERC20,,,0.0,0.0
+Smart little machine,NoMatch,,,0.0,0.0
+Smart trade coin,,,,0.0,0.0
+Smart trip platform,ComplexPatterns,,,0.0,0.0
+Smart valley,NoMatch,,,0.0,0.0
+Smart valor,,,,0.0,0.0
+Smartbillions,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Smartcity,NoTokenTransfer,,,0.0,0.0
+Smartcontractchain,NoMatch,,,0.0,0.0
+Smarter than crypto,NoMatch,,,0.0,0.0
+Smartgenie.io,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Smartgold,NonERC20,,,0.0,0.0
+Smarthealthcare,NoTokenTransfer,,,0.0,0.0
+Smartinsurprotocol,NoTokenTransfer,,,0.0,0.0
+Smartmesh,OK,0xd73a2582138a9d634eb8c06a1de4fc0ec1113f88,,0.0,0.0
+Smarto,NoMatch,,,0.0,0.0
+Smartone,NoTokenTransfer,,,0.0,0.0
+Smartrealty,DistributorsHardtoIdentify,,,0.0,0.0
+Smartrefer,NoTokenTransfer,,,0.0,0.0
+Smhc coin,NonERC20,,,0.0,0.0
+Smoke,NonERC20,,,0.0,0.0
+Smoke exchange,NoTokenTransfer,,,0.0,0.0
+Smschain,NoTokenTransfer,,,0.0,0.0
+Snagride,OK,0x0027b00f654c11ff18231f34b2d2169852669523,,1.0,1.0
+Snapparazzi,transfer after ending,,,0.0,0.0
+Snapup,NoTokenTransfer,,,0.0,0.0
+Snbl,DistributorsHardtoIdentify,,,0.0,0.0
+Snip,OK,0xb4ad56e564aab5409fe8e34637c33a6d3f2a0038,,7.0,0.0
+Snovian.space,OK,0xdae3f1d824127754aca9eb5e5bfbac22d8a04a52,,1.0,0.0
+Snovio,OK,0xdae3f1d824127754aca9eb5e5bfbac22d8a04a52,,0.0,0.0
+Snowdencoin,NoTokenTransfer,,,0.0,0.0
+Social,OK,0x582e3d8dcd41f586fbcc6559f16476d20b2a3b95,,0.0,0.0
+Social media income,NeedtoDownload,,,0.0,0.0
+Social wallet,NonERC20,,,0.0,0.0
+Sociall,OK,0x582e3d8dcd41f586fbcc6559f16476d20b2a3b95,,0.0,0.0
+Socialmedia.market,NoTokenTransfer,,,0.0,0.0
+Socialx,OK,0xbd59ed7c40f4df71d4638ea192411edc2c925a1b,,0.0,0.0
+Socratescoin,NoTokenTransfer,,,0.0,0.0
+Sola,NeedtoDownload,,,0.0,0.0
+Solar dao,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Solidified,NoTokenTransfer,,,0.0,0.0
+Solomon exchange,OK,0xd7dc42b78b5ca37ff5493598d5b6978dc98c3b38,,0.0,0.0
+Soma,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Sonder,transfer after ending,,,0.0,0.0
+Sonic,NoTokenTransfer,,,0.0,0.0
+Sonm,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Sophiatx,OK,0x54b7dbbf19d4b907738a7f235919d03d7aa86d5a,,0.0,0.0
+Sorbase,NoMatch,,,0.0,0.0
+Sorgin,NonERC20,,,0.0,0.0
+Sosr,DistributorsHardtoIdentify,,,0.0,0.0
+Sound legends,OK,0x4e3039399e04a0fb6c69c7b982034575e59e5753,,0.0,0.0
+Sp8de,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Spaceico,NeedtoDownload,,,0.0,0.0
+Spacoin,NeedtoDownload,,,0.0,0.0
+Spade coin (preico),NonERC20,,,0.0,0.0
+Spankchain,OK,0xa7f00de671ebeb1b04c19a00842ff1d980847f0b,,12.0,0.0
+Sparc,DistributorsHardtoIdentify,,,0.0,0.0
+Sparklecoin,transfer after ending,,,0.0,0.0
+Sparkster,NoMatch,,,0.0,0.0
+Spectiv,NoTokenTransfer,,,0.0,0.0
+Spectre,NeedtoDownload,,,0.0,0.0
+Speed mining service,NeedtoDownload,,,0.0,0.0
+Sphere social,OK,0xc56b13ebbcffa67cfb7979b900b736b3fb480d78,,0.0,0.0
+Spheris,NoTokenTransfer,,,0.0,0.0
+Sphinx coin,transfer after ending,,,0.0,0.0
+Sphre air,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Spice,NeedtoDownload,,,0.0,0.0
+Spindle,,,,0.0,0.0
+Sportco,NoMatch,,,0.0,0.0
+Sportcy,NoTokenTransfer,,,0.0,0.0
+Sportie,DistributorsHardtoIdentify,,,0.0,0.0
+Sportyco,NeedtoDownload,,,0.0,0.0
+Sportyfi,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Spotcoin,NonERC20,,,0.0,0.0
+Sprintx,NoMatch,,,0.0,0.0
+Spryone,NoTokenTransfer,,,0.0,0.0
+Squarex,NoTokenTransfer,,,0.0,0.0
+Squeezer,ICODateSeemsWrong,,,0.0,0.0
+Srcoin,DistributorsHardtoIdentify,,,0.0,0.0
+Srg,OK,0x3b98a3904e65b735d1dac3fcf92d0db62a154d08,,0.0,0.0
+Ssot health foundation,NoTokenTransfer,,,0.0,0.0
+Stabilise,NoTokenTransfer,,,0.0,0.0
+Stabix,NoTokenTransfer,,,0.0,0.0
+Stable,NoTokenTransfer,,,0.0,0.0
+Stampify,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Star bit ex,,,,0.0,0.0
+Staramba,DistributorsHardtoIdentify,,,0.0,0.0
+Starbase,OK,0x54c548703c6f423cf7ed22806b608d332fcebb3b,,0.0,0.0
+Starcappays,NoMatch,,,0.0,0.0
+Starflow,NoMatch,,,0.0,0.0
+Starlightcoin,NonERC20,,,0.0,0.0
+Starmine,NeedtoDownload,,,0.0,0.0
+Start waves,NoTokenTransfer,,,0.0,0.0
+Startaround,NoTokenTransfer,,,0.0,0.0
+Startions,NoTokenTransfer,,,0.0,0.0
+Startmining,NeedtoDownload,,,0.0,0.0
+Stash,transfer after ending,,,0.0,0.0
+Stasyq,OK,0xfcedce553f6032462740f4e116a81ffe7f92d2b9,,0.0,0.0
+Status,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Stay,NoMatch,,,0.0,0.0
+Stayawhile,NoTokenTransfer,,,0.0,0.0
+Stealth project,OK,0x41370e8b0d3a7bccab3779e0100c3c1b8a5e7a14,,0.0,0.0
+Stelcoin,OK,0x24242d358af6a16f534636afb199ab40f57c15aa,,0.0,0.0
+Stellargoldcoin,DistributorsHardtoIdentify,,,0.0,0.0
+Stem cell,transfer after ending,,,0.0,0.0
+Stex,NeedtoDownload,,,0.0,0.0
+Stk,OK,0x89c952fbcde403cecdbb13b794dfe374ade40a7f,,0.0,0.0
+Stoby,NoMatch,,,0.0,0.0
+Stockbet,NoTokenTransfer,,,0.0,0.0
+Stockblock,OK,0x4fc1ec9cd67be1a99aadb2cbc650df21d2bdd138,,2.0,0.0
+Stockchain,OK,0x86533cbadca5dc23210531f73700a0fee688f0fc,,0.0,0.0
+Stocks.bet,NoTokenTransfer,,,0.0,0.0
+Stonecoin,NoTokenTransfer,,,0.0,0.0
+Stopthefakes,OK,0x0d23e5bcef273d2c98a8b8ef3bfa11b22e6726db,,0.0,0.0
+Storiqa,NeedtoDownload,,,0.0,0.0
+Storj,OK,0xf3d1f26b31db83c8899626746d0bbc59d9dd223c,,0.0,0.0
+Storm,OK,0xc88c7e1aebd89187d13bd42e1ff814d32f492bf6,,0.0,0.0
+Stow it token,NoTokenTransfer,,,0.0,0.0
+Stox,OK,0x006bea43baa3f7a6f765f14f10a1a1b08334ef45,,0.0,0.0
+Stream41,NoMatch,,,0.0,0.0
+Streamity,transfer after ending,,,0.0,0.0
+Streamr,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Strykz,NoTokenTransfer,,,0.0,0.0
+Stubba,NoTokenTransfer,,,0.0,0.0
+Stuffgogo,NoTokenTransfer,,,0.0,0.0
+Styras,NeedtoDownload,,,0.0,0.0
+Suapp,NoTokenTransfer,,,0.0,0.0
+Subaj global network,transfer after ending,,,0.0,0.0
+Substratum,OK,0xaf518d65f84e4695a4da0450ec02c1248f56b668,,1.0,885430.0
+Successlife,NonERC20,,,0.0,0.0
+Suchapp,NoMatch,,,0.0,0.0
+Sudan gold coin,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Suncontract,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Sunmoney,DistributorsHardtoIdentify,,,0.0,0.0
+Sunmultiwallet,NeedtoDownload,,,0.0,0.0
+Sunxcoin,DistributorsHardtoIdentify,,,0.0,0.0
+Super ethereum,transfer after ending,,,0.0,0.0
+Superbloom,NoTokenTransfer,,,0.0,0.0
+Superdao,NeedtoDownload,,,0.0,0.0
+Superfruit,NoMatch,,,0.0,0.0
+Superium,NoTokenTransfer,,,0.0,0.0
+Superpay.vip,NoTokenTransfer,,,0.0,0.0
+Supload,NoMatch,,,0.0,0.0
+Support chain,NoMatch,,,0.0,0.0
+Supportmarket,NoMatch,,,0.0,0.0
+Sur-ple,NoTokenTransfer,,,0.0,0.0
+Suretly,OK,0xa1f138da4168c5f6597f5c3dc985d147afb531bc,,1.0,27.0
+Surety.ai,transfer after ending,,,0.0,0.0
+Surrus,NoTokenTransfer,,,0.0,0.0
+Surveychain,NoTokenTransfer,,,0.0,0.0
+Svper,NoMatch,,,0.0,0.0
+Swachhcoin,DistributorsHardtoIdentify,,,0.0,0.0
+Swapy network,NoMatch,,,0.0,0.0
+Swarm fund,NeedtoDownload,,,0.0,0.0
+Sweetbridge,ICODateSeemsWrong,,,0.0,0.0
+Swiss alps mining,NoMatch,,,0.0,0.0
+Swissborg,OK,0xbce77d679864e792b5ec5ae3dd3fe360cc5c75c0,,0.0,0.0
+Swisstok,NoTokenTransfer,,,0.0,0.0
+Switcoin,NoMatch,,,0.0,0.0
+Sword coin,NoMatch,,,0.0,0.0
+Swx coin,NoMatch,,,0.0,0.0
+Swytch,NonERC20,,,0.0,0.0
+Sylo,NoMatch,,,0.0,0.0
+Symmetry fund,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Synapse,NoTokenTransfer,,,0.0,0.0
+Syncfab,NeedtoDownload,,,0.0,0.0
+Synchrolife,NoTokenTransfer,,,0.0,0.0
+Synco,transfer after ending,,,0.0,0.0
+Synexcoin,transfer after ending,,,0.0,0.0
+Syntera,transfer after ending,,,0.0,0.0
+Synth,NoMatch,,,0.0,0.0
+Synthestech,transfer after ending,,,0.0,0.0
+Synthetics ai,NeedtoDownload,,,0.0,0.0
+Synthium health,NeedtoDownload,,,0.0,0.0
+T8coin,DistributorsHardtoIdentify,,,0.0,0.0
+T8ex,NeedtoDownload,,,0.0,0.0
+Taas,OK,0x94917caf0cb1131345911874a2ceaf6ae2e8ee0f,,0.0,0.0
+Tag world exchange,NoMatch,,,0.0,0.0
+Take profit,NeedtoDownload,,,0.0,0.0
+Taklimakan network,NeedtoDownload,,,0.0,0.0
+Talao,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Talenter,NoMatch,,,0.0,0.0
+Talentsnap (preico),NoMatch,,,0.0,0.0
+Talketh,OK,0xc939a54f50542d7189cfc065ca51ca427127c7be,,6.0,182.0
+Tap project,NeedtoDownload,,,0.0,0.0
+Target coin,OK,0xe9e1e3414800886d5210a3f726947387f662ba2a,,0.0,0.0
+Taskfair,NeedtoDownload,,,0.0,0.0
+Tatatu,,,,0.0,0.0
+Taucoin,,,,0.0,0.0
+Taurus0x,DistributorsHardtoIdentify,,,0.0,0.0
+Tavitt,transfer after ending,,,0.0,0.0
+Taxicash,NoMatch,,,0.0,0.0
+Taylor,NeedtoDownload,,,0.0,0.0
+Te-food,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Teamcoin,OK,0xdfdaccae897b008f814225dc67aaca3ab41250a7,,3.0,0.0
+Techbench,NoTokenTransfer,,,0.0,0.0
+Techspecs,NoTokenTransfer,,,0.0,0.0
+Tedchain,NoMatch,,,0.0,0.0
+Teky,NeedtoDownload,,,0.0,0.0
+Telcoin,NeedtoDownload,,,0.0,0.0
+Teledactyl,NonERC20,,,0.0,0.0
+Telegraf money,NoMatch,,,0.0,0.0
+Telluria,OK,0xef27444141b13c9a9e4f0505de0c0e749f2b84fd,,0.0,0.0
+Temco,NonERC20,,,0.0,0.0
+Tempow (preico),NoMatch,,,0.0,0.0
+Tend,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Tensorbox,NoTokenTransfer,,,0.0,0.0
+Tenx,DistributorsHardtoIdentify,,,0.0,0.0
+Ternio,NonERC20,,,0.0,0.0
+Terraminer,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Tesoro,NoMatch,,,0.0,0.0
+Tettix,OK,0xd77fc35cc9007557dcd18bfe26fe66f1ea3a0e7f,,0.0,0.0
+Tewtew,NoTokenTransfer,,,0.0,0.0
+Tgic,NoMatch,,,0.0,0.0
+Thai club coin,NonERC20,,,0.0,0.0
+The 4th pillar (preico),NoMatch,,,0.0,0.0
+The abyss,AlreadyinPreviousFile,,,0.0,0.0
+The bee token,NeedtoDownload,,,0.0,0.0
+The deal coin,transfer after ending,,,0.0,0.0
+The digital reserve,NonERC20,,,0.0,0.0
+The divi project,DistributorsHardtoIdentify,,,0.0,0.0
+The freedom coin,NonERC20,,,0.0,0.0
+The globetoken project,NonERC20,,,0.0,0.0
+The government network,transfer after ending,,,0.0,0.0
+The island,NoMatch,,,0.0,0.0
+The magnus collective,OK,0x0f4cafdce3737601c598bcfd4bbd69f75786ba40,,0.0,0.0
+The main global bank,NoMatch,,,0.0,0.0
+The man cave project,NonERC20,,,0.0,0.0
+The number one dime,NeedtoDownload,,,0.0,0.0
+The quantum resistant ledger,DistributorsHardtoIdentify,,,0.0,0.0
+The rentals token (preico),NoMatch,,,0.0,0.0
+The sun exchange,NoTokenTransfer,,,0.0,0.0
+The uxm,OK,,,0.0,0.0
+The veris foundation,NonERC20,,,0.0,0.0
+Thefandome,NoMatch,,,0.0,0.0
+Themis,DistributorsHardtoIdentify,,,0.0,0.0
+Theta network,NeedtoDownload,,,0.0,0.0
+Theworldnews,NoTokenTransfer,,,0.0,0.0
+Thinkcoin,NoMatch,,,0.0,0.0
+Thor,NonERC20,,,0.0,0.0
+Thorchain,,,,0.0,0.0
+Thorentium,NoTokenTransfer,,,0.0,0.0
+Thought,NonERC20,,,0.0,0.0
+Thrill,NoTokenTransfer,,,0.0,0.0
+Thrintel market,NoTokenTransfer,,,0.0,0.0
+Thrive,transfer after ending,,,0.0,0.0
+Tibrix,OK,0xcf942d5c3fe773b38233714bf8174f637d8da2ca,,0.0,0.0
+Ticko,NoMatch,,,0.0,0.0
+Tierion,OK,0x3cd5cc3aa9ffdb7fb08520f55f9955022ab27cfc,,2.0,0.0
+Ties.network,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Tiger token,NoMatch,,,0.0,0.0
+Tigereum,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Tilx,NoTokenTransfer,,,0.0,0.0
+Timbercoin,NoTokenTransfer,,,0.0,0.0
+Time money (preico),NoMatch,,,0.0,0.0
+Time new bank,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Timebox,transfer after ending,,,0.0,0.0
+Tio tour guides,NoTokenTransfer,,,0.0,0.0
+Tip blockchain,NoMatch,,,0.0,0.0
+Tipbot (preico),NoMatch,,,0.0,0.0
+Tipper,transfer after ending,,,0.0,0.0
+Tita project (preico),NoMatch,,,0.0,0.0
+Titanium blockchain infrastructure services,NeedtoDownload,,,0.0,0.0
+Tixguru,transfer after ending,,,0.0,0.0
+Tlpac,OK,0x206b9d049cc521c93e90004bb2a1c24472a22f21,,30.0,3255.0
+Togacoin,,,,0.0,0.0
+Tok,NoMatch,,,0.0,0.0
+Tokedo,DistributorsHardtoIdentify,,,0.0,0.0
+Token changer,transfer after ending,,,0.0,0.0
+Token security scheme,DistributorsHardtoIdentify,,,0.0,0.0
+Tokenai,NoTokenTransfer,,,0.0,0.0
+Tokenaire (preico),NonERC20,,,0.0,0.0
+Tokenbacon,NonERC20,,,0.0,0.0
+Tokenbox,OK,0xfdccc92cf973594f2cdc36283d8bd284e49e0414,,0.0,0.0
+Tokencard,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Tokendesk,transfer after ending,,,0.0,0.0
+Tokeneo,DistributorsHardtoIdentify,,,0.0,0.0
+Tokengo,NoTokenTransfer,,,0.0,0.0
+Tokenize emblem,DistributorsHardtoIdentify,,,0.0,0.0
+Tokenlend,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Tokenloyalty,NonERC20,,,0.0,0.0
+Tokenomy,NeedtoDownload,,,0.0,0.0
+Tokens.net,DistributorsHardtoIdentify,,,0.0,0.0
+Tokenspeed,NonERC20,,,0.0,0.0
+Tokenstars ace,OK,0x06147110022b768ba8f99a8f385df11a151a9cc8,,0.0,0.0
+Tokenstars team,NeedtoDownload,,,0.0,0.0
+Tokia,NeedtoDownload,,,0.0,0.0
+Tokpie,DistributorsHardtoIdentify,,,0.0,0.0
+Tombola,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Tomocoin,NeedtoDownload,,,0.0,0.0
+Tontinetrust,NoTokenTransfer,,,0.0,0.0
+Topex,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Toplancer,NoTokenTransfer,,,0.0,0.0
+Torq,OK,0xdd876482d22dc165ef46e7b26eb49e90753ad1b0,,2.0,0.0
+Torus distributed energy platform,NeedtoDownload,,,0.0,0.0
+Tos,,,,0.0,0.0
+Totum,NoTokenTransfer,,,0.0,0.0
+Touchcon,NoMatch,,,0.0,0.0
+Touchtrader,NoTokenTransfer,,,0.0,0.0
+Tourcoin,NeedtoDownload,,,0.0,0.0
+Tourist review,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Traceto.io,transfer after ending,,,0.0,0.0
+Trackr,OK,0xa971afdca01bd1ca1499346e730a3d1dc06a3a9d,,0.0,0.0
+Tracoin,OK,0x750d67e1eb76118f57b3d07889567569fdcd8d9b,,0.0,0.0
+Trade.io,OK,0x86fe3c20379ac71ebbf8c0499b41fd2b457e4e9e,,0.0,0.0
+Tradebit,OK,0xc6a51b6088927d96338427800a832f204c48a6e9,,1.0,18.0
+Tradelize (preico),transfer after ending,,,0.0,0.0
+Trademindx,NoMatch,,,0.0,0.0
+Trademonk,NoTokenTransfer,,,0.0,0.0
+Trademycoin,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Tradeone (preico),transfer after ending,,,0.0,0.0
+Tradeplayz,NoTokenTransfer,,,0.0,0.0
+Tradershub,NeedtoDownload,,,0.0,0.0
+Traderstars,OK,0x909b194c56eb3ecf10f1f9faf5fc8e35b2de1f2d,,0.0,0.0
+Tradetex,OK,0x25704251647f29fff12ba9db7278d10e8dfed68b,,1.0,0.0
+Trading forest,NoTokenTransfer,,,0.0,0.0
+Tradingene,NonERC20,,,0.0,0.0
+Tradove,NoTokenTransfer,,,0.0,0.0
+Trafficx,NoTokenTransfer,,,0.0,0.0
+Trakinvest,ImpreciseInformation,,,0.0,0.0
+Transcodium,,,,0.0,0.0
+Translation service,,,,0.0,0.0
+Transmission,NeedtoDownload,,,0.0,0.0
+Travala,NonERC20,,,0.0,0.0
+Travelblock,transfer after ending,,,0.0,0.0
+Travelchain,OK,0x8cc8ed4674d80ee0fe17df365695e03e7f3713e1,,0.0,0.0
+Travelcoin,OK,0xe37c4541c34e4a8785daaa9aeb5005ddd29854ac,,2.0,0.0
+Travelkoin,NoMatch,,,0.0,0.0
+Travelnote,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Travelvee,,,,0.0,0.0
+Travvil,NoTokenTransfer,,,0.0,0.0
+Traxia,,,,0.0,0.0
+Trendit,NoTokenTransfer,,,0.0,0.0
+Trends project,NoMatch,,,0.0,0.0
+Trevi token,NoMatch,,,0.0,0.0
+Trial token,NoMatch,,,0.0,0.0
+Tribetoken,OK,0x728e2d16369d41bf19ad50233c62347f112814cf,,0.0,0.0
+Triforce tokens,NoMatch,,,0.0,0.0
+Triggmine,transfer after ending,,,0.0,0.0
+Trigid,NoMatch,,,0.0,0.0
+Trillhub,NoTokenTransfer,,,0.0,0.0
+Tripago,NoMatch,,,0.0,0.0
+Tripally,DistributorsHardtoIdentify,,,0.0,0.0
+Tripbit,OK,0x8825d2afae802e13fb3e5652b08cf09f5bc5c894,,0.0,0.0
+Trippki,NoTokenTransfer,,,0.0,0.0
+Tripterium t50,transfer after ending,,,0.0,0.0
+Trivver,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Triwer,transfer after ending,,,0.0,0.0
+Tru reputation network,NeedtoDownload,,,0.0,0.0
+True flip,OK,0x6049604960496049604960496049604960496049,,0.0,0.0
+True news,NoMatch,,,0.0,0.0
+True reply,OK,0xe908f167e74b4612c73e238d71b4760f902a5b90,,5.0,0.0
+Truedonate,OK,0xb56b023d377f288bad9a96e8c18b6abf79bf4b40,,0.0,0.0
+Truegame,transfer after ending,,,0.0,0.0
+Truegold,NoTokenTransfer,,,0.0,0.0
+Trufield,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Trustabit,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Trustbar,NonERC20,,,0.0,0.0
+Trustedcars flex (preico),transfer after ending,,,0.0,0.0
+Trustedhealth,transfer after ending,,,0.0,0.0
+Trustier,NoMatch,,,0.0,0.0
+Trustlogics (preico),NoMatch,,,0.0,0.0
+Trustverse,DistributorsHardtoIdentify,,,0.0,0.0
+Truwho,NonERC20,,,0.0,0.0
+Ttc protocol,transfer after ending,,,0.0,0.0
+Ttcoin,NonERC20,,,0.0,0.0
+Tubiex,,,,0.0,0.0
+Tubig blockchain,transfer after ending,,,0.0,0.0
+Tuk tuk pass,NoMatch,,,0.0,0.0
+Tunez,,,,0.0,0.0
+Turbotradecoin,NonERC20,,,0.0,0.0
+Tutellus,NonERC20,,,0.0,0.0
+Tv-two,OK,0x997577a9c9f9a96d7cc344b339c386b4e9b12aff,,0.0,0.0
+Twex,NoMatch,,,0.0,0.0
+Twixacoin,NoTokenTransfer,,,0.0,0.0
+Twogap,,,,0.0,0.0
+Tycooncoin,ICODateSeemsWrong,,,0.0,0.0
+Typerium,transfer after ending,,,0.0,0.0
+Tzero,ICODateSeemsWrong,,,0.0,0.0
+U.cash,NeedtoDownload,,,0.0,0.0
+Ubcoin market,OK,"0xdb58279c60c7641dabb015665db32372d031e55f,0x8dd9034f7ccc805bdc4d593a01f6a2e2eb94a67a",,0.0,0.0
+Ubex,DistributorsHardtoIdentify,,,0.0,0.0
+Ubiatarplay.io,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Uchit,NoTokenTransfer,,,0.0,0.0
+Ucmg,NoMatch,,,0.0,0.0
+Ucoin cash,NoTokenTransfer,,,0.0,0.0
+Udap,,,,0.0,0.0
+Udiar,NeedtoDownload,,,0.0,0.0
+Uhub,IncompleteInformation,,,0.0,0.0
+Ukit,transfer after ending,,,0.0,0.0
+Ulticoin,,,,0.0,0.0
+Ultrayolo,NoTokenTransfer,,,0.0,0.0
+Umbrella coin,NoTokenTransfer,,,0.0,0.0
+Umewin,NoMatch,,,0.0,0.0
+Unchainet,NoMatch,,,0.0,0.0
+Unero,NoMatch,,,0.0,0.0
+Unibright,OK,0xb7bb79bafc8bb11ce91376ab6c1bc93606934c0b,,0.0,0.0
+Unic advertising network,NoMatch,,,0.0,0.0
+Unicoin,NeedtoDownload,,,0.0,0.0
+Unifox,NonERC20,,,0.0,0.0
+Unikrn,OK,0x6e9ad99a34c4c1d467eff2db239951d885b67f10,,0.0,0.0
+Unilot,,,,0.0,0.0
+Union,NoTokenTransfer,,,0.0,0.0
+United traders,OK,0xb3e9a801d7ffa379a728602cba08f72b9714e5c3,,0.0,0.0
+Unity coin,NoTokenTransfer,,,0.0,0.0
+Unityco,NoTokenTransfer,,,0.0,0.0
+Universa,OK,0xef241834e9e89c03d4c17fe13ef03a55d7bbd099,,0.0,0.0
+Universal brand,NoTokenTransfer,,,0.0,0.0
+Unocryptocoin,,,,0.0,0.0
+Unolabo,transfer after ending,,,0.0,0.0
+Upfinex,NoTokenTransfer,,,0.0,0.0
+Upfiring,AlreadyinPreviousFile,,,0.0,0.0
+Upi,NoMatch,,,0.0,0.0
+Upline,NoTokenTransfer,,,0.0,0.0
+Uprightly,NoTokenTransfer,,,0.0,0.0
+Upthinity,NoMatch,,,0.0,0.0
+Uptoken,NoTokenTransfer,,,0.0,0.0
+Uquid,OK,0x776d4d1feed14ee47a46837b2b16624feda1fffc,,0.0,0.0
+Urallowance,DistributorsHardtoIdentify,,,0.0,0.0
+Usat (preico),NoMatch,,,0.0,0.0
+Usdx protocol,NeedtoDownload,,,0.0,0.0
+Usechain,transfer after ending,,,0.0,0.0
+Uservice,OK,0xaca6ce6c6b6752b3b36993fbf88545cc1a569b84,,0.0,0.0
+Utemis,OK,0x65e5eb855b7977544b63d808f453106f9e8c0100,,0.0,0.0
+Utix,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Utrum,NonERC20,,,0.0,0.0
+Utrust,OK,0x7c41e6d559641805539fbd3492caea57ca492ff7,,1.0,1.0
+Uunio,,,,0.0,0.0
+V-id,DistributorsHardtoIdentify,,,0.0,0.0
+Vacuum,NoTokenTransfer,,,0.0,0.0
+Valena-svcoin,transfer after ending,,,0.0,0.0
+Valhalla,NoTokenTransfer,,,0.0,0.0
+Valid,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Validcoin,NoTokenTransfer,,,0.0,0.0
+Valorem foundation,OK,0x004c670598c1900ea2fe32052c7ba153bb2d4c8e,,0.0,0.0
+Value coin,NoTokenTransfer,,,0.0,0.0
+Value ticket coin,NoMatch,,,0.0,0.0
+Valuecash,NoMatch,,,0.0,0.0
+Valus,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Vanillaplay,NoTokenTransfer,,,0.0,0.0
+Vantage token,DistributorsHardtoIdentify,,,0.0,0.0
+Vantum,NoTokenTransfer,,,0.0,0.0
+Vault12,transfer after ending,,,0.0,0.0
+Vaultbank,NoTokenTransfer,,,0.0,0.0
+Vector,NeedtoDownload,,,0.0,0.0
+Vectorspace (preico),NoTokenTransfer,,,0.0,0.0
+Vegawallet,transfer after ending,,,0.0,0.0
+Velix.id,ICODateSeemsWrong,,,0.0,0.0
+Velper,NeedtoDownload,,,0.0,0.0
+Vena network,NoMatch,,,0.0,0.0
+Vendex,NoMatch,,,0.0,0.0
+Vendicoins,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Ventana,OK,0xd6514387236595e080b97c8ead1cbf12f9a6ab65,,0.0,0.0
+Ventured network,NoTokenTransfer,,,0.0,0.0
+Venus,transfer after ending,,,0.0,0.0
+Vera cruz coin,NoMatch,,,0.0,0.0
+Verasity,transfer after ending,,,0.0,0.0
+Verdict,NoTokenTransfer,,,0.0,0.0
+Verif-y,NoTokenTransfer,,,0.0,0.0
+Verifier,NoTokenTransfer,,,0.0,0.0
+Verify,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Verifyunion,NoTokenTransfer,,,0.0,0.0
+Verime,AlreadyinPreviousFile,,,0.0,0.0
+Veritag,,,,0.0,0.0
+Veritas mining,NoTokenTransfer,,,0.0,0.0
+Veritaseum,OK,0x82c48875c17ee5812f909a9d75c0f64f7a8719fe,,7.0,0.0
+Vernam,DistributorsHardtoIdentify,,,0.0,0.0
+Versus red,,,,0.0,0.0
+Vertix,NonERC20,,,0.0,0.0
+Verto exchange token,NoTokenTransfer,,,0.0,0.0
+Vesa token,NoTokenTransfer,,,0.0,0.0
+Vestarin,OK,0xf52ab948fe5c7d0eb03efbf6c60f7112cbc8ea89,,0.0,0.0
+Vestopia,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Vetri,transfer after ending,,,0.0,0.0
+Vexanium,NonERC20,,,0.0,0.0
+Vezt,OK,0xa2448261e929f0c87b65145583b73b04f5e43755,,0.0,0.0
+Viabet,OK,0xbe8f09ab5b0dda98db12d39fd7e6e61ea4f5d21b,,0.0,0.0
+Vibehub,AlreadyinPreviousFile,,,0.0,0.0
+Vibeo,NoTokenTransfer,,,0.0,0.0
+Viberate,NeedtoDownload,,,0.0,0.0
+Viccoin,NoTokenTransfer,,,0.0,0.0
+Vice industry token,ImpreciseInformation,,,0.0,0.0
+Vicecoin,NoTokenTransfer,,,0.0,0.0
+Vicoin,NoTokenTransfer,,,0.0,0.0
+Victorieum,transfer after ending,,,0.0,0.0
+Victortokens,NoMatch,,,0.0,0.0
+Vidy,NoTokenTransfer,,,0.0,0.0
+Viewly,NeedtoDownload,,,0.0,0.0
+Vikky,transfer after ending,,,0.0,0.0
+Vimarket,NeedtoDownload,,,0.0,0.0
+Vinchain,DistributorsHardtoIdentify,,,0.0,0.0
+Vinnd.io,OK,0x13252139faec148b9ccddf07b17b90a91c05e8ec,,0.0,0.0
+Vio,NeedtoDownload,,,0.0,0.0
+Viola.ai,transfer after ending,,,0.0,0.0
+Vion,NoTransfer,,,0.0,0.0
+Vionex,NeedtoDownload,,,0.0,0.0
+Vipe,NoTokenTransfer,,,0.0,0.0
+Virtonomics,NeedtoDownload,,,0.0,0.0
+Virtual cash back,OK,0x67b9cc6bb053e7e1325d9b6ef6cc0b482f635a95,,15.0,3.0
+Virtual reality games,NoMatch,,,0.0,0.0
+Virtuse exchange,NoTokenTransfer,,,0.0,0.0
+Virtutv,NoTokenTransfer,,,0.0,0.0
+Virus,NoMatch,,,0.0,0.0
+Vista fintech,OK,0xc2d346915414047795418b16694ca0b3f01251a6,,0.0,0.0
+Vital,,,,0.0,0.0
+Vite,DistributorsHardtoIdentify,,,0.0,0.0
+Viuly,NeedtoDownload,,,0.0,0.0
+Viva network,transfer after ending,,,0.0,0.0
+Vixcore,NoTokenTransfer,,,0.0,0.0
+Vl coin,OK,0xdd889ea6a176cacfb6e35d2414952940eef3bdbd,,0.0,0.0
+Vlb,IncompleteInformation,,,0.0,0.0
+Voconetwork,OnlyPreICOTransactions,,,0.0,0.0
+Voise,NeedtoDownload,,,0.0,0.0
+Volair,transfer after ending,,,0.0,0.0
+Vooglue,transfer after ending,,,0.0,0.0
+Vote coin,NoMatch,,,0.0,0.0
+Votem,NoTokenTransfer,,,0.0,0.0
+Votes,DistributorsHardtoIdentify,,,0.0,0.0
+Voxxo,DistributorsHardtoIdentify,,,0.0,0.0
+Vr med,NoTokenTransfer,,,0.0,0.0
+Vr platform oko,OK,0xacf15669e91c7d5b110ca93ccf2e8235a082a796,,2.0,0.0
+Vrbtc,OK,0x370b39bf09bf40ca0c34fcc01e15ada4a1c88aaa,0x81faa69f8a7bdfcb2cbcc929ffc5c07c2c0e4953,0.0,0.0
+Vres,transfer after ending,,,0.0,0.0
+Vrexplosion,NoMatch,,,0.0,0.0
+Vrt,NoMatch,,,0.0,0.0
+Vtos,NoTokenTransfer,,,0.0,0.0
+Vu (preico),NoMatch,,,0.0,0.0
+Vuepay,NoTokenTransfer,,,0.0,0.0
+Vuulr,NoTokenTransfer,,,0.0,0.0
+Vyral,NeedtoDownload,,,0.0,0.0
+W green pay,transfer after ending,,,0.0,0.0
+W3coins,NoTokenTransfer,,,0.0,0.0
+Wabi,OK,0x286bda1413a2df81731d4930ce2f862a35a609fe,,0.0,0.0
+Wala financial platform,NoTokenTransfer,,,0.0,0.0
+Wall street coin,NoTokenTransfer,,,0.0,0.0
+Wallchain,NoMatch,,,0.0,0.0
+Waltix,NoTokenTransfer,,,0.0,0.0
+Wandx,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Wang token,transfer after ending,,,0.0,0.0
+War field,NoMatch,,,0.0,0.0
+Wardz,NoMatch,,,0.0,0.0
+Water to the world,NoMatch,,,0.0,0.0
+Watermelonblock,NonERC20,,,0.0,0.0
+Waves,NonERC20,,,0.0,0.0
+Wawllet,NoTokenTransfer,,,0.0,0.0
+Wcx,NoTokenTransfer,,,0.0,0.0
+Wealth migrate,transfer after ending,,,0.0,0.0
+Webercoin,,,,0.0,0.0
+Webn (preico),transfer after ending,,,0.0,0.0
+Webuy,NonERC20,,,0.0,0.0
+Weedo,NoMatch,,,0.0,0.0
+Weekend millionaires club,NeedtoDownload,,,0.0,0.0
+Weevocity,NoMatch,,,0.0,0.0
+Wegen,transfer after ending,,,0.0,0.0
+Well,transfer after ending,,,0.0,0.0
+Wellmee,NonERC20,,,0.0,0.0
+Welltrado,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Wemark,transfer after ending,,,0.0,0.0
+Wepower,NeedtoDownload,,,0.0,0.0
+Westrendcoin,ICODateSeemsWrong,,,0.0,0.0
+Wetrust,OK,0xcb657c0d074daced6ba36efdfc42bd8018b8dcca,,0.0,0.0
+Wha project,NoTokenTransfer,,,0.0,0.0
+Whalefund,transfer after ending,,,0.0,0.0
+Whalesburg,OK,0x8b8242ca04e571b3d03c85be81867cb9300306a6,,0.0,0.0
+Whenhub,NoTokenTransfer,,,0.0,0.0
+Whirl,,,,0.0,0.0
+Whisky token,,,,0.0,0.0
+White crypto city,NoTokenTransfer,,,0.0,0.0
+White rabbit,NeedtoDownload,,,0.0,0.0
+Whitestone coin,NoMatch,,,0.0,0.0
+Whizz coin,NeedtoDownload,,,0.0,0.0
+Whohas,NoTokenTransfer,,,0.0,0.0
+Whyral,NoTokenTransfer,,,0.0,0.0
+Wi-fi global,NoTokenTransfer,,,0.0,0.0
+Wic,DistributorsHardtoIdentify,,,0.0,0.0
+Wikibits,DistributorsHardtoIdentify,,,0.0,0.0
+Windenergymining,NoMatch,,,0.0,0.0
+Winding tree,NeedtoDownload,,,0.0,0.0
+Wings,DistributorsHardtoIdentify,,,0.0,0.0
+Winiota,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Winkpark,NoMatch,,,0.0,0.0
+Winminer,NonERC20,,,0.0,0.0
+Winnest,NoMatch,,,0.0,0.0
+Wire-x,NeedtoDownload,,,0.0,0.0
+Wireline,NoTokenTransfer,,,0.0,0.0
+Wisepass,transfer after ending,,,0.0,0.0
+Wiseplat,NeedtoDownload,,,0.0,0.0
+Wishcoin,NoTokenTransfer,,,0.0,0.0
+Wishfinance,NeedtoDownload,,,0.0,0.0
+Witcoin,OK,0x057afd5422524d5ca20218d07048300832323360,,0.0,0.0
+Wixlar coin ico,transfer after ending,,,0.0,0.0
+Wizebit,NonERC20,,,0.0,0.0
+Wizzle infinity,OK,0xce75e5aa182ee99ea1be60aa13b3f2eed172730e,,0.0,0.0
+Wmpro,NoTokenTransfer,,,0.0,0.0
+Wolfpackbot,,,,0.0,0.0
+Wolk,OK,0xf6b55acbbc49f4524aa48d19281a9a77c54de10f,,0.0,0.0
+Woodscoin,NoTokenTransfer,,,0.0,0.0
+Wordcoin,NeedtoDownload,,,0.0,0.0
+Workpress,NoTokenTransfer,,,0.0,0.0
+World peace coin,NoTokenTransfer,,,0.0,0.0
+World tourism,NeedtoDownload,,,0.0,0.0
+Worldcore,DistributorsHardtoIdentify,,,0.0,0.0
+Worldopo,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Worldwide asset exchange,DistributorsHardtoIdentify,,,0.0,0.0
+Worldwifi,NoMatch,,,0.0,0.0
+Wowoo,NoTokenTransfer,,,0.0,0.0
+Wrio,NoMatch,,,0.0,0.0
+Wto foundation,NoTokenTransfer,,,0.0,0.0
+Wyrify,NeedtoDownload,,,0.0,0.0
+Wysker,NoTokenTransfer,,,0.0,0.0
+X-power,NoTokenTransfer,,,0.0,0.0
+X8 project,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Xaos,NeedtoDownload,,,0.0,0.0
+Xaurum gamma,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Xbit,NoTokenTransfer,,,0.0,0.0
+Xbitcore,,,,0.0,0.0
+Xcelr,NonERC20,,,0.0,0.0
+Xchainge,NoTokenTransfer,0x0000000000000000000000000000000000000000,,0.0,0.0
+Xchangecoin,OK,0xa944ba43776707c44b7f80a67f2fd3d28543081a,,0.0,0.0
+Xchangerate,OK,0x95a3ef92b212c7e3ba66e513148a5cb77d84aea7,,0.0,0.0
+Xchng,CancelledICO,,,0.0,0.0
+Xcon,,,,0.0,0.0
+Xdac,NonERC20,,,0.0,0.0
+Xefocoin,NoMatch,,,0.0,0.0
+Xenchain,DistributorsHardtoIdentify,,,0.0,0.0
+Xenia lending coin,OK,0x4bb98d82fd0058e1ce97b71dc5c54b6d98c8c531,,0.0,0.0
+Xent chain,NonERC20,,,0.0,0.0
+Xentavo,NoTokenTransfer,,,0.0,0.0
+Xera,DistributorsHardtoIdentify,,,0.0,0.0
+Xfermoney,OK,0x531c85740180f906a6685e9f6fb8de9f994e5ef6,,0.0,0.0
+Xinfin,ImpreciseInformation,,,0.0,0.0
+Xinfin foundation,NeedtoDownload,,,0.0,0.0
+Xinfinity,NoMatch,,,0.0,0.0
+Xirkle,NoTokenTransfer,,,0.0,0.0
+Xiwatt,NoTokenTransfer,,,0.0,0.0
+Xmoneta,DistributorsHardtoIdentify,,,0.0,0.0
+Xmp,NoTokenTransfer,,,0.0,0.0
+Xred,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Xriba,OK,0xc1cf194c1449713bf811a93f4e1a6211c1713e34,,0.0,0.0
+Xronos,NoMatch,,,0.0,0.0
+Xrt,transfer after ending,,,0.0,0.0
+Xs2 exchange,OK,0x15c5312e24482547ff35899afedcaeb572ecb029,,35.0,0.0
+Xsolus,NoMatch,,,0.0,0.0
+Xtrd,transfer after ending,,,0.0,0.0
+Xtribe,NoTokenTransfer,,,0.0,0.0
+Xunilair,NoTokenTransfer,,,0.0,0.0
+Xwin cryptobet,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Xyo network,DistributorsHardtoIdentify,,,0.0,0.0
+Xzen,NeedtoDownload,,,0.0,0.0
+Yamzu (preico),NoMatch,,,0.0,0.0
+Yappadappadoo,NoMatch,,,0.0,0.0
+Yggdrash,OK,0x0000c72e03a01cd93b2b68b5e08b7bfd49182b3a,,0.0,0.0
+Yield coin,transfer after ending,,,0.0,0.0
+Yizoot,NoMatch,,,0.0,0.0
+Yobit,,,,0.0,0.0
+Yodse,OK,0xaf0e4382cb75b457da210e6c87b8ce7caba45cc0,,0.0,0.0
+Yohocube,NoTokenTransfer,,,0.0,0.0
+Yoo-mi,CancelledICO,,,0.0,0.0
+Yooping,OK,0x14fb3ead289dd6500a91f28131cd485906a75f74,,0.0,0.0
+Youra,NoTokenTransfer,,,0.0,0.0
+Youtoken,NonERC20,,,0.0,0.0
+Yoyow,DistributorsHardtoIdentify,,,0.0,0.0
+Ysign,OK,0xe1f6b5a460091c74f4970b704769bcaabeedc867,,0.0,0.0
+Yuan developers coin,NoMatch,,,0.0,0.0
+Yudi,NoTokenTransfer,,,0.0,0.0
+Yumerium,ICODateSeemsWrong,,,0.0,0.0
+Yunique,,,,0.0,0.0
+Yutu.coin,transfer after ending,,,0.0,0.0
+Zabercoin,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Zamanat,NoMatch,,,0.0,0.0
+Zantepay,transfer after ending,,,0.0,0.0
+Zap store,DistributorsHardtoIdentify,,,0.0,0.0
+Zapit,transfer after ending,,,0.0,0.0
+Zealeum,OK,0xf16b6bb718d08849cf8f5b09808b6a3f9af1d947,,0.0,0.0
+Zebi,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Zed,NonERC20,,,0.0,0.0
+Zeew,ICODateSeemsWrong,,,0.0,0.0
+Zenome,NeedtoDownload,,,0.0,0.0
+Zensports,NonERC20,,,0.0,0.0
+Zeon network,NonERC20,,,0.0,0.0
+Zeroedge.bet,NoMatch,,,0.0,0.0
+Zerostate,NoMatch,,,0.0,0.0
+Zerotraffic,OK,0xaf7aea249098f2c2f50cc11d4000ccf798194373,,0.0,0.0
+Zeto,NeedtoDownload,,,0.0,0.0
+Zeus,NeedtoDownload,,,0.0,0.0
+Ziggurat token,OK,0xe760a89967d8c7fa638eebfc15a77ba107674021,,0.0,0.0
+Zilla,NeedtoDownload,,,0.0,0.0
+Zipper,NeedtoDownload,,,0.0,0.0
+Zloadr,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Znaq,NoTokenTransfer,,,0.0,0.0
+Zodiaq,,,,0.0,0.0
+Zom,transfer after ending,,,0.0,0.0
+Zonex esports platform,NoTokenTransfer,,,0.0,0.0
+Zonto,NeedtoDownload,,,0.0,0.0
+Zorff,OK,0x0000000000000000000000000000000000000000,,0.0,0.0
+Zpay network,DistributorsHardtoIdentify,,,0.0,0.0
+Zper,transfer after ending,,,0.0,0.0
+Zue,DistributorsHardtoIdentify,,,0.0,0.0
+Zuflo,transfer after ending,,,0.0,0.0
+Zupply,transfer after ending,,,0.0,0.0
+Zxc exchange,NonERC20,,,0.0,0.0
