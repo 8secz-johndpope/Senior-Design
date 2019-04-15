@@ -1,0 +1,6 @@
+TEAM LEGITIMACY CHECK STATISTICS
+2074 of the 4152 (%49.95) teams of their associated whitepapers in the original databank were checked
+Mean Rating: 0.1272, Median Rating: 0.3381, Variance: 0.2945
+Number of team ratings indicating no suspicion: 1240 => %59.79 of all teams
+Number of team ratings indicating suspicion: 553 => %26.66 of all teams
+Number of indeterminate team ratings: 281 => %13.55 of all teams
